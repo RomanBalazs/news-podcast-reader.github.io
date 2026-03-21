@@ -1,43 +1,51 @@
 [
   {
-    "id": "the-verge-tech",
-    "type": "site",
-    "name": "The Verge",
-    "url": "https://www.theverge.com/tech",
-    "feedUrl": "",
-    "defaultCategory": "tech",
-    "fetchStrategy": "auto",
-    "scrape": {
-      "enabled": true,
-      "maxItems": 15,
-      "profile": "theverge"
-    },
-    "notes": "Tech hírek"
-  },
-  {
-    "id": "ign-youtube",
+    "id": "otherworldplus",
     "type": "youtube",
-    "name": "IGN YouTube",
-    "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+    "name": "@otherworldplus",
+    "url": "",
+    "feedUrl": "",
+    "channelId": "Omh4RhofYMCO5NQm",
+    "showId": "",
     "defaultCategory": "gaming",
     "fetchStrategy": "auto",
     "scrape": {
       "enabled": false,
-      "maxItems": 0,
+      "maxItems": 15,
       "profile": "auto"
     },
-    "notes": "YouTube gaming videók"
+    "notes": "YouTube link felismerve, de channel ID kézi megadása kellhet."
+  },
+  {
+    "id": "telex-hu",
+    "type": "site",
+    "name": "Telex",
+    "url": "https://telex.hu/rovat/belfold",
+    "feedUrl": "",
+    "channelId": "",
+    "showId": "",
+    "defaultCategory": "",
+    "fetchStrategy": "auto",
+    "scrape": {
+      "enabled": true,
+      "maxItems": 15,
+      "profile": "generic-article-list"
+    },
+    "notes": "Általános weboldal. A fetcher feed autodiscovery + scrape fallback módban fogja kezelni."
   },
   {
     "id": "spotify-hard-fork",
     "type": "spotify",
     "name": "Hard Fork",
+    "url": "",
+    "feedUrl": "",
+    "channelId": "",
     "showId": "0eB4K6lH1DqjY0nO4nqJwP",
     "defaultCategory": "tech",
     "fetchStrategy": "auto",
     "scrape": {
       "enabled": false,
-      "maxItems": 0,
+      "maxItems": 15,
       "profile": "auto"
     },
     "notes": "Spotify podcast példa"
