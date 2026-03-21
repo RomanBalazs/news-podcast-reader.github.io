@@ -1,57 +1,44 @@
 [
   {
-    "id": "Telex-Belföld",
-    "type": "site",
-    "name": "Telex-Belföld",
-    "url": "https://telex.hu/rovat/belfold",
-    "channelId": "",
-    "showId": "",
-    "defaultCategory": "politika",
-    "scrape": {
-      "enabled": true,
-      "maxItems": 15
-    },
-    "notes": ""
-  },
-  {
     "id": "the-verge-tech",
     "type": "site",
     "name": "The Verge",
     "url": "https://www.theverge.com/tech",
-    "channelId": "",
-    "showId": "",
+    "feedUrl": "",
     "defaultCategory": "tech",
+    "fetchStrategy": "auto",
     "scrape": {
       "enabled": true,
-      "maxItems": 15
+      "maxItems": 15,
+      "profile": "theverge"
     },
     "notes": "Tech hírek"
   },
   {
-    "id": "otherworldplusz",
+    "id": "ign-youtube",
     "type": "youtube",
-    "name": "Otherworld+",
-    "url": "",
-    "channelId": "OtherworldPlus",
-    "showId": "",
+    "name": "IGN YouTube",
+    "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
     "defaultCategory": "gaming",
+    "fetchStrategy": "auto",
     "scrape": {
       "enabled": false,
-      "maxItems": 15
+      "maxItems": 0,
+      "profile": "auto"
     },
-    "notes": "YouTube gaming podcast"
+    "notes": "YouTube gaming videók"
   },
   {
-    "id": "spotify-ai-show",
+    "id": "spotify-hard-fork",
     "type": "spotify",
     "name": "Hard Fork",
-    "url": "",
-    "channelId": "",
     "showId": "0eB4K6lH1DqjY0nO4nqJwP",
     "defaultCategory": "tech",
+    "fetchStrategy": "auto",
     "scrape": {
       "enabled": false,
-      "maxItems": 15
+      "maxItems": 0,
+      "profile": "auto"
     },
     "notes": "Spotify podcast példa"
   }
