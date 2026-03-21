@@ -1,5 +1,5 @@
 export function youtubeFeedUrlFromChannelId(channelId) {
-  return `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
+  return `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channelId)}`;
 }
 
 export function extractYouTubeVideoId(url) {
@@ -7,16 +7,15 @@ export function extractYouTubeVideoId(url) {
     const parsed = new URL(url);
 
     if (parsed.hostname.includes("youtube.com")) {
-      const value = parsed.searchParams.get("v");
-      if (value) return value;
+      return parsed.searchParams.get("v") || "";
     }
 
     if (parsed.hostname === "youtu.be") {
-      return parsed.pathname.replace(/^\//, "") || null;
+      return parsed.pathname.replace(/^\//, "");
     }
-  } catch {
-    return null;
-  }
 
-  return null;
+    return "";
+  } catch {
+    return "";
+  }
 }

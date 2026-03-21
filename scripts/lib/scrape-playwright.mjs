@@ -1,58 +1,53 @@
 import { chromium } from "playwright";
 
-function toSameOriginAbsolute(baseUrl, href) {
-  try {
-    const absolute = new URL(href, baseUrl);
-    const base = new URL(baseUrl);
-    if (absolute.origin !== base.origin) return null;
-    return absolute.toString();
-  } catch {
-    return null;
-  }
-}
-
 export async function scrapeListWithPlaywright({ pageUrl, maxItems = 15 }) {
   const browser = await chromium.launch({ headless: true });
 
   try {
-    const context = await browser.newContext({
-      userAgent: "unified-feed-mvp/0.1 (+github-actions)"
+    const page = await browser.newPage({
+      userAgent: "UnifiedFeedBot/0.2 (+GitHub Actions)",
+      viewport: { width: 1440, height: 1400 }
     });
-    const page = await context.newPage();
-    await page.goto(pageUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
 
-    const rawItems = await page.evaluate(() => {
+    await page.goto(pageUrl, {
+      waitUntil: "domcontentloaded",
+      timeout: 45000
+    });
+
+    await page.waitForTimeout(1800);
+
+    const items = await page.evaluate((limit) => {
       const anchors = Array.from(document.querySelectorAll("a[href]"));
+      const results = [];
+      const seen = new Set();
 
-      return anchors
-        .map((anchor) => {
-          const href = (anchor.getAttribute("href") || "").trim();
-          const text = (anchor.textContent || "").replace(/\s+/g, " ").trim();
-          const score =
-            (anchor.closest("article") ? 3 : 0) +
-            (/\/\d{4}\/\d{2}\//.test(href) ? 1 : 0) +
-            (text.length >= 20 && text.length <= 180 ? 1 : 0);
+      for (const anchor of anchors) {
+        const text = (anchor.textContent || "").replace(/\s+/g, " ").trim();
+        const href = anchor.href;
+        if (!text || text.length < 20 || !href) continue;
+        if (seen.has(href)) continue;
 
-          return { href, title: text, score };
-        })
-        .filter((item) => item.href && item.title && item.score >= 2)
-        .sort((a, b) => b.score - a.score)
-        .slice(0, 60);
-    });
+        const parent = anchor.closest("article, li, div, section") || anchor.parentElement;
+        const image = parent?.querySelector("img")?.src || null;
+        const summary = parent?.querySelector("p")?.textContent?.replace(/\s+/g, " ").trim() || null;
+        const timeValue = parent?.querySelector("time")?.getAttribute("datetime") || null;
 
-    const unique = [];
-    const seen = new Set();
+        seen.add(href);
+        results.push({
+          title: text,
+          url: href,
+          imageUrl: image,
+          summary,
+          publishedAt: timeValue
+        });
 
-    for (const item of rawItems) {
-      const absoluteUrl = toSameOriginAbsolute(pageUrl, item.href);
-      if (!absoluteUrl) continue;
-      if (seen.has(absoluteUrl)) continue;
-      seen.add(absoluteUrl);
-      unique.push({ url: absoluteUrl, title: item.title });
-      if (unique.length >= maxItems) break;
-    }
+        if (results.length >= limit) break;
+      }
 
-    return unique;
+      return results;
+    }, maxItems);
+
+    return items;
   } finally {
     await browser.close();
   }

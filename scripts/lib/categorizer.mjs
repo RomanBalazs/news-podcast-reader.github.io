@@ -1,21 +1,12 @@
-export function autoCategory(title, categoriesConfig) {
-  const normalizedTitle = String(title || "").toLowerCase();
-  let best = { id: "egyeb", score: 0 };
+export function autoCategory(text, categories) {
+  const input = String(text || "").toLowerCase();
 
-  for (const [id, config] of Object.entries(categoriesConfig || {})) {
+  for (const [categoryId, config] of Object.entries(categories || {})) {
     const keywords = Array.isArray(config?.keywords) ? config.keywords : [];
-    let score = 0;
-
-    for (const keyword of keywords) {
-      if (normalizedTitle.includes(String(keyword).toLowerCase())) {
-        score += 1;
-      }
-    }
-
-    if (score > best.score) {
-      best = { id, score };
+    if (keywords.some((keyword) => input.includes(String(keyword).toLowerCase()))) {
+      return categoryId;
     }
   }
 
-  return best.score > 0 ? best.id : "egyeb";
+  return "egyeb";
 }

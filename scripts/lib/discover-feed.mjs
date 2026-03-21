@@ -1,56 +1,46 @@
 import * as cheerio from "cheerio";
 import { cachedFetch } from "./http.mjs";
 
-function toAbsoluteUrl(baseUrl, value) {
+export async function discoverFeedUrl(pageUrl, headersCache) {
   try {
-    return new URL(value, baseUrl).toString();
+    const { response } = await cachedFetch(pageUrl, headersCache);
+    if (!response?.ok) return null;
+
+    const html = await response.text();
+    const $ = cheerio.load(html);
+    const candidates = [];
+
+    $('link[rel="alternate"]').each((_, element) => {
+      const type = ($(element).attr("type") || "").toLowerCase();
+      const href = $(element).attr("href");
+      if (!href) return;
+      if (type.includes("rss") || type.includes("atom") || type.includes("xml")) {
+        candidates.push(new URL(href, pageUrl).toString());
+      }
+    });
+
+    return candidates[0] || null;
   } catch {
     return null;
   }
 }
 
-export async function discoverFeedUrl(pageUrl, headersCache) {
-  const { response } = await cachedFetch(pageUrl, headersCache);
-  if (!response.ok) return null;
-
-  const html = await response.text();
-  const $ = cheerio.load(html);
-  const links = $("head link[rel='alternate']").toArray();
-
-  for (const link of links) {
-    const type = ($(link).attr("type") || "").toLowerCase();
-    const href = $(link).attr("href");
-    if (!href) continue;
-
-    const isFeed = type.includes("application/rss+xml") || type.includes("application/atom+xml") || type.includes("application/xml");
-    if (!isFeed) continue;
-
-    const absoluteUrl = toAbsoluteUrl(pageUrl, href);
-    if (absoluteUrl) return absoluteUrl;
-  }
-
-  return null;
-}
-
 export async function probeCommonFeedPaths(pageUrl, headersCache) {
-  const url = new URL(pageUrl);
-  const base = url.origin;
   const candidates = ["/feed", "/rss", "/rss.xml", "/feed.xml", "/atom.xml", "/index.xml"];
+  const base = new URL(pageUrl);
 
-  for (const candidatePath of candidates) {
-    const candidateUrl = `${base}${candidatePath}`;
+  for (const path of candidates) {
     try {
-      const { kind, response } = await cachedFetch(candidateUrl, headersCache);
-      if (kind === "not_modified") return candidateUrl;
-      if (!response.ok) continue;
-
-      const text = await response.text();
-      const head = text.slice(0, 250).toLowerCase();
-      if (head.includes("<rss") || head.includes("<feed")) {
-        return candidateUrl;
+      const url = new URL(path, `${base.origin}/`).toString();
+      const { response } = await cachedFetch(url, headersCache);
+      if (!response?.ok) continue;
+      const contentType = response.headers.get("content-type") || "";
+      const body = await response.text();
+      if (contentType.includes("xml") || body.includes("<rss") || body.includes("<feed")) {
+        return url;
       }
     } catch {
-      // ignore candidate
+      // ignore and continue
     }
   }
 
