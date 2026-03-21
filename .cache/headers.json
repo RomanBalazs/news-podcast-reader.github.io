@@ -1,0 +1,17 @@
+{
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw": {
+    "etag": null,
+    "lastModified": null,
+    "checkedAt": "2026-03-21T18:36:21.241Z"
+  },
+  "https://www.theverge.com/tech": {
+    "etag": "\"hka7hnp27aea0f\"",
+    "lastModified": null,
+    "checkedAt": "2026-03-21T18:36:21.261Z"
+  },
+  "https://www.theverge.com/rss/index.xml": {
+    "etag": "W/\"2d0134b3a58fd982f356ed584cae0913\"",
+    "lastModified": null,
+    "checkedAt": "2026-03-21T18:36:21.388Z"
+  }
+}
