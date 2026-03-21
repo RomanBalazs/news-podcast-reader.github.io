@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Unified Feed – Forráskezelő</title>
+    <meta name="description" content="Forráskezelő a Unified Feed projekthez." />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <div class="title-row">
+            <h1>Forráskezelő</h1>
+            <span class="pill">Local admin</span>
+          </div>
+          <p class="muted">Itt tudod a GitHub Pages-es projekt forrásait szerkeszteni és exportálni.</p>
+        </div>
+        <div class="topbar-actions">
+          <a class="button-link ghost" href="./index.html">Vissza a feedhez</a>
+        </div>
+      </header>
+
+      <section class="card admin-grid">
+        <div class="admin-sidebar">
+          <div class="section-head">
+            <h2>Források</h2>
+            <button id="newSourceBtn">Új forrás</button>
+          </div>
+
+          <div class="admin-toolbar">
+            <input id="sourceSearch" type="search" placeholder="forrás keresése" />
+            <select id="sourceTypeFilter">
+              <option value="all">Minden típus</option>
+              <option value="site">Oldal</option>
+              <option value="rss">RSS</option>
+              <option value="youtube">YouTube</option>
+              <option value="spotify">Spotify</option>
+            </select>
+          </div>
+
+          <div id="sourceList" class="source-list"></div>
+        </div>
+
+        <div class="admin-editor card-soft">
+          <div class="section-head">
+            <h2>Szerkesztés</h2>
+            <div class="inline-actions">
+              <button id="deleteSourceBtn" class="danger">Törlés</button>
+              <button id="duplicateSourceBtn">Duplikálás</button>
+            </div>
+          </div>
+
+          <form id="sourceForm" class="form-grid">
+            <label>
+              <span>Azonosító</span>
+              <input name="id" required placeholder="pl. ign-gaming" />
+            </label>
+
+            <label>
+              <span>Név</span>
+              <input name="name" required placeholder="pl. IGN Gaming" />
+            </label>
+
+            <label>
+              <span>Típus</span>
+              <select name="type" required>
+                <option value="site">Oldal</option>
+                <option value="rss">RSS</option>
+                <option value="youtube">YouTube</option>
+                <option value="spotify">Spotify</option>
+              </select>
+            </label>
+
+            <label>
+              <span>Alap kategória</span>
+              <select name="defaultCategory">
+                <option value="">Automatikus / nincs megadva</option>
+              </select>
+            </label>
+
+            <label class="field-url field-wide">
+              <span>URL</span>
+              <input name="url" placeholder="https://pelda.hu vagy feed URL" />
+            </label>
+
+            <label class="field-channel hidden field-wide">
+              <span>YouTube channel ID</span>
+              <input name="channelId" placeholder="UC..." />
+            </label>
+
+            <label class="field-show hidden field-wide">
+              <span>Spotify show ID</span>
+              <input name="showId" placeholder="Spotify show azonosító" />
+            </label>
+
+            <label>
+              <span>Scrape fallback</span>
+              <select name="scrapeEnabled">
+                <option value="true">Bekapcsolva</option>
+                <option value="false">Kikapcsolva</option>
+              </select>
+            </label>
+
+            <label>
+              <span>Max elem scrape-ből</span>
+              <input name="scrapeMaxItems" type="number" min="1" max="50" value="15" />
+            </label>
+
+            <label class="field-wide">
+              <span>Megjegyzés</span>
+              <textarea name="notes" rows="3" placeholder="belső megjegyzés, mi ez a forrás"></textarea>
+            </label>
+
+            <div class="inline-actions field-wide">
+              <button type="submit">Mentés helyben</button>
+              <button type="button" id="resetFormBtn" class="ghost">Visszaállítás</button>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <section class="card admin-actions-panel">
+        <div class="section-head">
+          <h2>Import / export</h2>
+        </div>
+
+        <div class="action-grid">
+          <button id="loadProjectSourcesBtn">Projekt sources.json betöltése</button>
+          <button id="downloadSourcesBtn">sources.json letöltése</button>
+          <label class="button-like">
+            JSON import
+            <input id="importFileInput" type="file" accept="application/json" hidden />
+          </label>
+          <button id="restoreDefaultsBtn" class="ghost">Vissza alap mintára</button>
+        </div>
+
+        <p class="muted compact">
+          Fontos: GitHub Pages alatt ez az admin oldal nem ír vissza közvetlenül a repóba. A szerkesztett forráslistát le kell töltened, majd a repóban a <code>public/data/sources.json</code> fájlt felülírni vele.
+        </p>
+      </section>
+
+      <section class="card json-preview-card">
+        <div class="section-head">
+          <h2>Aktuális JSON előnézet</h2>
+        </div>
+        <pre id="jsonPreview" class="json-preview"></pre>
+      </section>
+    </div>
+
+    <script type="module" src="./admin.js"></script>
+  </body>
+</html>

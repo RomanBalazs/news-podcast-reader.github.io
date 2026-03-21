@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Unified Feed</title>
+    <meta name="description" content="Hírek, YouTube és podcast epizódok egy helyen." />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <div class="title-row">
+            <h1>Unified Feed</h1>
+            <span class="pill">GitHub Pages MVP</span>
+          </div>
+          <p class="muted">Hírfolyam + YouTube + podcast egy helyen</p>
+        </div>
+
+        <div class="topbar-actions">
+          <a class="button-link ghost" href="./admin.html">Forráskezelő</a>
+          <div class="build-info">
+            <span class="muted">Utolsó feed frissítés</span>
+            <strong id="generatedAt">—</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="controls card">
+        <div class="tabs" id="tabs">
+          <button data-tab="active" class="active">Aktív</button>
+          <button data-tab="read">Olvasott</button>
+          <button data-tab="listened">Meghallgatott</button>
+        </div>
+
+        <div class="filters-grid">
+          <label>
+            <span>Kategória</span>
+            <select id="categoryFilter"></select>
+          </label>
+
+          <label>
+            <span>Típus</span>
+            <select id="typeFilter">
+              <option value="all">Összes</option>
+              <option value="article">Cikk</option>
+              <option value="video">Videó</option>
+              <option value="podcast">Podcast</option>
+            </select>
+          </label>
+
+          <label class="search-wrap">
+            <span>Keresés</span>
+            <input id="searchInput" type="search" placeholder="cím / forrás / kategória" />
+          </label>
+        </div>
+      </section>
+
+      <section class="stats-row">
+        <div class="card stat">
+          <span class="muted">Aktív elemek</span>
+          <strong id="activeCount">0</strong>
+        </div>
+        <div class="card stat">
+          <span class="muted">Olvasott cikkek</span>
+          <strong id="readCount">0</strong>
+        </div>
+        <div class="card stat">
+          <span class="muted">Meghallgatott elemek</span>
+          <strong id="listenedCount">0</strong>
+        </div>
+      </section>
+
+      <section class="card info-banner">
+        <strong>Mostani működés:</strong>
+        az olvasott és meghallgatott státusz böngészőnként tárolódik. A forráslista szerkesztése a Forráskezelő oldalon történik.
+      </section>
+
+      <main>
+        <div id="emptyState" class="empty-state card hidden">
+          Nincs találat a jelenlegi szűrőkre.
+        </div>
+        <div id="feedList" class="feed-list"></div>
+      </main>
+    </div>
+
+    <template id="itemTemplate">
+      <article class="feed-item card">
+        <div class="feed-item__top">
+          <div class="feed-item__meta-wrap">
+            <div class="feed-item__meta"></div>
+            <h2 class="feed-item__title"></h2>
+          </div>
+          <div class="feed-item__actions"></div>
+        </div>
+
+        <div class="feed-item__body">
+          <img class="feed-item__image hidden" alt="" />
+          <div class="feed-item__content">
+            <p class="feed-item__summary hidden"></p>
+            <div class="feed-item__player hidden"></div>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
