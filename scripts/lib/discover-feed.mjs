@@ -1,10 +1,15 @@
 import * as cheerio from "cheerio";
 import { cachedFetch } from "./http.mjs";
 
-export async function discoverFeedUrl(pageUrl, headersCache) {
+export function looksLikeFeedUrl(url) {
+  const input = String(url || "").toLowerCase();
+  return ["/feed", "/rss", ".xml", "/atom", "/index.xml"].some((token) => input.includes(token));
+}
+
+export async function discoverFeedCandidates(pageUrl, headersCache) {
   try {
     const { response } = await cachedFetch(pageUrl, headersCache);
-    if (!response?.ok) return null;
+    if (!response?.ok) return [];
 
     const html = await response.text();
     const $ = cheerio.load(html);
@@ -12,17 +17,27 @@ export async function discoverFeedUrl(pageUrl, headersCache) {
 
     $('link[rel="alternate"]').each((_, element) => {
       const type = ($(element).attr("type") || "").toLowerCase();
+      const title = ($(element).attr("title") || "").trim();
       const href = $(element).attr("href");
       if (!href) return;
       if (type.includes("rss") || type.includes("atom") || type.includes("xml")) {
-        candidates.push(new URL(href, pageUrl).toString());
+        candidates.push({
+          url: new URL(href, pageUrl).toString(),
+          type: type || "application/rss+xml",
+          title
+        });
       }
     });
 
-    return candidates[0] || null;
+    return dedupeCandidates(candidates);
   } catch {
-    return null;
+    return [];
   }
+}
+
+export async function discoverFeedUrl(pageUrl, headersCache) {
+  const candidates = await discoverFeedCandidates(pageUrl, headersCache);
+  return candidates[0]?.url || null;
 }
 
 export async function probeCommonFeedPaths(pageUrl, headersCache) {
@@ -45,4 +60,13 @@ export async function probeCommonFeedPaths(pageUrl, headersCache) {
   }
 
   return null;
+}
+
+function dedupeCandidates(candidates) {
+  const seen = new Set();
+  return candidates.filter((item) => {
+    if (!item?.url || seen.has(item.url)) return false;
+    seen.add(item.url);
+    return true;
+  });
 }
