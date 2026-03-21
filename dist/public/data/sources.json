@@ -4,10 +4,13 @@
     "type": "site",
     "name": "The Verge",
     "url": "https://www.theverge.com/tech",
+    "feedUrl": "",
     "defaultCategory": "tech",
+    "fetchStrategy": "auto",
     "scrape": {
       "enabled": true,
-      "maxItems": 15
+      "maxItems": 15,
+      "profile": "theverge"
     },
     "notes": "Tech hírek"
   },
@@ -17,14 +20,26 @@
     "name": "IGN YouTube",
     "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
     "defaultCategory": "gaming",
+    "fetchStrategy": "auto",
+    "scrape": {
+      "enabled": false,
+      "maxItems": 0,
+      "profile": "auto"
+    },
     "notes": "YouTube gaming videók"
   },
   {
-    "id": "spotify-ai-show",
+    "id": "spotify-hard-fork",
     "type": "spotify",
     "name": "Hard Fork",
     "showId": "0eB4K6lH1DqjY0nO4nqJwP",
     "defaultCategory": "tech",
+    "fetchStrategy": "auto",
+    "scrape": {
+      "enabled": false,
+      "maxItems": 0,
+      "profile": "auto"
+    },
     "notes": "Spotify podcast példa"
   }
 ]
