@@ -14,7 +14,7 @@ const FEED_FILE = "public/data/feed.json";
 const SOURCES_FILE = "public/data/sources.json";
 const CATEGORIES_FILE = "public/data/categories.json";
 
-const parser = new Parser();
+const parser = new Parser({ timeout: 15000 });
 
 function hashId(input) {
   return crypto.createHash("sha256").update(input).digest("hex").slice(0, 24);
@@ -32,7 +32,7 @@ async function readJson(path, fallback) {
 function canonicalizeUrl(url) {
   try {
     const parsed = new URL(url);
-    for (const param of ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term"]) {
+    for (const param of ["utm_source", "utm_medium", "utm_campaign", "utm_content", "utm_term", "fbclid", "gclid"]) {
       parsed.searchParams.delete(param);
     }
     return parsed.toString();
@@ -61,7 +61,7 @@ function normalizeItem({ source, type, title, url, publishedAt, summary, imageUr
 
 function groupPreviousItemsBySource(items) {
   return (items || []).reduce((acc, item) => {
-    acc[item.sourceId] ||= [];
+    if (!acc[item.sourceId]) acc[item.sourceId] = [];
     acc[item.sourceId].push(item);
     return acc;
   }, {});
@@ -69,11 +69,12 @@ function groupPreviousItemsBySource(items) {
 
 async function fetchRssSource({ source, feedUrl, headersCache, categories, previousItemsBySource }) {
   const { kind, response } = await cachedFetch(feedUrl, headersCache);
+
   if (kind === "not_modified") {
     return previousItemsBySource[source.id] || [];
   }
 
-  if (!response.ok) {
+  if (!response?.ok) {
     return previousItemsBySource[source.id] || [];
   }
 
@@ -81,10 +82,11 @@ async function fetchRssSource({ source, feedUrl, headersCache, categories, previ
   const parsed = await parser.parseString(xml);
 
   return (parsed.items || []).slice(0, 40).map((item) => {
-    const link = item.link || item.guid || source.url;
+    const link = item.link || item.guid || source.url || "";
     const title = item.title || "";
     const publishedAt = item.isoDate || item.pubDate || null;
     const summary = item.contentSnippet || item.content || item.summary || null;
+    const imageUrl = item.enclosure?.url || item.thumbnail || null;
     const category = source.defaultCategory || autoCategory(title, categories);
 
     return normalizeItem({
@@ -94,6 +96,7 @@ async function fetchRssSource({ source, feedUrl, headersCache, categories, previ
       url: link,
       publishedAt,
       summary,
+      imageUrl,
       youtubeVideoId: source.type === "youtube" ? extractYouTubeVideoId(link) : null,
       category
     });
@@ -102,6 +105,7 @@ async function fetchRssSource({ source, feedUrl, headersCache, categories, previ
 
 async function fetchSiteSource({ source, headersCache, categories, previousItemsBySource }) {
   let feedUrl = await discoverFeedUrl(source.url, headersCache);
+
   if (!feedUrl) {
     feedUrl = await probeCommonFeedPaths(source.url, headersCache);
   }
@@ -126,8 +130,9 @@ async function fetchSiteSource({ source, headersCache, categories, previousItems
       type: "article",
       title: item.title,
       url: item.url,
-      publishedAt: null,
-      summary: null,
+      publishedAt: item.publishedAt || null,
+      summary: item.summary || null,
+      imageUrl: item.imageUrl || null,
       category
     });
   });
@@ -138,7 +143,7 @@ async function fetchSpotifySource({ source, categories, previousItemsBySource })
   const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 
   if (!clientId || !clientSecret) {
-    console.warn(`[spotify:${source.id}] SPOTIFY_CLIENT_ID vagy SPOTIFY_CLIENT_SECRET hiányzik, a korábbi elemek maradnak.`);
+    console.warn(`[spotify:${source.id}] Spotify secret hiányzik, korábbi elemek maradnak.`);
     return previousItemsBySource[source.id] || [];
   }
 
@@ -211,7 +216,7 @@ async function main() {
   const seenIds = new Set();
 
   for (const item of results.flat()) {
-    if (seenIds.has(item.id)) continue;
+    if (!item.url || seenIds.has(item.id)) continue;
     seenIds.add(item.id);
     deduped.push(item);
   }
