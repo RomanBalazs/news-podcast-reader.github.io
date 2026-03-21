@@ -22,6 +22,39 @@
         </div>
       </header>
 
+      <section class="card detection-panel">
+        <div class="section-head detection-head">
+          <div>
+            <h2>Gyors forrásfelismerés URL alapján</h2>
+            <p class="muted compact">YouTube és Spotify linkeket stabilan felismeri. Általános oldalaknál feed/scrape javaslatot ad, de GitHub Pages alatt a külső oldalak automatikus elemzése CORS miatt korlátozott lehet.</p>
+          </div>
+          <div class="inline-actions">
+            <button id="analyzeUrlBtn" type="button">Elemzés</button>
+            <button id="applyDetectionBtn" type="button" class="ghost">Kitöltés az űrlapba</button>
+          </div>
+        </div>
+
+        <div class="detection-grid">
+          <label class="field-wide">
+            <span>Forrás URL</span>
+            <input id="detectUrlInput" type="url" placeholder="https://pelda.hu / YouTube / Spotify link" />
+          </label>
+
+          <div class="card-soft detection-result">
+            <div class="section-head small-gap">
+              <h3>Elemzési eredmény</h3>
+              <span id="detectionStatus" class="pill">Nincs elemzés</span>
+            </div>
+
+            <div id="detectionSummary" class="detection-summary muted">
+              Adj meg egy URL-t, majd futtasd az elemzést.
+            </div>
+
+            <div id="detectionPreview" class="preview-list"></div>
+          </div>
+        </div>
+      </section>
+
       <section class="card admin-grid">
         <div class="admin-sidebar">
           <div class="section-head">
@@ -47,8 +80,8 @@
           <div class="section-head">
             <h2>Szerkesztés</h2>
             <div class="inline-actions">
-              <button id="deleteSourceBtn" class="danger">Törlés</button>
-              <button id="duplicateSourceBtn">Duplikálás</button>
+              <button id="deleteSourceBtn" class="danger" type="button">Törlés</button>
+              <button id="duplicateSourceBtn" type="button">Duplikálás</button>
             </div>
           </div>
 
@@ -95,6 +128,11 @@
               <input name="showId" placeholder="Spotify show azonosító" />
             </label>
 
+            <label class="field-feedUrl field-wide">
+              <span>Feloldott feed URL (opcionális)</span>
+              <input name="feedUrl" placeholder="https://pelda.hu/feed.xml" />
+            </label>
+
             <label>
               <span>Scrape fallback</span>
               <select name="scrapeEnabled">
@@ -106,6 +144,25 @@
             <label>
               <span>Max elem scrape-ből</span>
               <input name="scrapeMaxItems" type="number" min="1" max="50" value="15" />
+            </label>
+
+            <label>
+              <span>Scrape profil</span>
+              <select name="scrapeProfile">
+                <option value="auto">Automatikus</option>
+                <option value="generic-article-list">Generic article list</option>
+                <option value="theverge">The Verge</option>
+                <option value="ign">IGN</option>
+              </select>
+            </label>
+
+            <label>
+              <span>Preferált behúzás</span>
+              <select name="fetchStrategy">
+                <option value="auto">Automatikus</option>
+                <option value="feed-first">Feed elsőbbség</option>
+                <option value="scrape-only">Csak scrape</option>
+              </select>
             </label>
 
             <label class="field-wide">
@@ -127,13 +184,13 @@
         </div>
 
         <div class="action-grid">
-          <button id="loadProjectSourcesBtn">Projekt sources.json betöltése</button>
-          <button id="downloadSourcesBtn">sources.json letöltése</button>
+          <button id="loadProjectSourcesBtn" type="button">Projekt sources.json betöltése</button>
+          <button id="downloadSourcesBtn" type="button">sources.json letöltése</button>
           <label class="button-like">
             JSON import
             <input id="importFileInput" type="file" accept="application/json" hidden />
           </label>
-          <button id="restoreDefaultsBtn" class="ghost">Vissza alap mintára</button>
+          <button id="restoreDefaultsBtn" type="button" class="ghost">Vissza alap mintára</button>
         </div>
 
         <p class="muted compact">
