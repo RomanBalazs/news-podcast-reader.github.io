@@ -1,0 +1,273 @@
+:root {
+  color-scheme: dark;
+  --bg: #0b1020;
+  --panel: #121a2f;
+  --panel-2: #1a2542;
+  --text: #eef2ff;
+  --muted: #9aa7c7;
+  --border: #263457;
+  --accent: #69a8ff;
+  --accent-2: #8b5cf6;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --shadow: 0 14px 36px rgba(0, 0, 0, 0.28);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: radial-gradient(circle at top, #172448 0%, var(--bg) 55%);
+  color: var(--text);
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+  padding: 24px;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.app-shell {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+  margin-bottom: 18px;
+}
+
+.topbar h1 {
+  margin: 0 0 6px;
+  font-size: 2rem;
+}
+
+.build-info {
+  text-align: right;
+  display: grid;
+  gap: 4px;
+}
+
+.card {
+  background: rgba(18, 26, 47, 0.88);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.controls {
+  padding: 16px;
+  display: grid;
+  gap: 16px;
+}
+
+.tabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.tabs button,
+.feed-item__actions button {
+  border: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.tabs button:hover,
+.feed-item__actions button:hover {
+  transform: translateY(-1px);
+  border-color: var(--accent);
+}
+
+.tabs button.active {
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  border-color: transparent;
+}
+
+.filters-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.filters-grid label {
+  display: grid;
+  gap: 6px;
+}
+
+.filters-grid span,
+.muted {
+  color: var(--muted);
+}
+
+.filters-grid input,
+.filters-grid select {
+  width: 100%;
+  background: #0d1529;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+
+.stats-row {
+  margin: 18px 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.stat {
+  padding: 14px;
+  display: grid;
+  gap: 6px;
+}
+
+.stat strong {
+  font-size: 1.5rem;
+}
+
+.info-banner,
+.empty-state {
+  padding: 14px 16px;
+  margin-bottom: 18px;
+}
+
+.feed-list {
+  display: grid;
+  gap: 14px;
+}
+
+.feed-item {
+  padding: 16px;
+  display: grid;
+  gap: 14px;
+}
+
+.feed-item__top {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.feed-item__meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.feed-item__title {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
+.feed-item__title a {
+  text-decoration: none;
+}
+
+.feed-item__title a:hover {
+  color: var(--accent);
+}
+
+.feed-item__actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.feed-item__summary {
+  margin: 0;
+  color: #d3dcf8;
+  line-height: 1.55;
+}
+
+.feed-item__player {
+  display: grid;
+  gap: 10px;
+}
+
+.embed-wrap {
+  position: relative;
+  padding-top: 56.25%;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+.embed-wrap iframe,
+.spotify-embed {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.spotify-embed {
+  position: static;
+  height: 152px;
+  border-radius: 16px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  background: #0d1529;
+}
+
+.badge--article { color: #93c5fd; }
+.badge--video { color: #fca5a5; }
+.badge--podcast { color: #c4b5fd; }
+.badge--done { color: #86efac; }
+
+.hidden {
+  display: none !important;
+}
+
+@media (max-width: 860px) {
+  .filters-grid,
+  .stats-row {
+    grid-template-columns: 1fr;
+  }
+
+  .topbar,
+  .feed-item__top {
+    flex-direction: column;
+  }
+
+  .build-info,
+  .feed-item__actions {
+    text-align: left;
+    justify-content: flex-start;
+  }
+}

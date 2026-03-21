@@ -1,0 +1,15 @@
+{
+  "name": "unified-feed-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-all.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "p-limit": "^6.2.0",
+    "playwright": "^1.54.0",
+    "rss-parser": "^3.13.0"
+  }
+}
