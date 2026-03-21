@@ -11,12 +11,19 @@
     <div class="app-shell">
       <header class="topbar">
         <div>
-          <h1>Unified Feed</h1>
-          <p class="muted">Hírfolyam + YouTube + podcast MVP</p>
+          <div class="title-row">
+            <h1>Unified Feed</h1>
+            <span class="pill">GitHub Pages MVP</span>
+          </div>
+          <p class="muted">Hírfolyam + YouTube + podcast egy helyen</p>
         </div>
-        <div class="build-info">
-          <span class="muted">Utolsó frissítés</span>
-          <strong id="generatedAt">—</strong>
+
+        <div class="topbar-actions">
+          <a class="button-link ghost" href="./admin.html">Forráskezelő</a>
+          <div class="build-info">
+            <span class="muted">Utolsó feed frissítés</span>
+            <strong id="generatedAt">—</strong>
+          </div>
         </div>
       </header>
 
@@ -45,7 +52,7 @@
 
           <label class="search-wrap">
             <span>Keresés</span>
-            <input id="searchInput" type="search" placeholder="cím / forrás" />
+            <input id="searchInput" type="search" placeholder="cím / forrás / kategória" />
           </label>
         </div>
       </section>
@@ -66,8 +73,8 @@
       </section>
 
       <section class="card info-banner">
-        <strong>Fontos:</strong>
-        Az olvasott és meghallgatott státusz egyelőre a böngésződben tárolódik.
+        <strong>Mostani működés:</strong>
+        az olvasott és meghallgatott státusz böngészőnként tárolódik. A forráslista szerkesztése a Forráskezelő oldalon történik.
       </section>
 
       <main>
@@ -88,8 +95,13 @@
           <div class="feed-item__actions"></div>
         </div>
 
-        <p class="feed-item__summary hidden"></p>
-        <div class="feed-item__player hidden"></div>
+        <div class="feed-item__body">
+          <img class="feed-item__image hidden" alt="" />
+          <div class="feed-item__content">
+            <p class="feed-item__summary hidden"></p>
+            <div class="feed-item__player hidden"></div>
+          </div>
+        </div>
       </article>
     </template>
 

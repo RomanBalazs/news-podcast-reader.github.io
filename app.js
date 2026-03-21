@@ -1,4 +1,4 @@
-const STATUS_KEY = "unified_feed_status_v1";
+const STATUS_KEY = "unified_feed_status_v2";
 
 const state = {
   feed: { generatedAt: null, items: [] },
@@ -34,16 +34,24 @@ init().catch((error) => {
 
 async function init() {
   bindEvents();
+
   const [feed, categories] = await Promise.all([
     fetchJson("./public/data/feed.json"),
     fetchJson("./public/data/categories.json")
   ]);
 
-  state.feed = feed;
-  state.categories = categories;
+  state.feed = normalizeFeed(feed);
+  state.categories = categories || {};
 
   populateCategoryFilter();
   render();
+}
+
+function normalizeFeed(feed) {
+  return {
+    generatedAt: feed?.generatedAt || null,
+    items: Array.isArray(feed?.items) ? feed.items : []
+  };
 }
 
 function bindEvents() {
@@ -51,7 +59,9 @@ function bindEvents() {
     const button = event.target.closest("button[data-tab]");
     if (!button) return;
     state.filters.tab = button.dataset.tab;
-    [...el.tabs.querySelectorAll("button")].forEach((btn) => btn.classList.toggle("active", btn === button));
+    for (const btn of el.tabs.querySelectorAll("button")) {
+      btn.classList.toggle("active", btn === button);
+    }
     render();
   });
 
@@ -81,7 +91,6 @@ async function fetchJson(url) {
 
 function populateCategoryFilter() {
   const fragment = document.createDocumentFragment();
-
   fragment.appendChild(createOption("all", "Összes"));
 
   for (const [id, cfg] of Object.entries(state.categories)) {
@@ -151,10 +160,12 @@ function getFilteredItems() {
       if (status !== state.filters.tab) return false;
       if (state.filters.category !== "all" && (item.category || "egyeb") !== state.filters.category) return false;
       if (state.filters.type !== "all" && item.type !== state.filters.type) return false;
+
       if (state.filters.query) {
-        const haystack = `${item.title} ${item.sourceName}`.toLowerCase();
+        const haystack = `${item.title} ${item.sourceName} ${item.category || ""}`.toLowerCase();
         if (!haystack.includes(state.filters.query)) return false;
       }
+
       return true;
     })
     .sort((a, b) => {
@@ -171,21 +182,26 @@ function renderItem(item) {
   const summary = node.querySelector(".feed-item__summary");
   const actions = node.querySelector(".feed-item__actions");
   const player = node.querySelector(".feed-item__player");
+  const image = node.querySelector(".feed-item__image");
 
   const itemStatus = getItemStatus(item);
+  const categoryLabel = state.categories[item.category]?.label || item.category || "egyéb";
+
   meta.innerHTML = [
     badgeLabel(item.type),
-    escapeHtml(item.sourceName),
-    escapeHtml(item.category || "egyeb"),
-    escapeHtml(formatDateTime(item.publishedAt)),
+    `<span class="badge badge--source">${escapeHtml(item.sourceName)}</span>`,
+    `<span class="badge badge--source">${escapeHtml(categoryLabel)}</span>`,
+    `<span>${escapeHtml(formatDateTime(item.publishedAt))}</span>`,
     itemStatus !== "active" ? badgeDone(itemStatus) : ""
-  ].filter(Boolean).join(" · ");
+  ]
+    .filter(Boolean)
+    .join(" ");
 
   const link = document.createElement("a");
   link.href = item.url;
   link.target = "_blank";
   link.rel = "noreferrer";
-  link.textContent = item.title;
+  link.textContent = item.title || "(nincs cím)";
   title.appendChild(link);
 
   if (item.summary) {
@@ -193,7 +209,22 @@ function renderItem(item) {
     summary.classList.remove("hidden");
   }
 
+  if (item.imageUrl) {
+    image.src = item.imageUrl;
+    image.alt = item.title || "borítókép";
+    image.classList.remove("hidden");
+  }
+
+  const openButton = document.createElement("a");
+  openButton.href = item.url;
+  openButton.target = "_blank";
+  openButton.rel = "noreferrer";
+  openButton.className = "button-link ghost";
+  openButton.textContent = "Megnyitás";
+  actions.appendChild(openButton);
+
   actions.appendChild(createStatusButton(item));
+
   if (hasPlayableEmbed(item)) {
     actions.appendChild(createPlayerButton(item, player));
   }
@@ -206,9 +237,9 @@ function createStatusButton(item) {
   const status = getItemStatus(item);
 
   if (item.type === "article") {
-    button.textContent = status === "read" ? "Vissza aktívba" : "Olvasott";
+    button.textContent = status === "read" ? "Vissza aktívba" : "Olvasottnak jelöl";
     button.addEventListener("click", () => {
-      if (status === "read") {
+      if (getItemStatus(item) === "read") {
         delete state.status.read[item.id];
       } else {
         state.status.read[item.id] = new Date().toISOString();
@@ -219,9 +250,9 @@ function createStatusButton(item) {
     return button;
   }
 
-  button.textContent = status === "listened" ? "Vissza aktívba" : "Meghallgatott";
+  button.textContent = status === "listened" ? "Vissza aktívba" : "Meghallgatottnak jelöl";
   button.addEventListener("click", () => {
-    if (status === "listened") {
+    if (getItemStatus(item) === "listened") {
       delete state.status.listened[item.id];
     } else {
       state.status.listened[item.id] = new Date().toISOString();
@@ -265,7 +296,7 @@ function buildPlayer(item) {
     iframe.src = `https://www.youtube.com/embed/${item.youtubeVideoId}`;
     iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
     iframe.allowFullscreen = true;
-    iframe.title = item.title;
+    iframe.title = item.title || "YouTube videó";
     wrap.appendChild(iframe);
     return wrap;
   }
@@ -274,7 +305,7 @@ function buildPlayer(item) {
     const iframe = document.createElement("iframe");
     iframe.className = "spotify-embed";
     iframe.src = `https://open.spotify.com/embed/episode/${item.spotifyEpisodeId}`;
-    iframe.title = item.title;
+    iframe.title = item.title || "Spotify epizód";
     iframe.loading = "lazy";
     iframe.allow = "encrypted-media";
     return iframe;
@@ -342,7 +373,7 @@ function badgeDone(status) {
 }
 
 function escapeHtml(value) {
-  return String(value)
+  return String(value ?? "")
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
