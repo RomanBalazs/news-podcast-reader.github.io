@@ -8,25 +8,32 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: unified-feed-fetch
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Install Playwright browser
-        run: npx playwright install chromium --with-deps
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
 
       - name: Generate feed
         env:
@@ -35,10 +42,16 @@ jobs:
         run: npm run fetch
 
       - name: Commit updated feed
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/feed.json .cache/headers.json || true
-          git diff --cached --quiet && exit 0
+          git add public/data/feed.json .cache/headers.json
+
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit."
+            exit 0
+          fi
+
           git commit -m "chore: refresh feed"
           git push
