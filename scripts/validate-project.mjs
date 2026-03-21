@@ -10,6 +10,9 @@ const mustExist = [
   "public/data/sources.json",
   "public/data/categories.json",
   "scripts/fetch-all.mjs",
+  "scripts/lib/discover-feed.mjs",
+  "scripts/lib/scrape-profiles.mjs",
+  "scripts/lib/scrape-playwright.mjs",
   ".github/workflows/fetch.yml",
   ".github/workflows/pages.yml"
 ];

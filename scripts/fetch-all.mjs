@@ -4,8 +4,9 @@ import Parser from "rss-parser";
 import pLimit from "p-limit";
 
 import { autoCategory } from "./lib/categorizer.mjs";
-import { discoverFeedUrl, probeCommonFeedPaths } from "./lib/discover-feed.mjs";
+import { discoverFeedCandidates, discoverFeedUrl, probeCommonFeedPaths, looksLikeFeedUrl } from "./lib/discover-feed.mjs";
 import { loadHeadersCache, saveHeadersCache, cachedFetch } from "./lib/http.mjs";
+import { resolveScrapeProfile } from "./lib/scrape-profiles.mjs";
 import { scrapeListWithPlaywright } from "./lib/scrape-playwright.mjs";
 import { spotifyClientCredentialsToken, spotifyGetShowEpisodes } from "./lib/spotify.mjs";
 import { youtubeFeedUrlFromChannelId, extractYouTubeVideoId } from "./lib/youtube.mjs";
@@ -59,6 +60,28 @@ function normalizeItem({ source, type, title, url, publishedAt, summary, imageUr
   };
 }
 
+function normalizeSource(source, index) {
+  const type = ["site", "rss", "youtube", "spotify"].includes(source?.type) ? source.type : "site";
+  return {
+    id: String(source?.id || `forras-${index + 1}`),
+    type,
+    name: String(source?.name || source?.id || `Forrás ${index + 1}`),
+    url: String(source?.url || ""),
+    feedUrl: String(source?.feedUrl || ""),
+    channelId: String(source?.channelId || ""),
+    showId: String(source?.showId || ""),
+    defaultCategory: String(source?.defaultCategory || ""),
+    fetchStrategy: ["auto", "feed-first", "scrape-only"].includes(source?.fetchStrategy) ? source.fetchStrategy : "auto",
+    scrape: {
+      enabled: source?.scrape?.enabled !== false,
+      maxItems: Math.max(1, Number(source?.scrape?.maxItems || 15)),
+      profile: String(source?.scrape?.profile || "auto")
+    },
+    notes: String(source?.notes || ""),
+    detected: source?.detected || null
+  };
+}
+
 function groupPreviousItemsBySource(items) {
   return (items || []).reduce((acc, item) => {
     if (!acc[item.sourceId]) acc[item.sourceId] = [];
@@ -82,7 +105,7 @@ async function fetchRssSource({ source, feedUrl, headersCache, categories, previ
   const parsed = await parser.parseString(xml);
 
   return (parsed.items || []).slice(0, 40).map((item) => {
-    const link = item.link || item.guid || source.url || "";
+    const link = item.link || item.guid || source.url || feedUrl || "";
     const title = item.title || "";
     const publishedAt = item.isoDate || item.pubDate || null;
     const summary = item.contentSnippet || item.content || item.summary || null;
@@ -103,24 +126,48 @@ async function fetchRssSource({ source, feedUrl, headersCache, categories, previ
   });
 }
 
+async function resolveSiteFeedUrl(source, headersCache) {
+  if (source.feedUrl && looksLikeFeedUrl(source.feedUrl)) {
+    return { feedUrl: source.feedUrl, discovered: [{ url: source.feedUrl, type: "stored", title: "stored feedUrl" }] };
+  }
+
+  const discovered = await discoverFeedCandidates(source.url, headersCache);
+  if (discovered.length) {
+    return { feedUrl: discovered[0].url, discovered };
+  }
+
+  const probed = await probeCommonFeedPaths(source.url, headersCache);
+  if (probed) {
+    return { feedUrl: probed, discovered: [{ url: probed, type: "probed", title: "common path" }] };
+  }
+
+  return { feedUrl: null, discovered: [] };
+}
+
 async function fetchSiteSource({ source, headersCache, categories, previousItemsBySource }) {
-  let feedUrl = await discoverFeedUrl(source.url, headersCache);
+  const strategy = source.fetchStrategy || "auto";
+  const shouldTryFeed = strategy !== "scrape-only";
+  const shouldTryScrape = source.scrape?.enabled !== false;
 
-  if (!feedUrl) {
-    feedUrl = await probeCommonFeedPaths(source.url, headersCache);
+  if (shouldTryFeed) {
+    const { feedUrl } = await resolveSiteFeedUrl(source, headersCache);
+    if (feedUrl) {
+      const items = await fetchRssSource({ source, feedUrl, headersCache, categories, previousItemsBySource });
+      if (items.length || strategy === "feed-first") {
+        return items;
+      }
+    }
   }
 
-  if (feedUrl) {
-    return fetchRssSource({ source, feedUrl, headersCache, categories, previousItemsBySource });
-  }
-
-  if (!source.scrape?.enabled) {
+  if (!shouldTryScrape) {
     return previousItemsBySource[source.id] || [];
   }
 
+  const profile = resolveScrapeProfile(source);
   const scrapedItems = await scrapeListWithPlaywright({
     pageUrl: source.url,
-    maxItems: source.scrape.maxItems || 15
+    maxItems: source.scrape.maxItems || 15,
+    profile
   });
 
   return scrapedItems.map((item) => {
@@ -142,8 +189,8 @@ async function fetchSpotifySource({ source, categories, previousItemsBySource })
   const clientId = process.env.SPOTIFY_CLIENT_ID;
   const clientSecret = process.env.SPOTIFY_CLIENT_SECRET;
 
-  if (!clientId || !clientSecret) {
-    console.warn(`[spotify:${source.id}] Spotify secret hiányzik, korábbi elemek maradnak.`);
+  if (!clientId || !clientSecret || !source.showId) {
+    console.warn(`[spotify:${source.id}] Spotify secret vagy showId hiányzik, korábbi elemek maradnak.`);
     return previousItemsBySource[source.id] || [];
   }
 
@@ -167,12 +214,13 @@ async function fetchSpotifySource({ source, categories, previousItemsBySource })
 }
 
 async function main() {
-  const [sources, categories, previousFeed] = await Promise.all([
+  const [rawSources, categories, previousFeed] = await Promise.all([
     readJson(SOURCES_FILE, []),
     readJson(CATEGORIES_FILE, {}),
     readJson(FEED_FILE, { generatedAt: null, items: [] })
   ]);
 
+  const sources = rawSources.map(normalizeSource);
   const previousItemsBySource = groupPreviousItemsBySource(previousFeed.items);
   const headersCache = await loadHeadersCache();
   const limit = pLimit(3);
@@ -182,10 +230,12 @@ async function main() {
       limit(async () => {
         try {
           if (source.type === "rss") {
-            return await fetchRssSource({ source, feedUrl: source.url, headersCache, categories, previousItemsBySource });
+            const feedUrl = source.feedUrl || source.url;
+            return await fetchRssSource({ source, feedUrl, headersCache, categories, previousItemsBySource });
           }
 
           if (source.type === "youtube") {
+            if (!source.channelId) return previousItemsBySource[source.id] || [];
             return await fetchRssSource({
               source,
               feedUrl: youtubeFeedUrlFromChannelId(source.channelId),
@@ -240,6 +290,7 @@ async function main() {
     "utf8"
   );
 
+  await fs.writeFile(SOURCES_FILE, JSON.stringify(sources, null, 2), "utf8");
   await saveHeadersCache(headersCache);
   console.log(`Feed generálva: ${deduped.length} elem.`);
 }
