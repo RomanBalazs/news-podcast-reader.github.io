@@ -1,0 +1,27 @@
+[
+  {
+    "id": "demo-tech-site",
+    "type": "site",
+    "name": "Demo Tech Site",
+    "url": "https://example.com/tech",
+    "defaultCategory": "tech",
+    "scrape": {
+      "enabled": true,
+      "maxItems": 15
+    }
+  },
+  {
+    "id": "demo-youtube",
+    "type": "youtube",
+    "name": "Demo YouTube Channel",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "defaultCategory": "gaming"
+  },
+  {
+    "id": "demo-spotify",
+    "type": "spotify",
+    "name": "Demo Spotify Show",
+    "showId": "38bS44xjbVVZ3No3ByF1dJ",
+    "defaultCategory": "tech"
+  }
+]

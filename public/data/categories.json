@@ -1,0 +1,22 @@
+{
+  "gaming": {
+    "label": "Gaming",
+    "keywords": ["game", "gaming", "steam", "playstation", "xbox", "nintendo", "patch", "dlc", "trailer", "review", "teszt"]
+  },
+  "tech": {
+    "label": "Tech",
+    "keywords": ["ai", "mesterséges intelligencia", "chip", "cpu", "gpu", "android", "ios", "security", "kiber", "startup", "open source"]
+  },
+  "politika": {
+    "label": "Politika",
+    "keywords": ["kormány", "parlament", "választás", "miniszter", "törvény", "rendelet", "brüsszel", "eu", "nato"]
+  },
+  "gazdasag": {
+    "label": "Gazdaság",
+    "keywords": ["infláció", "forint", "euró", "kamat", "tőzsde", "piac", "mnb", "gdp", "árfolyam"]
+  },
+  "egyeb": {
+    "label": "Egyéb",
+    "keywords": []
+  }
+}

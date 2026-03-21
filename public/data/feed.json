@@ -1,1 +1,33 @@
-
+{
+  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "items": [
+    {
+      "id": "demo-article-1",
+      "sourceId": "demo-tech-site",
+      "sourceName": "Demo Tech",
+      "type": "article",
+      "title": "Ez egy minta cikk elem",
+      "url": "https://example.com/article-1",
+      "publishedAt": "2026-03-21T06:30:00.000Z",
+      "summary": "A fetch workflow első futása előtt is látszódjon, hogyan néz ki a feed.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "demo-video-1",
+      "sourceId": "demo-youtube",
+      "sourceName": "Demo YouTube",
+      "type": "video",
+      "title": "Minta YouTube videó",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "publishedAt": "2026-03-21T05:50:00.000Z",
+      "summary": "Példa a videó típusú elemek megjelenítésére.",
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "dQw4w9WgXcQ",
+      "spotifyEpisodeId": null
+    }
+  ]
+}
