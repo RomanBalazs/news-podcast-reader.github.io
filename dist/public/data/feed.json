@@ -1,1 +1,47 @@
-
+{
+  "generatedAt": "2026-03-21T06:30:00.000Z",
+  "items": [
+    {
+      "id": "sample-article-1",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Mintahír: így fog kinézni itt a behúzott tech cikk",
+      "url": "https://example.com/sample-article",
+      "publishedAt": "2026-03-21T05:45:00.000Z",
+      "summary": "Ez csak egy mintabejegyzés, hogy a frontend azonnal látható legyen még a saját első fetch előtt is.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "sample-video-1",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Mintavideó: YouTube embed teszt",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "publishedAt": "2026-03-20T18:00:00.000Z",
+      "summary": "YouTube videóelem példa a lejátszóhoz.",
+      "imageUrl": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+      "category": "gaming",
+      "youtubeVideoId": "dQw4w9WgXcQ",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "sample-podcast-1",
+      "sourceId": "spotify-ai-show",
+      "sourceName": "Hard Fork",
+      "type": "podcast",
+      "title": "Mintapodcast: Spotify embed teszt",
+      "url": "https://open.spotify.com/episode/7makk4oTQel546B0PZlDM5",
+      "publishedAt": "2026-03-19T08:15:00.000Z",
+      "summary": "Spotify epizód példa, hogy a meghallgatott státusz és az embed azonnal kipróbálható legyen.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": "7makk4oTQel546B0PZlDM5"
+    }
+  ]
+}

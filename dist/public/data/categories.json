@@ -1,0 +1,22 @@
+{
+  "gaming": {
+    "label": "Gaming",
+    "keywords": ["game", "gaming", "steam", "xbox", "playstation", "nintendo", "esport", "trailer", "dlc"]
+  },
+  "tech": {
+    "label": "Tech",
+    "keywords": ["tech", "ai", "apple", "android", "chip", "gpu", "cpu", "teszt", "review", "software"]
+  },
+  "politika": {
+    "label": "Politika",
+    "keywords": ["kormány", "parlament", "választás", "politika", "elnök", "miniszter", "ukrajna", "eu"]
+  },
+  "anime": {
+    "label": "Anime",
+    "keywords": ["anime", "manga", "otaku", "crunchyroll", "episode", "epizód"]
+  },
+  "egyeb": {
+    "label": "Egyéb",
+    "keywords": []
+  }
+}
