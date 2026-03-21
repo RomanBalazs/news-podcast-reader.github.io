@@ -1,19 +1,19 @@
 {
   "gaming": {
     "label": "Gaming",
-    "keywords": ["game", "gaming", "steam", "playstation", "xbox", "nintendo", "patch", "dlc", "trailer", "review", "teszt"]
+    "keywords": ["game", "gaming", "steam", "xbox", "playstation", "nintendo", "esport", "trailer", "dlc"]
   },
   "tech": {
     "label": "Tech",
-    "keywords": ["ai", "mesterséges intelligencia", "chip", "cpu", "gpu", "android", "ios", "security", "kiber", "startup", "open source"]
+    "keywords": ["tech", "ai", "apple", "android", "chip", "gpu", "cpu", "teszt", "review", "software"]
   },
   "politika": {
     "label": "Politika",
-    "keywords": ["kormány", "parlament", "választás", "miniszter", "törvény", "rendelet", "brüsszel", "eu", "nato"]
+    "keywords": ["kormány", "parlament", "választás", "politika", "elnök", "miniszter", "ukrajna", "eu"]
   },
-  "gazdasag": {
-    "label": "Gazdaság",
-    "keywords": ["infláció", "forint", "euró", "kamat", "tőzsde", "piac", "mnb", "gdp", "árfolyam"]
+  "anime": {
+    "label": "Anime",
+    "keywords": ["anime", "manga", "otaku", "crunchyroll", "episode", "epizód"]
   },
   "egyeb": {
     "label": "Egyéb",
