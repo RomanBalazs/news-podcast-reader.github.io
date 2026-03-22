@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-03-21T18:36:21.407Z",
+  "generatedAt": "2026-03-22T02:10:37.434Z",
   "items": [
+    {
+      "id": "c85b2383cef515f92048a998",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Halide co-founder is suing former partner for bringing source code to Apple",
+      "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+      "publishedAt": "2026-03-21T21:02:56.000Z",
+      "summary": "Halide running on an iPhone. | Photo: Allison Johnson / The Verge\t\n\nLux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cult following for its robust pro-level controls. \nApple was apparently a big enough fan that it tried to acquire the developer last summer. Those talks never bore fruit, and eventually the company simply hired de With. At the time, it was widely believed that Apple had poached him from Lux. But new allegations from a lawsuit filed by co-founder Ben Sandofsky in the California Superior Court of Santa Cruz claim de With was fired for financial misc …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "648c6ad9030628a362017268",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Cookie Run: New World - Official Cinematic Trailer",
+      "url": "https://www.youtube.com/watch?v=DqT8EhquBIM",
+      "publishedAt": "2026-03-21T20:00:08.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "DqT8EhquBIM",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "33a9cd6ed4c7fea95be77342",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
       "type": "video",
-      "title": "Why At Fate's End Was Our Favorite Surprise of GDC 2026 - Unlocked Clips",
+      "title": "The New Action RPG Where You Must Defeat Your Siblings to Survive - Unlocked Clips",
       "url": "https://www.youtube.com/watch?v=zPfIWsTLu1E",
       "publishedAt": "2026-03-21T18:00:51.000Z",
       "summary": null,
@@ -226,20 +254,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "6749571899117ed3e0bd7a0c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The improved battery-powered Starlink Mini is here",
-      "url": "https://www.theverge.com/reviews/898580/peakdo-linkpower-2-review-starlink-mini-battery",
-      "publishedAt": "2026-03-21T07:29:33.000Z",
-      "summary": "All hail true remote access.\t\n\nMy Starlink Mini has radically changed the way I live. It's the biggest reason I can work remotely from my converted van, providing fast and reliable internet in places that traditional 4G and 5G data signals don't reach. Peakdo's latest LinkPower battery makes the smallest Starlink terminal even better by setting it free from power cables for hours at a time.\nWhile that might not sound like a big deal, I can assure you it is. For example, I can park in the shade and place the Mini far away to avoid trees and other obstructions, just so long as I'm within reach of its Wi-Fi signal. It even works on my dashboard without any long cables to sn …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "73859e090a679eb840332895",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "r6Id-YD0OEs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e2fd687c467c921d3db4ab15",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Permafrost - Official Weather and Biomes Trailer",
-      "url": "https://www.youtube.com/watch?v=Pbi8zRZnMr4",
-      "publishedAt": "2026-03-21T00:00:34.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "Pbi8zRZnMr4",
       "spotifyEpisodeId": null
     }
   ]
