@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-03-24T07:04:17.551Z",
+  "generatedAt": "2026-03-24T13:11:39.117Z",
   "items": [
+    {
+      "id": "ae3fbc62f142a1cbffe2d66f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Ayaneo says selling its Windows gaming handheld &#8216;is no longer sustainable&#8217;",
+      "url": "https://www.theverge.com/games/899357/ayaneo-windows-gaming-handheld-sustainable-ram",
+      "publishedAt": "2026-03-24T13:05:15.000Z",
+      "summary": "Ayaneo is suspending preorders for its $1,999 Next 2 gaming handheld due to the skyrocketing price of digital storage. In a post on Monday, Ayaneo says the overall cost to build its Windows handheld now nearly doubles the price it originally set, making it \"unsustainable\" to continue selling.\n\"Even before the launch of NEXT 2, storage prices had already been rising for several months,\" Ayaneo writes. \"At that time, we believed the price might be approaching its peak. Even if it meant making little to no profit-or even a slight loss-we still decided to move forward with the launch. However, what we did not expect was that storage prices woul …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "bc42fca2be6457b533bfad15",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The Hisense U7SG is a great midrange TV you shouldn’t buy yet",
+      "url": "https://www.theverge.com/tech/899160/hisense-u7sg-tv-review",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "summary": "The U7SG is a bright mini-LED TV best suited for a living room with ambient light.\t\n\nWith all of the focus on RGB LED technology, it seemed like more affordable mini-LED TVs had been shooed to the side. But with the Hisense U7SG, we're getting our first great midrange general-use TV of 2026. It gets bright, comes in a wide range of sizes, supports every HDR mode you'll ever need, has great gaming support, and runs on Google TV - my favorite built-in OS, and much better than those from LG and Samsung.\nIt's a great living room TV, but you shouldn't buy it yet. \nFor years, the U7 series has been sandwiched between the U8 and U6 as a capable midrange option. But this year, the U8 moves into the RGB LED lineup as the UR8. This  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "bb828b8ba51aa06503c8a844",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Zoox is bringing its robotaxis to Austin and Miami",
+      "url": "https://www.theverge.com/transportation/899323/zoox-robotaxi-las-vegas-san-francisco-austin-miami",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "summary": "Zoox is stretching out its legs. The Amazon-owned robotaxi today announced that it's gearing up to expand its service in San Francisco and Las Vegas, while also eyeing two additional cities - Austin and Miami - for future service. \nZoox, which is one of the few companies to use a purpose-built autonomous vehicle without traditional driving controls, said it has driven nearly 2 million driverless miles and ferried approximately 350,000 passengers since launching its customer service last year. Zoox doesn't charge for its robotaxi trips, as it's only approved to operate its custom-built vehicle on public roads under a \"demonstration exemption …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f6d8a8e55625679cd34f723e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Nuki adds Apple Home Key to its smart lock",
+      "url": "https://www.theverge.com/tech/899330/nuki-keypad-2-nfc-aliro-apple-homekey-launch",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "summary": "Nuki adds tap to unlock capability to its retrofit lock via a new keypad. | Image: Nuki\t\n\nThis week, my top pick for a retrofit smart lock launched the first Aliro-compatible keypad. The Nuki Keypad 2 NFC ($179) brings tap-to-unlock via Apple's Home Key and Samsung's Digital Home Key to the Nuki smart lock, allowing you to tap your phone or smartwatch to unlock your door, just like you tap to pay. \nAliro is a new smart lock standard supported by all major platforms and handset manufacturers. It is designed to allow any smart lock to be securely unlocked by any smartphone, regardless of manufacturer, without requiring proprietary apps. \nAn open standard, Aliro stores a digital key in your phone's wallet that you can tap to a com …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "a99304ed2b5506b58a7add8c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Nintendo cuts Switch 2 production amid weakening console sales",
+      "url": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
+      "publishedAt": "2026-03-24T11:45:15.000Z",
+      "summary": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six million it had originally planned, according to unnamed sources cited by the publication, with the reduced output set to continue in April.\nLast month, Nintendo president Shuntaro Furukawa said during an earnings call that \"overseas sales were somewhat weaker than expected.\"\nThis slowdown follows a record-breaking launch in June last year, making the Switch 2 Nintendo's fastest-selling con …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "9f0f6eb136a2cad815b23aa9",
       "sourceId": "ign-youtube",
@@ -240,20 +310,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "f3bbe01daed72bb203c607e8",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Two of my favorite color e-book readers are the cheapest they’ve been in months",
-      "url": "https://www.theverge.com/gadgets/899019/kindle-colorsoft-kobo-libra-colour-ebook-reader-amazon-big-spring-sale-2026-deal",
-      "publishedAt": "2026-03-23T19:30:00.000Z",
-      "summary": "The Kobo Libra Colour features physical page turning buttons. | Image: Rakuten Kobo\t\n\nColor isn’t essential in an e-reader, but let’s be honest, it’s a nice perk that can bring digital books, magazines, comics, cookbooks, and other publications to life. The catch is that color ebook readers tend to be substantially pricier, which makes today’s deals stand out. Right now, the Kindle Colorsoft (16GB) and Kobo Libra Colour are matching their lowest prices to date, with the Amazon e-reader going for $169.99 ($80 off) at Amazon and Best Buy, and the Libra Colour going for $199.99 ($30 off) via Rakuten’s online storefront.\nKindle Colorsoft (16GB)\n\nWhere to Buy:\n\n $249.99 $169.99 at Amazon\n $249.99 $169.99 at Best Buy\n $249.99 $169.99 at Target\n\n\nKobo Libra Colour\n\nWhere to Buy:\n\n $229.99 $199.99 at Rakuten Kobo\n $229.99 $209.99 at Target\n $229.99 $209.99 at Amazon\n\nAt their core, both are excellent e-readers with 7-inch, 300ppi E Ink displays, which drop to 150ppi when viewing color. The Colorsoft’s display is slightly more vibrant in most instances, but the difference isn’t dramatic. Each also offers IPX8 water resistance, so you don’t need to worry about spills and can comfortably read in the bath or by the pool. \nWhich one makes more sense for you largely depends on where you buy your books, how much storage you need, and whether you like to take notes. The Colorsoft is great if you’re heavily embedded in Amazon’s ecosystem, as buying and accessing Kindle books is intuitive and doesn’t require any sideloading. As the more affordable option in Amazon’s lineup, the standard Colorsoft delivers a nearly identical reading experience to the Signature Edition, and it supports Amazon’s “Send to Alexa Plus” feature, which lets you send notes or documents to Amazon’s AI-powered assistant for summaries, to-do lists, reminders, and more. The downside is that it lacks wireless charging and an auto-adjusting front light — which are standard on the step-up model — and comes with 16GB of storage instead of 32GB. \nThat said, if I didn’t already own so many Kindle books, the Libra Colour would be my pick. It offers double the storage at 32GB and includes intuitive physical page-turn buttons. You can also write notes while reading, given that it offers stylus support, and it includes built-in notebook templates, as well as the ability to convert handwriting to typed text. It also supports EPUB and a wider range of file formats, and lets you save articles for offline reading with Instapaper. And it also offers adjustable warm lighting, which makes reading at night a little easier on the eyes.\nRead our full Kobo Libra Colour review.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "7d5a2ae585d2cd5929ca6e6f",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -265,20 +321,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "2oSdTPAvpZs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "dd1554345f8c697a8099a232",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple could put ads in Maps as soon as this summer",
-      "url": "https://www.theverge.com/tech/899053/apple-maps-advertising-rumor",
-      "publishedAt": "2026-03-23T18:54:44.000Z",
-      "summary": "Apple will soon bring advertisements to its Maps app on mobile and the web, according to a report from Bloomberg's Mark Gurman. The ads, which Apple could reportedly announce this month before rolling them out in the summer, could allow businesses to pay for the highest spot in search results on Apple Maps.\nThat means if one restaurant secures the winning bid for the word \"sushi\" or \"pizza,\" its location could receive priority in search results over other relevant businesses, as reported by Bloomberg. The setup is similar to how advertising works on Google Maps, which also allows businesses to pay for a higher rank in search results.\nThe m …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "P1DZ7fDUZWA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4087b488c1a159ef237bcdbc",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Donut Lab’s solid-state battery could barely hold a charge after getting damaged",
-      "url": "https://www.theverge.com/transportation/898881/donut-lab-solid-state-battery-damage-test",
-      "publishedAt": "2026-03-23T17:35:52.000Z",
-      "summary": "Donut Lab is on a mission to prove to the world its solid-state battery is real, one independent test at a time. We've seen speed charging tests, extreme heat tests, and not-a-supercapacitor tests. Today's test is to see how the battery holds up under damage. The results: While it could barely sustain a charge, it didn't burst into flames, which Donut Lab sees as a victory.\nIf you'll recall, during the extreme heat tests, the pouch surrounding Donut's battery lost its vacuum seal. This led to researchers at Finland's state-owned VTT Technical Research Centre, which conducted all of the lab's previous tests, to explore whether the cell could …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d9ac7929c42e0657d8b892d3",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple’s WWDC 2026 event starts June 8th",
-      "url": "https://www.theverge.com/news/898997/apple-wwdc-2026-june-8-ios-27-ai-siri",
-      "publishedAt": "2026-03-23T17:21:53.000Z",
-      "summary": "Apple has set a date for this year's Worldwide Developers Conference (WWDC), scheduling the keynote and Platforms State of the Union for June 8th through June 12th at Apple Park. As usual, we will be tuned in to find out what's new in the 2027-branded editions of iOS, iPadOS, macOS, watchOS, and tvOS. After last year's round of glassy visual tweaks, many are waiting for Apple Intelligence to deliver on delayed features, such as an AI upgrade for Siri.\nIn its press release, Apple says, \"WWDC26 will spotlight incredible updates for Apple platforms, including AI advancements and exciting new software and developer tools.\"\nAccording to the lat …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "87536d31d781f98a47616af7",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "PDP’s wireless guitar controller has returned to its best price to date",
-      "url": "https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal",
-      "publishedAt": "2026-03-23T17:05:12.000Z",
-      "summary": "The early 2020s were kind of a dark time if you were a fan of Rock Band. PlayStation 5 and Xbox Series X owners didn’t get an improved, more feature-packed guitar controller until early 2024 when PDP launched the Riffmaster. While it launched for $129.99 and later rose to $149.99, you can now grab it for $99.99 at Amazon, Walmart, and Best Buy in the run-up to Amazon’s Big Spring Sale. The current deal price (which has only happened once before) applies to both the Xbox and PlayStation versions, as well as the newer Nintendo Switch and Switch 2 versions.\nPDP Riffmaster\nPDP’s Riffmaster is a wireless guitar accessory compatible with Rock Band 4 and Fortnite Festival. It has two sets of color-coded buttons you can press to hit notes as they appear on the screen, a built-in 3.5mm audio jack for connecting headphones, and an analog stick to help you easily navigate through each game’s menus. \n\nWhere to Buy:\n\n $149.99 $99.99 at Amazon (PlayStation 5)\n $149.99 $99 at Amazon (Xbox Series X / S)\n $149.99 $99.99 at Amazon (Nintendo Switch)\n\nWhile Rock Band 4 was delisted last October, making the game (and its many downloadable songs) impossible to buy on consoles, the Riffmaster is compatible with Fortnite Festival, which, like the rest of Epic’s online multiplayer game, is a free-to-play experience. Additionally, the Xbox version of the Riffmaster boasts Windows PC compatibility, making it the one to get if you want to play community-built games like Clone Hero.\nAs far as components go, the Riffmaster makes it easier to navigate system and game menus with its built-in analog stick, which is located behind the fret buttons at the top of the collapsible neck. The wireless controller features a rechargeable battery that charges via USB-C, too, and PDP claims it can last for up to 36 hours per charge. It also has a 3.5mm headphone jack in case you’d prefer to listen to your game audio privately.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
