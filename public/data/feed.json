@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-25T02:08:42.783Z",
+  "generatedAt": "2026-03-25T07:02:29.564Z",
   "items": [
+    {
+      "id": "d2a7dd8deb34c0914a263c62",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The BB-777 is the ultimate in boombox nostalgia",
+      "url": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
+      "publishedAt": "2026-03-25T02:00:00.000Z",
+      "summary": "Scooby Doo. | Image: Bumpboxx\t\n\nBumpboxx is fully embracing nostalgia with its latest boombox, the BB-777, which is modeled very closely on the legendary Sharp GF-777. A real deal GF-777 will set you back over $2,000 for one in working order. Plus, that vintage unit lacks modern amenities like Bluetooth or a rechargeable battery. Heck, it doesn't even have a CD player. \nThe BB-777 takes the core of the GF, right down to the dual-cassette decks, control layout, and speaker specs printed above the subwoofers. It's undeniably a gorgeous piece of gear with its vintage silver finish and extensive physical controls. But then it adds a replaceable battery pack, Bluetooth, and an …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "04dd299e8a97bc3613ffc95d",
       "sourceId": "ign-youtube",
@@ -293,20 +307,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "HuL4RMin53k",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "1e1f2f4301b386016a0b1b22",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Lego Game Boy makes for a great gift, and it’s $10 off today",
-      "url": "https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale",
-      "publishedAt": "2026-03-24T18:38:35.000Z",
-      "summary": "The Lego Game Boy is a joy to assemble and display. | Photo by Sean Hollister / The Verge\t\n\nDeals on the Lego Game Boy are virtually nonexistent, save for the $10 discount that Costco and Sam’s Club offered their members when the set launched late last year. The deal is back — this time, at Kohl’s — and no membership is required to get $10 off. You can purchase the Lego Game Boy and have it shipped (or elect to pick it up in-store) for $49.99 when you use promo code TOYS10 at checkout.\nLego Game Boy\n\nWhere to Buy:\n\n $59.95 at Amazon\n $59.99 at Lego\n $59.99 $49.99 at Kohls (with code TOYS10)\n\nThe Lego Game Boy is a 421-piece homage to Nintendo’s influential handheld from 1989. And, unlike most Lego sets, there are various ways to interact with the brick-based Game Boy that might evoke some strong memories if you ever owned this model. It features clickable buttons, a movable floating directional pad, and a set of Lego car tires that act as the Start and Select buttons. Clearly, Lego and Nintendo had fun designing this.\nThe set includes two cartridges you can assemble (The Legend of Zelda: Link’s Awakening and Super Mario Land). While the mock cartridges obviously don’t boot into real games, the set includes lenticular screens that make it look like these games are running on the hardware. My colleague Sean Hollister reviewed the Lego Game Boy, and he adores the attention to detail and almost everything about it except the screen, which doesn’t match the original hardware’s limited green color palette. Even if you’re as particular as Sean is, there’s still a lot to love here.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
