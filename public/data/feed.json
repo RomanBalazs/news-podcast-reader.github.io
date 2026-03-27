@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-03-27T07:07:26.674Z",
+  "generatedAt": "2026-03-27T13:06:40.313Z",
   "items": [
+    {
+      "id": "d1c8a4597039a62bb95d9a19",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Sony is raising PS5 prices by $100 in April",
+      "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
+      "publishedAt": "2026-03-27T12:20:19.000Z",
+      "summary": "Sony is raising the price of its PlayStation 5 consoles globally starting April 2nd. In an announcement on Friday, Sony says that the standard PS5 will now cost $649.99, up from $549.99. Meanwhile, the PS5 Digital Edition now costs $599.99 instead of $499.99, and the PlayStation 5 Pro will cost $899.99 instead of $749.99.\nAlong with these changes, Sony is increasing the price of its PlayStation Portal as well, going from $199.99 to $249.99.\nThis is the second time in less than a year that Sony has raised the price of its PS5 consoles, as the company hiked prices by $50 for all three models last August. Sony cites \"continued pressures in th …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f0af0163eccf4c3b7e052a45",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "AI Limit - Official \"Eirene's Furnace of War\" Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=yaMOXHh1auo",
+      "publishedAt": "2026-03-27T11:00:00.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "yaMOXHh1auo",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "eca08a7f596d14fdd22745ca",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Rank the 50 best Apple products",
+      "url": "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products",
+      "publishedAt": "2026-03-27T10:00:00.000Z",
+      "summary": "In honor of Apple’s 50th anniversary, we picked 50 of our favorite Apple products, from the OG iPhone to GarageBand. Now we’re ranking them as a community, and you can contribute here.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "94d85d070fe5876c1a5addce",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Here’s how to rank the 50 best Apple products ever",
+      "url": "https://www.theverge.com/podcast/901378/apple-50-anniversary-rank-vergecast",
+      "publishedAt": "2026-03-27T10:00:00.000Z",
+      "summary": "Apple turns 50 next week, and we're going to spend the week covering the company, its products, its legacy, and its future. But mostly, we're going to spend the week debating which Apple products are the best. And we need your help.\n\n\nOur ranking system is live now, filled with what we believe to be the 50 best things Apple has ever created. Your job is to put them in order. When you start ranking, you'll be presented with two products; pick the best one to contribute to our overall live rankings, which you can always check by clicking \"See Results.\"\n(By the way, if you want to hear Nilay and David spend the better part of two hours …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "f017c72f4e5bab7d9b5eb31e",
       "sourceId": "ign-youtube",
@@ -282,20 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "5e19c641807f046125a0c5c1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Anker’s wireless charging pad offers Qi2 speeds for $15",
-      "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
-      "publishedAt": "2026-03-26T21:00:00.000Z",
-      "summary": "The MagGo wireless charging pad is available in black (shown here) or white. | Image: Anker\t\n\nI’ve probably saved minutes of my life by using a wireless charging puck. Minutes! More valuable than that, I’ve saved myself from bending over numerous times to pick up my USB-C cable that somehow always ends up on the floor. Those with magnet-equipped phones (like the iPhone 12 or newer, or a Google Pixel 10 or 10 Pro phone) can reap similar benefits from a MagSafe-ready Qi2 charging puck. Anker’s MagGo 15W pad is one such model, and it’s down to $14.99 ($15 off) at Amazon and Walmart thanks to Amazon’s Big Spring Sale.\nIs 15W fast enough to quickly recharge your phone? If you define “quickly” as under an hour, then no. If you need a bunch of juice in just a few minutes, plugging in is your best bet. But is 15W perfect for leaving your phone to recharge overnight? Yes, indeed.\nAnker Qi2 15W wireless charging pad\nAnker’s low-cost charging pad has a five-foot USB-C cable, and the company claims you can leave your phone’s case on while you charge. It doesn’t include a wall adapter.\n\nWhere to Buy:\n\n $29.99 $14.99 at Amazon (black)\n $29.99 $14.99 at Amazon (white)\n\nThe MagGo Qi2 puck doesn’t include a wall adapter, although one is required for use (Anker recommends a 25W adapter that supports Power Delivery). Assuming you already have one of those, it’s a nice accessory that makes it even easier than it already was to charge not just your phone, but your AirPods, too. Anker’s product page mentions support for Samsung’s Galaxy Buds, so it’s likely that other earbud models that have wireless charging-ready cases will work with this charging pad, too.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "7124518ca9c6e83ce3268ab3",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "2dXD_XNJMs4",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6e911aa15ce50b53364ee8d2",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple’s AI Playlist Playground is bad at music",
-      "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
-      "publishedAt": "2026-03-26T20:51:31.000Z",
-      "summary": "Apple Music: \"What do you want to hear?\"\nMe: \"Atmospheric instrumental black metal to write to.\"\nApple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" \nI am skeptical of AI's ability to serve up the music I want to begin with, but even I was caught slightly off guard by how underwhelming Apple's new Playlist Playground beta is. YouTube Music's AI playlist generator is far from perfect, but when I gave it the same prompt for instrumental black metal, it wasn't until the fifth track that it delivered something with lyrics, and that was the exception, rather than the ru …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "3cd8b229dca2d895d7cbe270",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "The End of Oak Street - Official Teaser Trailer (2026) Ewan McGregor, Anne Hathaway",
-      "url": "https://www.youtube.com/watch?v=MKWroW0QDZE",
-      "publishedAt": "2026-03-26T20:00:12.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "MKWroW0QDZE",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4e1b6b37c181bf7ea90b57bf",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Streaming keeps getting more expensive: all the latest price hikes",
-      "url": "https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max",
-      "publishedAt": "2026-03-26T19:13:26.000Z",
-      "summary": "There’s more good stuff to watch than ever — if you can afford it. | Image: Amazon\t\n\nDeath. Taxes. All your streaming services getting a little more expensive all the time. These are the new certainties in life, it seems.\nNetflix has raised the cost of its subscription repeatedly in recent years. Disney Plus, Prime Video, HBO Max, Paramount Plus, Peacock — practically any service you can name — charges more per month than it did a few years ago, and many of them have introduced ad breaks. As customers cancel cable more quickly than anyone expected, the studios and distributors are looking for a way to make up the lost revenue. Good shows, live sports, and movies are more in demand — and thus more expensive — than ever. \nAnd after a decade of spending money like it was going out of style because all investors cared about were subscriber numbers, companies are looking for any way they can to improve their bottom line. They’re cracking down on password sharing, canceling shows for the tax breaks, and even selling prized content to other platforms. But the most common strategy is simply to charge you, the viewer, more. \nWe’re tracking all the price increases and other changes from streaming services so you can make sure you’re only paying for what you want. (We’ll also include discounts and deals, though those seem to happen less and less.) Here’s the latest:\nNetflix is raising prices again\n\t\t\t\nAmazon Prime Video nearly doubles the price to go ad-free and stream 4K video\n\t\t\t\nCrunchyroll is raising prices again\n\t\t\t\nParamount Plus is getting a price hike in early 2026\n\t\t\t\nHBO Max is raising prices for the third year in a row\n\t\t\t\nApple TV Plus is getting more expensive and will cost $12.99 per month\n\t\t\t\nRoku’s new ad-free video service only costs $2.99 per month\n\t\t\t\nPeacock is raising its prices by $3\n\t\t\t\nMax’s password sharing crackdown is about to get serious.\n\t\t\t\nMax is going to make you pay for people you share your password with\n\t\t\t\nPlex Pass is going up in price — and now you’ll need it for remote playback\n\t\t\t\nMax’s ad-supported tier is losing CNN and the Bleacher Report\n\t\t\t\nAmazon Music Unlimited is getting a price hike\n\t\t\t\nNetflix won the streaming wars, and we’re all about to pay for it\n\t\t\t\nFubo’s cheapest streaming plan is now $85 per month\n\t\t\t\nAmazon’s push to make Prime Video profitable.\n\t\t\t\nRemember when Netflix was just $7.99?\n\t\t\t\nNetflix is raising prices again, as the standard plan goes up to $17.99\n\t\t\t\nDiscovery Plus is raising its prices\n\t\t\t\nYouTube TV is letting some subscribers hold off that price hike\n\t\t\t\nSling TV’s streaming TV price goes up by $5.99 next month\n\t\t\t\nGeForce Now Founders won’t be subject to Nvidia’s upcoming 100-hour-a-month data cap.\n\t\t\t\nYouTube Premium subscribers are reporting price hikes around the globe\n\t\t\t\nDisney’s password-sharing crackdown starts ‘in earnest’ this September\n\t\t\t\nThe price of Disney Plus is about to go up\n\t\t\t\nParamount Plus is getting yet another price hike\n\t\t\t\nMax raises prices across its ad-free plans\n\t\t\t\nA Disney, Hulu, and Max streaming bundle is on the way\n\t\t\t\nMax price hike incoming.\n\t\t\t\nPeacock is getting a $2 price increase\n\t\t\t\nNetflix is all about the money, not the members\n\t\t\t\nWhat’s up with all the streaming price hikes?\n\t\t\t\nThe Disney Plus password-sharing crackdown starts in June\n\t\t\t\nIn 2023, everyone was shopping around on streaming services.\n\t\t\t\nNvidia’s free-tier GeForce Now will soon show ads while you’re waiting to play\n\t\t\t\nNetflix confirms it’s cutting off Apple billing for legacy subscribers\n\t\t\t\nAmazon Prime Video drops Dolby Vision and Atmos unless you pay extra\n\t\t\t\nFunimation is shutting down — and taking your digital library with it\n\t\t\t\nDisney Plus will start its password-sharing crackdown this summer\n\t\t\t\nReminder: Amazon Prime Video is getting ads today\n\t\t\t\nNetflix is turning into cable TV\n\t\t\t\nNetflix is going to take away its cheapest ad-free plan\n\t\t\t\nFubo subscriptions are going up in price.\n\t\t\t\nPrime members can now “pre-order” the ad-free version of Prime Video before it goes live on January 29th.\n\t\t\t\nAmazon Prime Video will start showing ads on January 29th\n\t\t\t\nMax is taking 4K away from its legacy ad-free subscribers\n\t\t\t\nThat’s one pricey subscription\n\t\t\t\nApple TV Plus is getting a price hike — and other Apple subscriptions are, too\n\t\t\t\nHere comes another Netflix price hike\n\t\t\t\nNvidia is raising the price of GeForce Now, but not in the US\n\t\t\t\nThe ad-free version of Discovery Plus is getting a price hike\n\t\t\t\nNetflix is planning to raise prices… again\n\t\t\t\nAMC Plus is getting an ad-supported subscription tier\n\t\t\t\nDisney, Hulu, and Paramount Plus are all discounted for a limited time\n\t\t\t\nYou can get three months of Disney Plus for about $6 right now\n\t\t\t\nStarz is lowering the price of its annual subscription, unlike everyone else\n\t\t\t\nIt’s time to rethink our relationships with streaming services\n\t\t\t\nDisney Plus and Hulu are about to get even more expensive\n\t\t\t\nPeacock adds just 2 million subscribers ahead of price hike\n\t\t\t\nPeacock’s prices are going up in August\n\t\t\t\nParamount Plus will raise its prices next month\n\t\t\t\nMax is charging more money for 4K, and that means it can’t suck this time\n\t\t\t\nThis is why streaming Netflix, Disney Plus, and HBO Max keeps getting more expensive\n\t\t\t\nDisney Plus and Hulu are getting steep price hikes\n\t\t\t\nWhy Netflix keeps cranking up its prices",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
