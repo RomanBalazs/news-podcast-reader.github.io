@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-03-29T02:26:53.849Z",
+  "generatedAt": "2026-03-29T07:03:28.438Z",
   "items": [
+    {
+      "id": "90afb35416ad1fe0b9d22347",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Invincible VS - Official Conquest Gameplay Trailer",
+      "url": "https://www.youtube.com/watch?v=-KVeJ9-qPdA",
+      "publishedAt": "2026-03-29T02:33:52.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "-KVeJ9-qPdA",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "cb6e6b3a213b9757ebf48cce",
       "sourceId": "ign-youtube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a9c530df43b6c734a9c2d8dc",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Guess the character, live on Game Scoop! from the Trolli House at PAX East!",
-      "url": "https://www.youtube.com/shorts/UOANx0aySsI",
-      "publishedAt": "2026-03-28T01:22:37.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
