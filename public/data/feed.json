@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-03-29T18:42:27.661Z",
+  "generatedAt": "2026-03-30T02:29:01.167Z",
   "items": [
+    {
+      "id": "c0fc9a88b9a563773fa0895e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "All the latest in AI &#8216;music&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "publishedAt": "2026-03-30T01:32:14.000Z",
+      "summary": "People don’t like that they can’t identify AI music. | Image: Cath Virginia / The Verge\t\n\nAI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly is “really active“? Whether it’s a new model or a new lawsuit, we’re covering it all to make sure you don’t miss any major developments. \nSo follow along as we dig into the latest in AI “music.”\n\n\n\t\t\t\t\t\nSuno leans into customization with v5.5\n\t\t\t\nThe music industry has embraced a “don’t ask, don’t tell” policy about AI.\n\t\t\t\nNorth Carolina man pleads guilty to AI music streaming fraud.\n\t\t\t\nApple Music adds optional labels for AI songs and visuals\n\t\t\t\nQobuz is automatically detecting and labeling AI music now, too.\n\t\t\t\nThis Chainsmokers-approved AI music producer is joining Google\n\t\t\t\nGoogle’s AI music maker is coming to the Gemini app\n\t\t\t\nDeezer opens its AI music detection tool to other platforms\n\t\t\t\nElevenLabs made an AI album to plug its music generator\n\t\t\t\nBandcamp becomes the first major music platform to ban AI content\n\t\t\t\nUniversal Music signs a new AI deal with Nvidia\n\t\t\t\nMusicians are getting really tired of this AI clone ‘bullshit’\n\t\t\t\nGet ready for an AI country music explosion\n\t\t\t\n97 percent of people struggle to identify AI music, but it’s not as bad as it seems\n\t\t\t\nWarner Music Group partners with Suno to offer AI likenesses of its artists\n\t\t\t\nThe music industry is all in on AI\n\t\t\t\nNo, typing an AI prompt is not ‘really active’ music creation\n\t\t\t\nSuno valued at $2.45 billion in latest funding round as lawsuits loom.\n\t\t\t\nThe human behind AI music artist Xania Monet, revealed.\n\t\t\t\nSuno’s upgraded AI music generator is technically impressive, but still soulless\n\t\t\t\nWhat happens when an AI-generated artist gets a record deal? A copyright mess\n\t\t\t\nRecord labels claim AI generator Suno illegally ripped their songs from YouTube\n\t\t\t\nCan the music industry make AI the next Napster?\n\t\t\t\nAI music company Suno acquired a browser-based audio editing tool called WavTool.\n\t\t\t\nThe music industry is building the tech to hunt down AI songs\n\t\t\t\nSabotaging AI music with sick beats.\n\t\t\t\nYouTube’s new AI tool generates free background music for videos\n\t\t\t\nSplice CEO Kakul Srivastava on where to draw hard lines around AI in music\n\t\t\t\nMaking human music in an AI world\n\t\t\t\nAI music startups say copyright violation is just rock and roll\n\t\t\t\nThe music industry’s AI fight\n\t\t\t\nListen to the AI songs music labels say violate their copyright.\n\t\t\t\nWarner Music Group’s CEO says we might see AI prompt-generated music really soon.\n\t\t\t\nAI-generated music isn’t just a copyright hazard.\n\t\t\t\nHow AI is solving one of music’s most expensive problems",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3b509539e93176cd8a28f876",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Bluesky’s new app is an AI for customizing your feed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "publishedAt": "2026-03-29T21:44:41.000Z",
+      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). \nAttie allows users to create custom feeds using natural language. For example, you could ask for \"posts about folklore, mythology, and traditional music, especially Celtic traditions.\" To start these custom feeds will be confined to a standalone Attie app. But the plan is to make them available in Bluesky and other atproto apps. \n …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "2185f56a69424977437ea5f5",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Red Rooms makes online poker as thrilling as its serial killer",
+      "url": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
+      "publishedAt": "2026-03-29T19:45:00.000Z",
+      "summary": "Juliette Gariépy’s Kelly-Anne is an uncomfortable mystery. | Image: Nemesis Films Productions\t\n\nIt's rare for a movie to get technology right. And it's even rarer for that movie to be a thriller or horror, where realism takes a backseat to scares and tension. But Red Rooms mostly gets it. Nothing takes me out of a film quicker than a tech MacGuffin that might as well be literal magic. Yes, the phrase \"dark web\" will always sound a bit silly, but at no point during its 118 minutes does the tech become a distraction. \nIt's not the tech that makes Red Rooms great, though. It's just something that could have easily tanked an otherwise excellent movie. What carries the film is the expert tension building by director Pascal Plante. The perf …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "2be89337f5d1bc2bcde8a106",
       "sourceId": "the-verge-tech",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "1D4EkKSlNM8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "76128e1e4b4a0f41ce91db76",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off",
-      "url": "https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal",
-      "publishedAt": "2026-03-28T15:00:00.000Z",
-      "summary": "The SteelSeries Arctis Nova Pro Wireless came out almost four years ago, yet it’s still one of the best gaming headsets you can buy. Turns out, it’s not easy for other companies to duplicate all that SteelSeries got right with this one — mixing multiple audio sources, active noise cancellation, a retractable mic, hot-swappable batteries, and more. Normally priced at $379.99, it’s down to $299.99 at Amazon during the company’s Big Spring Sale that lasts through April 1st at 2:59AM ET. The deal is also happening at Best Buy and from SteelSeries directly.\nSteelSeries Arctis Nova Pro Wireless\n\nWhere to Buy:\n\n $349.99 $299.99 at Amazon\n $349.99 $299.99 at SteelSeries\n $349.99 $299.99 at Best Buy\n\nThe Nova Pro Wireless is a unique product in that two Verge staffers tested the headset when it launched. Sean Hollister and I each received units and co-published an in-depth review because there were a lot of features to cover, and there was a lot to say about this fantastic headset.\nIn late 2025, SteelSeries launched a more premium version of this model called the Nova Pro Elite. Save for its more premium build materials, improved wireless signal and hi-res audio, there’s not a ton else to justify spending the whopping $599.99 it costs. We think the Nova Pro Wireless that costs literally half the amount is pricey enough as is, and definitely good enough for most people.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "b0535255cbede47dc5297be3",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Why can’t TikTok identify AI generated ads when I can?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
-      "publishedAt": "2026-03-28T14:00:00.000Z",
-      "summary": "Samsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers. | Image by Samsung\t\n\nI've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, I didn't see any examples with the AI disclosure required by TikTok's advertising policies, however, so I had no way of knowing for sure.\nWhat irks me is that someone knows for sure if the content is AI-generated. They're just not telling the rest of us. And if companies that claim to support AI-labelling …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e1aa431fc567ba70f0661eea",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Meta’s legal defeat could be a victory for children, or a loss for everyone",
-      "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
-      "publishedAt": "2026-03-28T14:00:00.000Z",
-      "summary": "Is social media not just bad, but illegally bad? Should tech companies pay for making it that way? According to two US juries - and no shortage of outside commentary - the answer to both questions is \"yes.\"\nEarlier this week, two juries - one in New Mexico, one in Los Angeles - held Meta liable for a total of hundreds of millions of dollars for harming minors. YouTube was also found liable in Los Angeles, and both companies are appealing their losses. In one sense, the decisions were surprising. Meta and Google operate platforms for transmitting speech and are typically protected in a variety of ways by Section 230 and the First Amendment;  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
