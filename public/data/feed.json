@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-04T02:07:15.794Z",
+  "generatedAt": "2026-04-04T07:01:03.863Z",
   "items": [
+    {
+      "id": "fdc5ca40cfdeb76e6942363d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Anker’s Nebula P1 projector is the portable sound king",
+      "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+      "publishedAt": "2026-04-04T07:00:00.000Z",
+      "summary": "The Nebula P1 goes anywhere you can find a power source.\t\n\nThe Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound.\nThe Nebula P1's standout feature is a pair of speakers that detach to create true left- and right-channel separation. It sounds much better than typical all-in-ones like the supremely portable TCL PlayCube, Xgimi MoGo, or Anker's popular Capsule projectors.\nI've been testing the $799 (currently on sale for $639) Nebula P1 as I travel around the European countryside in my van. It's not my favorite portable projector, but  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "8feb5e2ab1abfe239a3eca16",
       "sourceId": "ign-youtube",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april",
       "publishedAt": "2026-04-03T14:00:00.000Z",
       "summary": "Nothing moved the needle this week. | Image: The Verge / Shutterstock\t\n\nWhere's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. Crickets. \nDespite recent signs of life, another week has come and gone without the Trump T1 Phone. We're now over nine months since its announcement in June of last year, and it just keeps missing ship dates. That's enough time to gestate and birth a whole human baby! It's also like, three (RIP) Samsung Galaxy Z TriFolds long. Which got me to thinking, what other products and services arrived - and maybe even departed - in the time that we've been waiting for the T1? Here is an incomplete list:\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "072e482efa7c49d3e52dc5a5",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "How the Apple Watch defined modern health tech",
-      "url": "https://www.theverge.com/column/906391/apple-watch-optimizer-apple-50-health-tech-wearables",
-      "publishedAt": "2026-04-03T14:00:00.000Z",
-      "summary": "In my humble opinion, the Series 4 was a watershed moment in wearable tech history. | Image: Cath Virginia / The Verge, Getty Images\t\n\nThis is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nYou can trace the state of health tech today to a single gadget: the Apple Watch Series 4. \nBack in 2018, smartwatches and fitness bands focused on a handful of things: step count, heart rate, some light sleep monitoring, and activity logging. As a result, they were much more focused on fitness rather than overall health. Handy if you were trying to increase activity levels or lose a few pounds, but not a device th …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
