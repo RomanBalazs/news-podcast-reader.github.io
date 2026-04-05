@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-04-04T18:42:19.980Z",
+  "generatedAt": "2026-04-05T02:28:51.588Z",
   "items": [
+    {
+      "id": "a9837827713334a62aa37cd1",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Decorado - Official Trailer (2026)",
+      "url": "https://www.youtube.com/watch?v=fcWL0ncOoi0",
+      "publishedAt": "2026-04-05T01:00:38.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "fcWL0ncOoi0",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "82355873599a234bad38eb69",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Heads or Tails - Official Trailer (2026) John C. Reilly",
+      "url": "https://www.youtube.com/watch?v=AA3mtEIyRsk",
+      "publishedAt": "2026-04-05T00:00:17.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "AA3mtEIyRsk",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "a1818daedabeb1d230be74c3",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The Old Stories: Moses - Official Trailer (2026)",
+      "url": "https://www.youtube.com/watch?v=mwNoDK3XggA",
+      "publishedAt": "2026-04-04T23:00:59.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "mwNoDK3XggA",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "989b5b60eb3134a16edcd1cf",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Ramayana - Official Teaser Trailer (2026)",
+      "url": "https://www.youtube.com/watch?v=Rp97RZ_4IZA",
+      "publishedAt": "2026-04-04T22:00:34.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Rp97RZ_4IZA",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4e9b5ed40df49cfb5ad50b1c",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "All Will Fall - Official Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=dZUGGqnUslw",
+      "publishedAt": "2026-04-04T21:15:06.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "dZUGGqnUslw",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "10d726f34563cdba80eb05fa",
       "sourceId": "ign-youtube",
@@ -254,34 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "fc799d0b1060e441fc40916f",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Will you watch the trailer for Avengers: Doomsday or will you \"go in blind\"? #movie #trailer #marvel",
-      "url": "https://www.youtube.com/shorts/kAvtSX-yD98",
-      "publishedAt": "2026-04-03T23:40:24.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "8854c1e6384bee048bf67b87",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Aragorn Actor Vigo Mortensen Not Returning for 'The Hunt for Gollum' - IGN Daily Fix",
-      "url": "https://www.youtube.com/watch?v=um4_JbTBPIE",
-      "publishedAt": "2026-04-03T22:13:34.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "um4_JbTBPIE",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "18df43b5cbf961bc15894394",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -296,20 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "105f550f75d7a437ddc96a6b",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Higher Hardware Prices Are an Existential Threat to Video Games as We Know Them",
-      "url": "https://www.youtube.com/watch?v=mcdQO2KhH-U",
-      "publishedAt": "2026-04-03T20:33:57.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "mcdQO2KhH-U",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "4b022d2b629204ed80479608",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ee66bead8f6bc4866eb23ae5",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Avengers: Doomsday star Wyatt Russell hates doing interviews right after the Marvel panel! #marvel",
-      "url": "https://www.youtube.com/shorts/5lWzveJGAbw",
-      "publishedAt": "2026-04-03T18:55:36.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "46f0ead0767879b4988d7561",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Star Wars: Maul - Shadow Lord - Official ‘Reflections Recap' Trailer",
-      "url": "https://www.youtube.com/watch?v=B4QPud6d3-Q",
-      "publishedAt": "2026-04-03T18:02:40.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "B4QPud6d3-Q",
       "spotifyEpisodeId": null
     }
   ]
