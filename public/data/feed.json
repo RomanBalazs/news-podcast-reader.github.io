@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-04-07T07:17:14.904Z",
+  "generatedAt": "2026-04-07T13:18:49.313Z",
   "items": [
+    {
+      "id": "5005764fd704c82dce57cc55",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The case for banning cookie banners",
+      "url": "https://www.theverge.com/podcast/907919/ban-cookie-banners-gemini-maps-vergecast",
+      "publishedAt": "2026-04-07T13:02:43.000Z",
+      "summary": "You almost certainly encounter cookie banners all the time. They're the kind of low-level annoyance that just seems to come with being a person on the internet: a pop-up asking you to agree to share some kind of information, with someone, for some purpose. You could find out more, but you don't. No one does. You just click \"Accept\" and move on.\n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nAre these banners sort of annoying, or are they something more? On this episode of The Vergecast, Kate Klonick, a professor at St. John …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "fada553c8d590c87b284b66a",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Industria 2 - Official Release Date Trailer",
+      "url": "https://www.youtube.com/watch?v=R6hfoW9oJHo",
+      "publishedAt": "2026-04-07T13:00:48.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "R6hfoW9oJHo",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9cf4d85440e28938e6c281dd",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Pebblebee’s new Halo tracker doubles as a personal safety device",
+      "url": "https://www.theverge.com/tech/907352/pebblebee-safe-haven-halo-location-tracker-personal-safety-alarm-siren-strobe",
+      "publishedAt": "2026-04-07T13:00:00.000Z",
+      "summary": "The Pebblebee Halo is larger but more functional than an Apple AirTag. | Image: Pebblebee\t\n\nAfter expanding the functionality of its Clip location tracker last year with a panic alarm that sends messages and your location to trusted contacts, Pebblebee has announced a new tracker with even more personal safety features. The Halo is brighter and louder than the Clip and features an easier-to-trigger alert. \nAvailable starting today for $59.99 through Pebblebee's online store and on Amazon starting on April 20th, Halo is at its core still a location tracker. It's compatible with either Apple's Find My tracking network or Google's Find Hub, but not both at the same time, and small enough to be stashed in a bag or clipped to your keys …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "19fe71e81905d5f8311e82a2",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "A wide foldable iPhone dummy emerges amid rumors of a delay",
+      "url": "https://www.theverge.com/tech/907856/iphone-fold-dummy-design-delay-production",
+      "publishedAt": "2026-04-07T11:27:04.000Z",
+      "summary": "The two iPhone 18 Pro dummies look much like last year’s 17 Pro models. | Image: Sonny Dickson\t\n\nWe might have our first good look at the shape of the oddly wide iPhone Fold, after leaker and journalist Sonny Dickson shared photos of what he says is a dummy unit of the foldable, alongside similar models of the iPhone 18 Pro and 18 Pro Max. The apparent design leak comes as it's reported that early engineering tests of the foldable have suffered from production problems which may cause it to ship months later than other iPhones this year.\nDickson, who has a good track record for sourcing accurate dummy models of Apple and Samsung phones used by case makers to test and design their products, shared images of the foldable unit on Bluesky  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "5ac4dbf866781b9ca85b9121",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Gemini is making it faster for distressed users to reach mental health resources ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "publishedAt": "2026-04-07T10:09:57.000Z",
+      "summary": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot \"coached\" a man to die by suicide, the latest in a string of lawsuits alleging tangible harm from AI products.\nWhen a conversation indicates a user is in a potential crisis related to suicide or self-harm, Gemini already launches a \"Help is available\" module that directs users to mental health crisis resources, like a suicide hotline or crisis text line. Google says the update - really more of a redesign - will streamline this into a \"one-touc …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "ab04c6330fac190b70041839",
       "sourceId": "ign-youtube",
@@ -163,7 +233,7 @@
       "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
       "url": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
       "publishedAt": "2026-04-06T17:24:46.000Z",
-      "summary": "In this handout image provided by NASA, Orion snapped this high-resolution selfie in space with a camera mounted on one of its solar array wings during a routine external inspection of the spacecraft on the second day into the Artemis II mission on April 3rd, 2026. | Photo: NASA via Getty Images\t\n\nHumans haven’t stepped foot on the Moon since NASA’s Apollo 17 mission in 1972. Now, the space agency is racing to get back to the lunar surface under the umbrella of its Artemis program — a nod to the Greek goddess and twin sister of Apollo, whose name was given to NASA’s first program to send humans to the Moon. \nThe program has been plagued by years of delays, development mishaps, and billions of dollars in budget overruns, but the mission is unquestionably ambitious. The goal of Artemis is to create a sustainable presence near the Moon, instead of just sending humans to plant flags and make footprints. The agency also aims to send the first woman to the Moon through the Artemis program.\nArtemis I successfully completed its uncrewed mission in 2022. On April 2nd, 2026, Artemis II launched from Kennedy Space Center carrying four astronauts in its Orion capsule. The plan is to travel around the Moon before returning to Earth in 10 days’ time. They’ll test out the hardware and systems that could soon see humans standing on the Moon for the first time in more than 50 years in the Artemis IV mission scheduled for 2028.\nOn Monday, April 6th, NASA’s livestream is broadcasting on YouTube and on Netflix as the Artemis II astronauts break the record for the farthest distance humans have traveled away from Earth, and during a planned drop in communications as Orion passes behind the Moon. \n\n\n\n\t\t\t\t\t\nNASA’s Orion spacecraft has reached its maximum distance from Earth: 252,756 miles.\n\t\t\t\nArtemis II astronauts break a record, name a crater\n\t\t\t\nArtemis II crew sets the distance record.\n\t\t\t\nThe Artemis II astronauts will set a new distance record from Earth today\n\t\t\t\nToday’s Artemis II lunar flyby will be livestreamed on Netflix.\n\t\t\t\nThe far side of the Moon peeks out to say hi.\n\t\t\t\nYou can’t doomscroll 230,000 miles from Earth.\n\t\t\t\nArtemis II is more than halfway to the Moon.\n\t\t\t\nWhy the Artemis II crew is relying on decade old tech.\n\t\t\t\nNASA did eventually solve Artemis II’s Outlook glitch\n\t\t\t\nHey, that’s Earth!\n\t\t\t\n“With this burn to the moon, we do not leave Earth, we choose it.”\n\t\t\t\nArtemis II tech support checking in.\n\t\t\t\nA stunning look at the Artemis II liftoff.\n\t\t\t\nNASA launches four astronauts toward the Moon on the Artemis II mission\n\t\t\t\nThe Artemis Moon base project is legally dubious\n\t\t\t\nThe NASA countdown begins.\n\t\t\t\nNASA’s Moon mission delayed again.\n\t\t\t\nNASA’s now targeting March 6th as its earliest Artemis II launch attempt.\n\t\t\t\nArtemis II delayed.\n\t\t\t\nCold weather in Florida is pushing back the Artemis II launch\n\t\t\t\nSpaceX proposes a new plan for NASA’s Artemis III moon landing.\n\t\t\t\nNASA’s mission to return humans to the Moon has been delayed again until 2026\n\t\t\t\nNASA wants SpaceX and Blue Origin to deliver cargo to the moon\n\t\t\t\nNASA picks three companies to develop a Moon car for Artemis astronauts\n\t\t\t\nNASA’s Artemis mission to take humans back to the Moon has been delayed until 2025\n\t\t\t\nHow to watch NASA’s Artemis I SLS megarocket launch\n\t\t\t\nNASA moves next Artemis I rocket launch attempt to September 3rd\n\t\t\t\nNASA seeks to put first person of color on the Moon in Artemis mission\n\t\t\t\nNASA will fly Orion deep-space crew capsule ‘as is,’ despite failed component\n\t\t\t\nA Canadian astronaut will fly around the Moon on the first crewed mission of NASA’s new rocket\n\t\t\t\nAt his last Space Council meeting, Mike Pence announces new cadre of lunar astronauts\n\t\t\t\nComponent failure in NASA’s deep-space crew capsule could take months to fix\n\t\t\t\nSenate committee’s budget for lunar landers falls short of NASA request\n\t\t\t\nNASA administrator says he plans to leave position under Biden administration\n\t\t\t\nWater ice on the Moon may be easier to reach than we thought, new studies claim\n\t\t\t\nUS and seven other countries sign NASA’s Artemis Accords to set rules for exploring the Moon\n\t\t\t\nHead of Russian space program calls for more international cooperation in NASA’s Moon plans\n\t\t\t\nNASA wants to buy Moon rocks from private companies\n\t\t\t\nHouse budget bill denies major increases for NASA to fund ambitious Moon program\n\t\t\t\nNASA wants to hear your ideas for engineering the best toilet to use on the Moon\n\t\t\t\nNASA announces international Artemis Accords to standardize how to explore the Moon\n\t\t\t\nNASA picks SpaceX, Blue Origin, and Dynetics to create landers to take humans to the Moon\n\t\t\t\nThe Trump administration calls for big budget increases for NASA to fund Moon-to-Mars program\n\t\t\t\nNASA administrator on the year ahead: ‘A lot of things have to go right’\n\t\t\t\nNASA to help SpaceX, Blue Origin, and more develop technologies for Moon and Mars travel\n\t\t\t\nThis company says it has a lunar space suit that will be ready for NASA’s 2024 Moon mission\n\t\t\t\nTrump repeatedly asks NASA administrator why we can’t go straight to Mars\n\t\t\t\nNASA’s daunting to-do list for sending people back to the Moon\n\t\t\t\nNASA administrator on recent personnel shakeup: ‘There’s no turmoil at all’\n\t\t\t\nHead of NASA’s human exploration program demoted as agency pushes for Moon return\n\t\t\t\nNASA is testing how its new deep-space crew capsule handles a rocket emergency\n\t\t\t\nNASA’s future Moon rocket will probably be delayed and over budget yet again: audit\n\t\t\t\nNASA administrator says it will cost an extra $20 to $30 billion to send astronauts back to the Moon\n\t\t\t\nNASA administrator says ‘nothing has changed’ after Trump’s tweet about the Moon and Mars\n\t\t\t\nTrump tells NASA to stop talking about the Moon return his administration is pushing\n\t\t\t\nNASA administrator on new Moon plan: ‘We’re doing this in a way that’s never been done before’\n\t\t\t\nThe uphill battle NASA faces to sell its Moon plan to Congress\n\t\t\t\nNASA’s initiative to put a woman on the Moon is named Artemis, after Apollo’s twin sister\n\t\t\t\nWhite House wants $1.6 billion extra for NASA to accelerate astronaut return to the Moon\n\t\t\t\nNASA’s plan to get to the Moon by 2024 isn’t ready yet\n\t\t\t\nLockheed Martin unveils lunar lander design to get humans to the Moon by 2024\n\t\t\t\nNASA is figuring out how much money it needs to meet a faster lunar return\n\t\t\t\nMike Pence tells NASA to accelerate human missions to the Moon ‘by any means necessary’\n\t\t\t\nNASA’s planning to send people back to the Moon’s surface in about a decade",
+      "summary": "In this handout image provided by NASA, Orion snapped this high-resolution selfie in space with a camera mounted on one of its solar array wings during a routine external inspection of the spacecraft on the second day into the Artemis II mission on April 3rd, 2026. | Photo: NASA via Getty Images\t\n\nHumans haven’t stepped foot on the Moon since NASA’s Apollo 17 mission in 1972. Now, the space agency is racing to get back to the lunar surface under the umbrella of its Artemis program — a nod to the Greek goddess and twin sister of Apollo, whose name was given to NASA’s first program to send humans to the Moon. \nThe program has been plagued by years of delays, development mishaps, and billions of dollars in budget overruns, but the mission is unquestionably ambitious. The goal of Artemis is to create a sustainable presence near the Moon, instead of just sending humans to plant flags and make footprints. The agency also aims to send the first woman to the Moon through the Artemis program.\nArtemis I successfully completed its uncrewed mission in 2022. On April 2nd, 2026, Artemis II launched from Kennedy Space Center carrying four astronauts in its Orion capsule. The plan is to travel around the Moon before returning to Earth in 10 days’ time. They’ll test out the hardware and systems that could soon see humans standing on the Moon for the first time in more than 50 years in the Artemis IV mission scheduled for 2028.\nOn Monday, April 6th, NASA’s livestream is broadcasting on YouTube and on Netflix as the Artemis II astronauts break the record for the farthest distance humans have traveled away from Earth, and during a planned drop in communications as Orion passes behind the Moon. \n\n\n\n\t\t\t\t\t\nNASA’s record breaking lunar flyby.\n\t\t\t\nNASA’s Orion spacecraft has reached its maximum distance from Earth: 252,756 miles.\n\t\t\t\nArtemis II astronauts break a record, name a crater\n\t\t\t\nArtemis II crew sets the distance record.\n\t\t\t\nThe Artemis II astronauts will set a new distance record from Earth today\n\t\t\t\nToday’s Artemis II lunar flyby will be livestreamed on Netflix.\n\t\t\t\nThe far side of the Moon peeks out to say hi.\n\t\t\t\nYou can’t doomscroll 230,000 miles from Earth.\n\t\t\t\nArtemis II is more than halfway to the Moon.\n\t\t\t\nWhy the Artemis II crew is relying on decade old tech.\n\t\t\t\nNASA did eventually solve Artemis II’s Outlook glitch\n\t\t\t\nHey, that’s Earth!\n\t\t\t\n“With this burn to the moon, we do not leave Earth, we choose it.”\n\t\t\t\nArtemis II tech support checking in.\n\t\t\t\nA stunning look at the Artemis II liftoff.\n\t\t\t\nNASA launches four astronauts toward the Moon on the Artemis II mission\n\t\t\t\nThe Artemis Moon base project is legally dubious\n\t\t\t\nThe NASA countdown begins.\n\t\t\t\nNASA’s Moon mission delayed again.\n\t\t\t\nNASA’s now targeting March 6th as its earliest Artemis II launch attempt.\n\t\t\t\nArtemis II delayed.\n\t\t\t\nCold weather in Florida is pushing back the Artemis II launch\n\t\t\t\nSpaceX proposes a new plan for NASA’s Artemis III moon landing.\n\t\t\t\nNASA’s mission to return humans to the Moon has been delayed again until 2026\n\t\t\t\nNASA wants SpaceX and Blue Origin to deliver cargo to the moon\n\t\t\t\nNASA picks three companies to develop a Moon car for Artemis astronauts\n\t\t\t\nNASA’s Artemis mission to take humans back to the Moon has been delayed until 2025\n\t\t\t\nHow to watch NASA’s Artemis I SLS megarocket launch\n\t\t\t\nNASA moves next Artemis I rocket launch attempt to September 3rd\n\t\t\t\nNASA seeks to put first person of color on the Moon in Artemis mission\n\t\t\t\nNASA will fly Orion deep-space crew capsule ‘as is,’ despite failed component\n\t\t\t\nA Canadian astronaut will fly around the Moon on the first crewed mission of NASA’s new rocket\n\t\t\t\nAt his last Space Council meeting, Mike Pence announces new cadre of lunar astronauts\n\t\t\t\nComponent failure in NASA’s deep-space crew capsule could take months to fix\n\t\t\t\nSenate committee’s budget for lunar landers falls short of NASA request\n\t\t\t\nNASA administrator says he plans to leave position under Biden administration\n\t\t\t\nWater ice on the Moon may be easier to reach than we thought, new studies claim\n\t\t\t\nUS and seven other countries sign NASA’s Artemis Accords to set rules for exploring the Moon\n\t\t\t\nHead of Russian space program calls for more international cooperation in NASA’s Moon plans\n\t\t\t\nNASA wants to buy Moon rocks from private companies\n\t\t\t\nHouse budget bill denies major increases for NASA to fund ambitious Moon program\n\t\t\t\nNASA wants to hear your ideas for engineering the best toilet to use on the Moon\n\t\t\t\nNASA announces international Artemis Accords to standardize how to explore the Moon\n\t\t\t\nNASA picks SpaceX, Blue Origin, and Dynetics to create landers to take humans to the Moon\n\t\t\t\nThe Trump administration calls for big budget increases for NASA to fund Moon-to-Mars program\n\t\t\t\nNASA administrator on the year ahead: ‘A lot of things have to go right’\n\t\t\t\nNASA to help SpaceX, Blue Origin, and more develop technologies for Moon and Mars travel\n\t\t\t\nThis company says it has a lunar space suit that will be ready for NASA’s 2024 Moon mission\n\t\t\t\nTrump repeatedly asks NASA administrator why we can’t go straight to Mars\n\t\t\t\nNASA’s daunting to-do list for sending people back to the Moon\n\t\t\t\nNASA administrator on recent personnel shakeup: ‘There’s no turmoil at all’\n\t\t\t\nHead of NASA’s human exploration program demoted as agency pushes for Moon return\n\t\t\t\nNASA is testing how its new deep-space crew capsule handles a rocket emergency\n\t\t\t\nNASA’s future Moon rocket will probably be delayed and over budget yet again: audit\n\t\t\t\nNASA administrator says it will cost an extra $20 to $30 billion to send astronauts back to the Moon\n\t\t\t\nNASA administrator says ‘nothing has changed’ after Trump’s tweet about the Moon and Mars\n\t\t\t\nTrump tells NASA to stop talking about the Moon return his administration is pushing\n\t\t\t\nNASA administrator on new Moon plan: ‘We’re doing this in a way that’s never been done before’\n\t\t\t\nThe uphill battle NASA faces to sell its Moon plan to Congress\n\t\t\t\nNASA’s initiative to put a woman on the Moon is named Artemis, after Apollo’s twin sister\n\t\t\t\nWhite House wants $1.6 billion extra for NASA to accelerate astronaut return to the Moon\n\t\t\t\nNASA’s plan to get to the Moon by 2024 isn’t ready yet\n\t\t\t\nLockheed Martin unveils lunar lander design to get humans to the Moon by 2024\n\t\t\t\nNASA is figuring out how much money it needs to meet a faster lunar return\n\t\t\t\nMike Pence tells NASA to accelerate human missions to the Moon ‘by any means necessary’\n\t\t\t\nNASA’s planning to send people back to the Moon’s surface in about a decade",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -184,20 +254,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "c339fd4b7c373549fef932a4",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Netflix is launching a new app for kids games",
-      "url": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
-      "publishedAt": "2026-04-06T17:00:00.000Z",
-      "summary": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app. Called Netflix Playground, the app is focused on games aimed at kids aged eight and under, and, like the rest of Netflix's gaming lineup, Playground games are included as part of a Netflix subscription, and feature no ads or in-app purchases.\nPlayground is available now in the US, UK, Canada, Australia, the Philippines, and New Zealand, and will be rolling out to the rest of the world on April 28th. The launch lineup primarily consists of titles based on popular kids shows like Peppa Pig and Se …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "3655ff7d830da18f7773340e",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -209,20 +265,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "9k-7DWuGDIo",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9d3a897416172556cce38cd7",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
-      "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
-      "publishedAt": "2026-04-06T16:03:14.000Z",
-      "summary": "The S27 Pro will reportedly have the Privacy Display first seen on the S26 Ultra. | Photo: Allison Johnson / The Verge\t\n\nSamsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews. \nThe new Pro model reportedly won't support the S Pen but will feature Samsung's Privacy Display, which is currently only available on the Galaxy S26 Ultra. The Privacy Display allows users to limit the viewing angle on their phone so that the content on the screen is only visible when they're looking directly at it. According to ET News' sources, Samsung is aiming to launch two phones with this premium display tech in its next-gen lineup, which …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -251,34 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "Q3Sk6JJNoi4",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0ce54d5a1aebe085072bc5bc",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-      "publishedAt": "2026-04-06T15:54:19.000Z",
-      "summary": "An October 2025 image of OpenAI’s UAE Stargate data center under construction. | Image: G42\t\n\nIran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC will carry out the \"complete and utter annihilation\" of US-linked energy and technology companies in the region, before showing an image of OpenAI's $30 billion in-progress Stargate facility in the United Arab Emirates.\nOpenAI's overarching $500 billion Stargate project includes investments from Oracle …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "247673093b96e18d622032a1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Artemis II astronauts will set a new distance record from Earth today",
-      "url": "https://www.theverge.com/science/907364/nasa-artemis-ii-astronauts-moon-orion-distance-record",
-      "publishedAt": "2026-04-06T15:46:06.000Z",
-      "summary": "Artemis II Commander Reid Wiseman looks back at Earth from one of the Orion spacecraft’s main cabin windows. | Image: NASA\t\n\nOn April 15th, 1970, Jim Lovell, Fred Haise, and Jack Swigert set a distance record when Apollo 13 traveled 248,655 miles from Earth. Nearly 56 years later, the crew of Artemis II is expected to break that record by several thousand miles when the Orion spacecraft reaches a maximum distance of 252,757 miles away from Earth later today as it completes its flight around the far side of the Moon.\nNASA's coverage of the lunar flyby begins at 1PM ET today if you want to follow along at home, while the astronauts are expected to set the new distance record from Earth at 1:56PM ET. The trip around the far side of the Moon will take about six hours …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "A5v4J7Sq9XU",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e159651f33aa322a7ffd1155",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Samson: A Tyndalston Story – Official Launch Trailer",
-      "url": "https://www.youtube.com/watch?v=HtPLVBgLYRM",
-      "publishedAt": "2026-04-06T13:00:35.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "HtPLVBgLYRM",
       "spotifyEpisodeId": null
     }
   ]
