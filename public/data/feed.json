@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-04-11T02:10:27.626Z",
+  "generatedAt": "2026-04-11T07:01:10.559Z",
   "items": [
+    {
+      "id": "688e77e4373be40e69d38a39",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "One Piece writer reveals Karoo's fate",
+      "url": "https://www.youtube.com/shorts/vFX6V0WrahY",
+      "publishedAt": "2026-04-11T02:40:22.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "0d7727775887394768b4e308",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The Star Wars game character that should come BACK",
+      "url": "https://www.youtube.com/shorts/euJwwKSBt5k",
+      "publishedAt": "2026-04-11T02:39:48.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "b1bfd7c53769689b7cd90f91",
       "sourceId": "ign-youtube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "U-IdU1t1AZw",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "55e4504fc0090ee071bdf1e5",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "2026’s Biggest Unannounced Games from Nintendo, Sony, and Microsoft - Next-Gen Console Watch",
-      "url": "https://www.youtube.com/watch?v=1cZaSDP2OXs",
-      "publishedAt": "2026-04-10T13:00:06.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "1cZaSDP2OXs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9e8634754894e48401815860",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Samson is glitchy. It’s janky. But it has one thing GTA doesn't have: Consequences.",
-      "url": "https://www.youtube.com/shorts/-P36Gw0Bw4M",
-      "publishedAt": "2026-04-10T12:01:26.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
