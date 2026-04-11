@@ -2,16 +2,16 @@
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw": {
     "etag": null,
     "lastModified": null,
-    "checkedAt": "2026-04-11T07:01:10.543Z"
+    "checkedAt": "2026-04-11T12:57:27.450Z"
   },
   "https://www.theverge.com/tech": {
-    "etag": "\"otwp3o6w4ce7dm\"",
+    "etag": "\"7uql43norje9le\"",
     "lastModified": null,
-    "checkedAt": "2026-04-11T07:01:10.406Z"
+    "checkedAt": "2026-04-11T12:57:27.519Z"
   },
   "https://www.theverge.com/rss/index.xml": {
-    "etag": "W/\"2999c6e508b01b970d4b4672d18bc063\"",
+    "etag": "W/\"2ef7665028a6df30d1e3c65714da51d8\"",
     "lastModified": null,
-    "checkedAt": "2026-04-11T02:10:27.616Z"
+    "checkedAt": "2026-04-11T12:57:27.645Z"
   }
 }
