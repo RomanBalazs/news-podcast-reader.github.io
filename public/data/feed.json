@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-04-11T12:57:27.654Z",
+  "generatedAt": "2026-04-11T18:43:50.163Z",
   "items": [
+    {
+      "id": "2b1ba48bed8d97a8203ee079",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Baby Steps Developers React to 7 Minute Speedrun",
+      "url": "https://www.youtube.com/watch?v=gQx_S_iu-g8",
+      "publishedAt": "2026-04-11T15:30:32.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "gQx_S_iu-g8",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3937c7996d01daf5809ee5c2",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Windrose: 17 Minutes of Early Access Pirate-Survival Gameplay",
+      "url": "https://www.youtube.com/watch?v=oOTMtmW2O3g",
+      "publishedAt": "2026-04-11T15:01:30.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "oOTMtmW2O3g",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "59f568503a78deba50f58dae",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Pokemon Champions Has Potential After A Disappointing Start - NVC Clips",
+      "url": "https://www.youtube.com/watch?v=zUXT3ftVAkQ",
+      "publishedAt": "2026-04-11T13:01:57.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "zUXT3ftVAkQ",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "353a03aa0b20b67b4b6c9bcd",
       "sourceId": "the-verge-tech",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "OwzuKN2BMgw",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4b26fce254f8208ec937c790",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Top Tips For Getting Started In Soulmask 1.0: Shifting Sands",
-      "url": "https://www.youtube.com/shorts/NmZfAjDG410",
-      "publishedAt": "2026-04-10T13:59:19.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "975dd2038702a2fd8c670d2b",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Top Tips For Getting Started In Soulmask 1.0: Shifting Sands",
-      "url": "https://www.youtube.com/watch?v=deiz7ANa6TI",
-      "publishedAt": "2026-04-10T13:54:16.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "deiz7ANa6TI",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "05d2298e2da1d836ebc560e2",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Fortnite - Official Chapter 7 Season 2: Act 2 Teaser Trailer",
-      "url": "https://www.youtube.com/watch?v=U-IdU1t1AZw",
-      "publishedAt": "2026-04-10T13:42:20.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "U-IdU1t1AZw",
       "spotifyEpisodeId": null
     }
   ]
