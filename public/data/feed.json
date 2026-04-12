@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-04-12T07:13:49.272Z",
+  "generatedAt": "2026-04-12T13:01:00.025Z",
   "items": [
+    {
+      "id": "b768f1d808734e90ed885bf9",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The AI code wars are heating up",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "publishedAt": "2026-04-12T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nWriting code was a killer app for AI even before anyone was really talking about AI. In the spring of 2021, 18 months before the world knew the word \"ChatGPT,\" Microsoft debuted the very first product of a partnership with a nonprofit called OpenAI: a tool called GitHub Copilot that watched developers as they wrote code and tried to autocomplete snippets and lines for them …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c22f0da1a6edfd6cf9db6525",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "WWE's Jacob Fatu and Oba Femi Reveal Their GOATs",
+      "url": "https://www.youtube.com/watch?v=y4K8Xa54Lrk",
+      "publishedAt": "2026-04-12T11:01:25.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "y4K8Xa54Lrk",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ba02b0439d75040a28395f7d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Allow me to explain why I love this camera that can’t shoot color",
+      "url": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
+      "publishedAt": "2026-04-12T11:00:00.000Z",
+      "summary": "No frills, all artsy thrills. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI love black-and-white photography. I also adore compact cameras you can always have by your side. So I'm a total mark for the Ricoh GR IV Monochrome, a fixed-lens camera that can't zoom and can't record color - at all. It's a formula that makes the average person ask, \"Why?\" \nI've tested the GR IV Monochrome for over a month, taking it with me everywhere and photographing everything. Let me explain how this pricey little point-and-shoot is likely to go down as one of my all-time-favorite cameras.\nRicoh GR IV Monochrome\n\n\nScore: 8\n\nProsCons\n\n\nExcellent black-and-white image quality\nEverything great about the standard GR IV: sharp lens, small size, …\n\n\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "009b6857ccf28f39283a087d",
       "sourceId": "the-verge-tech",
@@ -150,34 +192,6 @@
       "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
       "publishedAt": "2026-04-11T13:00:00.000Z",
       "summary": "There's one very specific reason I keep a Wii U handy, and that's so that I have an easy way to play the classic pinball game Devil's Crush. Over the years, it has become a comfort game for me. I'm not entirely sure what it is, but there's something about the combination of familiar pinball gameplay and the demonic imagery that works so well together, and lets me lose myself in the chase for a high score. But now I have something else to fill that need, and it comes in a much smaller package.\nDevils on the Moon Pinball for the Playdate has an extremely literal title. It's a game about playing pinball on the moon, which happens to be home to …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "58a365c0b9c8de88a7310f1c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "How Iran out-shitposted the White House",
-      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-      "publishedAt": "2026-04-11T13:00:00.000Z",
-      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. Blood on the ground. A Tomahawk missile landing on a school. Grieving parents burying their children. \nOnly weeks prior, the authoritarian regime had been struggling to shut down all footage of the protests convulsing the nation, cutting off internet access to the outside world in the longest blackout in Iranian history. When Iranian dissidents m …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "353a03aa0b20b67b4b6c9bcd",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The new show making fun of tech bros",
-      "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
-      "publishedAt": "2026-04-11T12:00:00.000Z",
-      "summary": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters, buying the stuff I need to mod an old iPod, making videos with the clever new DualShot Recorder, watching Crime 101 now that it's streaming, finally getting my Stream Deck Mini to control all my office lights, revisiting the incredible 17776 series from our friends at SB Nation, moving a …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "6IWdxSmSH6s",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "82308549a431e61451445225",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Dark Pals: The 1st Floor – Official Release Date Trailer",
-      "url": "https://www.youtube.com/watch?v=OwzuKN2BMgw",
-      "publishedAt": "2026-04-10T14:00:50.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "OwzuKN2BMgw",
       "spotifyEpisodeId": null
     }
   ]
