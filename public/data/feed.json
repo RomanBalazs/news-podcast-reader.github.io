@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-12T18:50:35.446Z",
+  "generatedAt": "2026-04-13T02:38:42.635Z",
   "items": [
+    {
+      "id": "4f8922fe6475c8a4aeeaaab7",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Room for the Moon is thrillingly weird experimental pop",
+      "url": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
+      "publishedAt": "2026-04-12T20:00:00.000Z",
+      "summary": "I mean, I guess it kinda looks like the moon? | Image: Kate NV / RVNG Intl.\t\n\nFor obvious reasons, I've had Moon on the mind all week. So I was trying to figure out what I should recommend this week that would thematically fit. Brian Eno's Apollo: Atmospheres and Soundtracks is incredible, and if you haven't listened to it, go do that now. But it also seemed a bit on the nose. Radiohead's A Moon Shaped Pool also came to mind. But it also felt a bit obvious. Then I remembered Kate NV's Room for the Moon, a record I had on repeat in 2020. \nRussian artist Kate Shilonosova chases ideas across 11 tracks inspired by Russian and Japanese pop from the '70s and '80s, as well as children's movies. This obviously leads Room for …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "94af93595b456057afdabeba",
       "sourceId": "the-verge-tech",
@@ -195,20 +209,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "oOTMtmW2O3g",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d824e0ce234c978e31ad0061",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Pokémon Champions is off to a rough start",
-      "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
-      "publishedAt": "2026-04-11T15:00:00.000Z",
-      "summary": "You first, dude. | Image: The Pokémon Company, Nintendo\t\n\nLike many live-service games before it, Pokémon Champions' launch has been messy. The free-to-start battle sim, which is out now on the Switch and Switch 2 (and also coming to mobile later this year), is plagued with bugs, some of which cause issues with basic battle mechanics - not great for a game that's only about battling. But bugs can be fixed, and encouragingly, some of them already have been. Champions' bigger problem is that, in trying to be a competitive battling platform for all kinds of players, it risks satisfying none of them.\nComing hot on the heels of Pokopia, a creative and cozy spinoff with no battling whatsoever, Champions …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
