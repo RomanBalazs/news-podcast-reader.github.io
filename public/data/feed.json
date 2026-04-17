@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-04-16T19:13:46.494Z",
+  "generatedAt": "2026-04-17T02:33:10.648Z",
   "items": [
+    {
+      "id": "93e8e58820487d44d054d521",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "YouTube’s mobile app finally lets you share timestamped videos",
+      "url": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
+      "publishedAt": "2026-04-16T23:32:16.000Z",
+      "summary": "YouTube is making some changes that might affect how you share videos from the mobile app. From the app, you can finally share videos from a specific timestamp, which will make it easier to point someone to a part of a video you might want them to see while you're on your phone. However, this change will replace the Clips feature that lets you make a shareable clip from a video.\nYou'll still be able to watch any Clips that you've already made. But moving forward, \"the ability to set an end time or include a custom description when sharing will no longer be available,\" YouTube says. The company notes that while clipping is \"important way for …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "472d73ea9a11046d966d7976",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Gucci-branded Google smart glasses are coming next year",
+      "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
+      "publishedAt": "2026-04-16T20:31:31.000Z",
+      "summary": "Google’s “Project Aura” will be its first Android XR glasses, expected later this year. | Image: Google, Xreal\t\n\nGoogle is reportedly partnering with Gucci to make a pair of AI smart glasses stylish enough people might actually want to wear them. According to Reuters, Gucci parent company Kering is planning to launch the glasses sometime in 2027. \nGoogle's first pair of Android XR glasses, \"Project Aura,\" are expected to launch this year. They feature essentially the same look as Meta's Ray-Ban glasses, with chunky, black plastic frames. They'll usher in Google's second attempt at smart glasses, after Google Glass infamously failed to catch on over a decade ago. \nLast year, Google also announced glasses partnerships with Warby Parker and Gentle Monst …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "81693533855f3eac3e61eb74",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Ballmer gives $80 million to NPR, with strings attached",
+      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
+      "publishedAt": "2026-04-16T20:30:55.000Z",
+      "summary": "Connie Ballmer, wife of former Microsoft CEO Steve Ballmer and co-founder of the Ballmer Group, has given $80 million to NPR. That's roughly seven years' worth of government funding ($11.2m) after Trump and Congress cut funds for public media, but only a fraction of NPR's full annual budget of $300 million. NPR may still cut jobs because the money has strings attached.\nThe money is specifically \"to support the digital innovation that is essential to meeting the needs and serving the interests of public media audiences wherever they are and whenever they seek information,\" according to a press release. NPR journalist David Folkenflik writes  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "64ffe37a394e3181f5b1bb6a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Netflix embraces vertical video with major mobile app update",
+      "url": "https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video",
+      "publishedAt": "2026-04-16T20:29:56.000Z",
+      "summary": "Netflix announced on Thursday that it will be launching a redesigned mobile app, which will include a vertical video feed, at the end of April. \"This redesign will better reflect our expanding entertainment offering and make it easier for members to engage how and when they want,\" the company said in its Q1 2026 earnings letter to shareholders.\nIn Thursday's letter, the company said that the lines between \"entertainment on TV and mobile devices are blurring,\" noting that video podcasts \"over-index\" on mobile. Co-CEO Greg Peters said in January that the company was planning to revamp its mobile UI as a way to \"better serve the expansion of o …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "86fe9d36cb1a41907ce43d81",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Netflix cofounder Reed Hastings is officially leaving the company",
+      "url": "https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026",
+      "publishedAt": "2026-04-16T20:23:00.000Z",
+      "summary": "Netflix cofounder and chairman Reed Hastings plans to leave the company after nearly 30 years. The news comes as part of Netflix's Q1 2026 earnings results released on Thursday, which says Hastings \"will not stand for re-election to our Board when his current term expires at the Annual Meeting in June.\"\nAfter co-founding Netflix in 1997, Hastings served as CEO from 1999 to 2023, when he stepped down and took on the role of chairman. \"My real contribution at Netflix wasn't a single decision; it was a focus on member joy, building a culture that others could inherit and improve, and building a company that could be both beloved by members and …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "cf6c50dfe28acd1f6d5b2583",
       "sourceId": "the-verge-tech",
@@ -156,20 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "f30b3da3448acc7f1e05474c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The nine best ways to protect, customize, and accessorize your MacBook Neo",
-      "url": "https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories",
-      "publishedAt": "2026-04-16T17:05:54.000Z",
-      "summary": "You can use the Neo as it comes out of the box, or enhance your experience with some add-on accessories. | Photo by Amelia Holowaty Krales / The Verge\t\n\nThe MacBook Neo is poised to be a top-selling laptop in 2026, thanks in large part to its affordable $599 entry price. Despite launching at a more accessible price point than Apple’s $1,099 (though often discounted) 2026 MacBook Air, the Neo makes surprisingly few concessions in terms of build quality. Its design has the same level of precision as pricier Apple products, and we found in a hands-on comparison that it handily outclasses similarly priced Windows laptops in just about every way despite running on an iPhone chipset.\nIn short, you might want one, or perhaps you already have one. Whatever your situation is, it’s possible that you may also want a couple of accessories to get the most out of your Neo. We have nine recommendations — a MacBook Neo accessory starter kit, if you will — that can help you protect it, customize it, or just use it more comfortably in your day-to-day life.\nA USB-C monitor to use as a second screen\nNot every computer monitor supports USB-C video input, so the selection of ones that do is smaller (and often pricier) than if you just want a cheap model that only boasts HDMI or DisplayPort inputs. Whether you find a deal or not, the Asus ProArt PA278CV is an appealing (and relatively inexpensive) monitor that offers USB-C video-in as well as passthrough charging to keep your Neo charged. \nIt’s a 27-inch 1440p monitor with a 75Hz refresh rate that’s color accurate. It features built-in speakers and can deliver 65W of power via USB-C, which is more than enough to keep the Neo charging at its peak 30W speed (faster than the 20W charger that Apple includes). It’s typically priced at $299 at retailers like Amazon and B&H Photo, but you might find it for as low as $209 if you’re lucky.\nAsus 27-inch 1440p ProArt monitor\n\nWhere to Buy:\n\n $299.99 at Amazon\n $299.99 at B&H Photo\n\nIf you want something cheaper and small enough to fit in a bag (but with even better contrast), portable OLED monitors might be a better fit. Brands like Innocn make them in various sizes with different screen capabilities, but the company’s 13.3-inch 1080p model — which connects via USB-C — is a steal at $99.99, its current price for Amazon Prime members. Otherwise, it’s $129.99 on Amazon for those without a premium membership.\nInnocn 13.3-inch OLED Full HD 1080p Portable Monitor\n\nWhere to Buy:\n\n $109.99 $99.99 at Amazon (with Prime)\n $109.99 at Innocn\n\nA USB-C hub for connecting accessories and a display\nThe great thing about laptops with USB-C ports is that the ecosystem of compatible accessories is vast. However, the Neo has only two USB-C ports, meaning you’ll likely need to prioritize which devices to plug in at any given moment. Thankfully, you can easily expand your Neo’s capabilities with an affordable USB-C hub like Anker’s 7-in-1 model, which can expand a single port into seven for around $26 at Amazon and through Anker directly.\nNot only can you use it to charge your laptop (it supports up to 85W passthrough speeds), but it also provides an HDMI port and another USB-C port, plus two USB-A ports and both full-size and microSD card readers. It’s a must-have, if you don’t already have one.\nAnker USB-C Hub (7-in-1)\n\nWhere to Buy:\n\n $25.99 at Amazon\n $25.99 at Anker\n\nA screen protector to shield the Neo’s most fragile component\nThe first accessory I put on all my pricey devices that have a display is a screen protector. Several brands make them, but I always gravitate toward amFilm, which makes a tempered glass protector for the Neo that’s currently going for just $19.99 on Amazon.\nNot everyone will feel the urge to buy this upgrade. But it’s never a bad idea to protect your purchase, since it might just save you from a pricey repair down the road. The protector from amFilm is easy to install, and it’s anti-scratch and anti-fingerprint, too.\nAmFilm tempered glass screen protector for the MacBook Neo\n\nWhere to Buy:\n\n $19.99 at Amazon\n\nA snap-on shell to keep your Neo scratch-free\nIf you, like me, are someone who absolutely babies their tech, you may also feel inclined to get a snap-on shell that can fit perfectly around your MacBook Neo without hiding its sleek design or color. The multicolored, matte-textured options from Mosiso seem nicer than other options, and it’s about $24 at Amazon. The plastic shells typically cost around $20, and the company claims that they don’t hinder the Neo’s ability to close. They’re also built to resist scratches, fingerprint smudging, and unwanted cracks.\nMosiso snap-on plastic case for the MacBook Neo\n\nWhere to Buy:\n\n $23.99 $21.49 at Amazon\n\nA collapsible laptop stand when you need it\nLaptop stands serve different purposes for different folks. Some people want to use their laptop’s keyboard at an angle that’s more ergonomically friendly, while others may simply want to bring their laptop’s display closer to eye level. And some people may want all of those benefits. Whatever your need, Moft’s $25 Adhesive Stand is great because it’s only there when you need it. The handy laptop stand folds into itself (unlike pricier, bulkier options) and features a low-profile design that’s barely there when you need to slide your Neo into a bag.\nMoft Adhesive Laptop Stand\n\nWhere to Buy:\n\n $29.99 $24.99 at Amazon\n $29.99 at Moft\n\nA thin keyboard cover to keep out debris\nLiquid ingress in a keyboard is one of the main reasons why a laptop dies before its time. Dust and crumbs certainly don’t help, either, as they can clog things up and prevent your keys from pressing. A lightweight keyboard cover that gently lies over the keys, thus preserving their look, feel, and backlighting, is a nice, cheap accessory that can keep dust out. Uppercase’s GhostCover is just under $13 at Amazon. It may not stop a flood of water, coffee, or your beverage of choice from getting into your Neo after a spill, but it’ll likely help limit the damage.\nOne important note is that this keyboard cover is only compatible with the $699 version that has a 512GB SSD and, crucially, a Touch ID fingerprint sensor. It won’t fit the $599 version correctly.\nGhostCover keyboard cover\n\nWhere to Buy:\n\n $12.98 $12.95 at Amazon\n $12.98 at Uppercase\n\nA spare trackpad or wireless mouse\nThe Neo’s built-in trackpad is large and responsive, but you may want to use an input off to the side for ergonomic reasons (you might also be more comfortable with a mouse). In the case of mice, there are numerous models that work with macOS — either dongle-free over Bluetooth or with a USB receiver — but the best, most feature-packed model you can currently buy is the $119.99 Logitech MX Master 4 from Amazon, Newegg, and Logitech directly. It’s a right-handed mouse that’s comfortable and high-end, with a haptics-based thumb button that can surface on-screen shortcuts to make navigating both a bit faster and easier. It also connects via Bluetooth or with its included USB-C dongle.\nLogitech MX Master 4 wireless mouse\n\nWhere to Buy:\n\n $119.99 at Newegg\n $119.99 at Amazon\n $119.99 at Logitech\n\nAnother option for trackpad lovers is Apple’s official Magic Trackpad. It’s a bigger standalone trackpad than the one built into the Neo, but you can position it wherever you’d like. It starts at $119.99 from Amazon and is rechargeable via USB-C, just like the laptop, and connects wirelessly over Bluetooth.\nApple Magic Trackpad (USB-C)\n\nWhere to Buy:\n\n $129 $119.99 at Amazon (white)\n $149 $139.99 at Amazon (black)\n $129 at Apple (white)\n\nA capable charger when you’re away from an outlet\nAs often as you may be at home or otherwise near a power outlet while using your MacBook Neo, sometimes you need to take it on the go. A power bank is great for rescuing depleted gadgets, or keeping them topped off until you settle down again with a power outlet. They range in price and capabilities, but given the Neo’s 30W peak charging speed, you don’t need anything extravagant on that front.\nBaseus’ 20,000mAh power bank with two built-in USB-C cables, which can supply up to 45W of power, should more than suffice. It’s on sale at Amazon for $31.99 right now, and its size should allow it to charge your Neo at least once, or you can charge your laptop alongside up to three other devices at reduced charging speeds.\nBaseus EnerFill FC11 Power Bank with Dual Built-in Cables\n\nWhere to Buy:\n\n $39.99 $31.99 at Amazon (with Prime)\n $39.99 at Baseus\n\nFor something with more capacity that offers similar versatility thanks to its two built-in USB-C cables (one of which can extend), Anker’s 25,000mAh Laptop Power Bank is a popular choice among Verge readers. It’s significantly pricier at around $120 — though it’s currently on sale for $95.99 at Best Buy, Amazon, and Walmart — and it can deliver a combined output of 165W when charging multiple devices at once.\nAnker Laptop Power Bank\n\nWhere to Buy:\n\n $119.99 $95.99 at Best Buy\n $119.99 $95.99 at Amazon\n $119.99 $95.99 at Walmart\n\nFor tinkerers, mix and match official Apple components for a customized look\nIt was recently discovered that Apple sells spare parts for the MacBook Neo, which are intended for repair, not necessarily for the funsies I’m about to describe. That said, you can buy parts in the color of your choosing (silver, indigo, blush, citrus) to make a fun, unique Neo that will likely attract some eyeballs when you use it in public. \nGranted, it’s not affordable to make these customizations; the bottom metal case is the cheapest upgrade at $34.32, and a complete set of key caps runs $39. You’re also on your own when it comes to installing them, so it’s not a project that I’d recommend for beginner tinkerers, since you’re at risk of damaging your laptop.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "5c663b5b5ed864b907cc8e76",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -184,34 +240,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "69d93b94987e9dd79943a16c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
-      "summary": "Codex can control apps on your desktop like Tic Tac Toe. | Image: OpenAI\t\n\nOpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI's rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up.\nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won't interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says, \"this is he …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "91fde57955bb8b2b40814e6f",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Google’s AI Mode update lets you open links without leaving the page",
-      "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
-      "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open the website side by side with AI Mode, allowing you to ask follow-up questions about what's on the page.\nLaunched last year, AI Mode is the chatbot-like search feature that lives within a tab on the left side of Google's search engine. Google has added several new features to the tool over the past year, including the ability to generate images of outfits and decor based on your descriptions, visualize your travel plans, and find restaurant res …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "d4a9e0de3993f591f3a6a026",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -223,20 +251,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "adad43954176d0dd61c508d5",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Microsoft planning Surface Laptop with an OLED display",
-      "url": "https://www.theverge.com/news/913218/microsoft-surface-laptop-oled-display-rumor",
-      "publishedAt": "2026-04-16T16:15:00.000Z",
-      "summary": "The Surface Laptop 7. | Photo by Chris Welch / The Verge\t\n\nMicrosoft is preparing to launch new Surface Pro and Surface Laptop models in the coming months. Windows Central reports that the refreshed models will include both Intel and Qualcomm variants, with Microsoft opting for an OLED display option for the Surface Laptop this year.\nMicrosoft is expected to launch new Surface Pro and Laptop models with Intel's Core Ultra 3 chips first, followed by Qualcomm Snapdragon X2 variants later this summer. This is reportedly because Qualcomm's latest chips are in short supply, but it reverses Microsoft's trend of shipping Qualcomm-powered Surface devices to consumers first in recent years.\nWhile a RAM cri …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -279,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "BBicLQsdUf4",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "214476b9fbb6131656c74c32",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Microsoft’s new Xbox chief starts making her mark",
-      "url": "https://www.theverge.com/tech/913093/microsoft-new-xbox-ceo-asha-sharma-memo-notepad",
-      "publishedAt": "2026-04-16T16:00:00.000Z",
-      "summary": "Microsoft's new Xbox chief has had a busy couple of months after promising \"the return of Xbox.\" Asha Sharma met with publishers at the Game Developers Conference in March, and has also been on the road visiting Microsoft's own game studios and product teams in recent weeks. Sharma, who used to work in Microsoft's CoreAI division, is very much in learning mode and talking to as many people as she can before she makes strategic decisions on the future of Xbox.\nSome of those decisions are about to be made very soon.\nSources at Xbox tell me Sharma has been looking closely at Game Pass pricing recently, with a view to offering a wider range of …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
