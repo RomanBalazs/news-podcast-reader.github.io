@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-04-17T19:00:59.746Z",
+  "generatedAt": "2026-04-18T02:24:05.253Z",
   "items": [
+    {
+      "id": "f7b4e943801c83ea380b0a9a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "publishedAt": "2026-04-17T21:13:25.000Z",
+      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\nAs part of a note Peebles posted on X, he said:\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "e4d10ce2b74cb0d75693df09",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "publishedAt": "2026-04-17T20:42:47.000Z",
+      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" \nTo verify that they're not a bot or an AI agent, users have to physically visit one of World's orbs in person. According to World, the orb \"takes pictures of your face and eyes, then encrypts and sto …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4cd455cc239db3f705cc5c3a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "publishedAt": "2026-04-17T20:14:21.000Z",
+      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview.\nAnthropic's relationship with the Pentagon soured quickly in late February after the company refused to budge on two red lines: using its technology for domestic mass surveillance or lethal fully autonomous weapons with no human in the loop. Anthropic's tech has in the past been used heavily b …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "d8d02a2d2ea6bfa7c98923f4",
       "sourceId": "ign-youtube",
@@ -282,34 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "897ff6028dc6685bf3b0db91",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The South Korean president is doing quote-post diplomacy",
-      "url": "https://www.theverge.com/policy/913587/south-korea-lee-jae-myung-israel",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
-      "summary": "\"This is no different from Comfort Women or the Holocaust,\" wrote South Korean President Lee Jae-myung on X last week, quoting a post with a video of Israeli Defense Forces soldiers throwing a body off a rooftop in Gaza. \nThe president's post kicked off an internet firestorm for a thousand different reasons, not least because the video in question was misleadingly labeled. The quoted post reads \"LIVE FOOTAGE: IDF soldiers tortured a Palestinian kid and threw him off a roof.\" The video was actually from September 2024, and depicted Israeli soldiers kicking, dragging, and eventually hurling a limp body from a rooftop. The incident - involving …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a3b96772a19ad49dd02a768b",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Peloton, stay in your lane",
-      "url": "https://www.theverge.com/column/913766/optimizer-peloton-fitness-business-column",
-      "publishedAt": "2026-04-17T14:00:00.000Z",
-      "summary": "People keep trying to make Peloton more than what it is, when the product itself is enough.\t\n\nThis is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nThe camera zooms in on two well-formed cheeks clad in white shorts. These buns of steel belong to one Hudson Williams, star of the steamy hockey romance Heated Rivalry. As the camera pans up, a bead of sweat drips down his chin toward his clavicle. Sweaty abs are shown. The music swells. Hollywood's mega-hunk of the moment is swaying his chiseled visage back and forth, semi-gyrating on… a Peloton treadmill. A $6,695 …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "4ea344a7fe3361c368e60fb7",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "hluMj9phquM",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "cd2beaf5bccab121d2f0e1d1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The ‘AI is inevitable’ trap",
-      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
-      "publishedAt": "2026-04-17T13:24:34.000Z",
-      "summary": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a bunch of things this week that made us wonder: have we reached the peak of AI, or at least a peak of AI? \n\nVerge subscribers, don't forget you get exclusive access to ad-free Vergecast wherever you get your podcasts. Head here. Not a subscriber? You can sign up here.\nOn this episode of The Vergecast, we look at both the data and the vibes. David and Nilay explore a new study from Stanford that says AI is getting better at lots of things, a …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
