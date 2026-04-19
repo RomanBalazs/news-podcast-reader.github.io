@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-04-19T13:01:25.175Z",
+  "generatedAt": "2026-04-19T18:51:44.809Z",
   "items": [
+    {
+      "id": "a504bd5bd1f641526d98bee0",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "publishedAt": "2026-04-19T14:30:00.000Z",
+      "summary": "Over the past several years, Nothing’s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price. The CMF Headphone Pro — the company’s first pair of over-ear wireless headphones — fit precisely in that lane, especially now that they’re on sale at Amazon in both light gray and a subtle green shade for an all-time low of $69 ($30 off).\nCMF Headphone Pro\n\nWhere to Buy:\n\n $99 $69 at Amazon (light gray)\n $99 $69 at Amazon (green)\n\nAlthough the Headphone Pro eschew the retro-transparent design found on Nothing wares like the Headphone 1, I wouldn’t necessarily say that’s a bad thing given the polarizing, squared-off design of the latter. Instead, the Pro go all in on the curves, with circular earcups, cushions, and a plush headband. You can also add an additional pop of color with CMF’s $25 interchangeable cushions, which, as of now, are available in either orange or the aforementioned green hue.\nUnlike many premium pairs of noise-canceling headphones, the Pro ditch touch-capacitive controls for physical buttons — a plus, as far as I’m concerned — allowing you to control playback, adjust the volume, and tweak a range of other settings using a customizable action button and a multi-function roller. Nothing also includes something called an Energy Slider, so you can adjust the treble and bass balance on the fly without digging into Nothing’s app to make EQ adjustments.\nThe biggest draw of the Headphone Pro, aside from their adaptive ANC, is that they offer a whopping 100 hours of battery life per charge, ensuring you can travel just about anywhere without having to top them off. That number drops to 50 hours with active noise cancellation enabled; however, that’s still 10 hours more than what you’d get with a higher-end pair like Sony’s WH-1000XM6 and 20 hours more than the latest Bose QuietComfort Ultra Headphones. The fact that they support Google Fast Pair and the higher-quality LDAC codec is just a plus.\nOther alternatives to consider\nBeats Solo 4\nWith lossless USB-C audio, 50 hours of battery life, Find My support, spatial audio, and comfy ear cups, the Beats Solo 4 offer significant quality-of-life improvements over their predecessors. They still deliver that bass-rich Beats sound, too. Read our review.\n\nWhere to Buy:\n\n $199.95 $129.95 at Amazon\n $199.95 $129 at Walmart\n $199.95 $149.99 at Best Buy\n\n\nSony WH-CH520\nThe Sony WH-CH520 offer a lot for very little. The on-ear Bluetooth headphones provide 50 hours of battery life and support hands-free voice assistants, including Google Assistant and Siri. They also offer multipoint Bluetooth support and can tap into Google’s Find Hub network.\n\nWhere to Buy:\n\n $59.99 $38 at Amazon \n $59.99 $38 at Best Buy\n $59.99 $39.99 at Target",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "39169198a862d95a28ed5f01",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The Stars My Destination is classic proto-cyberpunk",
+      "url": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "publishedAt": "2026-04-19T14:00:00.000Z",
+      "summary": "Gully Foyle is my name… | Image: Brick Tower Press\t\n\nThis might feel like a somewhat obvious recommendation to some, but it flew under my radar until now. Alfred Bester's The Stars My Destination (originally published as Tiger! Tiger! in the UK) is a 1956 sci-fi novel that some have cited as a precursor to cyberpunk. It's a work I admit I have some conflicted feelings about, but one I think is well worth reading if you consider yourself a fan of sci-fi. It's also well worth seeking out a physical copy, something I wish I had known before I started reading it in the objectively inferior e-book form that can't capture the ergodic elements of the climax.\nIt's hard to explain the plot of The Star …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "fe6564d89b28325d77e81f90",
       "sourceId": "the-verge-tech",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "tlDWCiiNCZU",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f7b4e943801c83ea380b0a9a",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "publishedAt": "2026-04-17T21:13:25.000Z",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\nAs part of a note Peebles posted on X, he said:\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company's mainline roadmap. It's tempting in life to mode collapse to the most i …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e4d10ce2b74cb0d75693df09",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "publishedAt": "2026-04-17T20:42:47.000Z",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through a pilot program in Japan last year. It's now expanding the service to \"select markets, including Japan and the United States.\" \nTo verify that they're not a bot or an AI agent, users have to physically visit one of World's orbs in person. According to World, the orb \"takes pictures of your face and eyes, then encrypts and sto …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
