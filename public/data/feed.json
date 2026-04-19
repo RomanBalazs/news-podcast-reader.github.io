@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-18T18:51:59.251Z",
+  "generatedAt": "2026-04-19T02:38:26.777Z",
   "items": [
+    {
+      "id": "d437505f8bd61596c4cb474d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The RAM shortage could last years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "publishedAt": "2026-04-18T21:08:45.000Z",
+      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.\nThe world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among the three for 2026.\nNikkei says that production would need to increase by 12 percent a year in 2026 and 2027 to meet demand. But according to Counte …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "d3f8e7e1697ee10cfa1a0496",
       "sourceId": "the-verge-tech",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
       "publishedAt": "2026-04-17T18:07:43.000Z",
       "summary": "Prediction market exchanges have created an environment where just about any piece of information is potentially monetizable: How well will BTS's new song perform this week? How hot will Los Angeles get? Will Donald Trump be impeached? Users can wager on all of that and, on some platforms, more gruesome and violent outcomes in the real world.\nThe rapid rise and expansion of Polymarket and Kalshi have put newsrooms in a strange position. Prediction market evangelists often claim that their odds are more trustworthy and accurate than polls and traditional media - effectively positioning the industry as a replacement for news. At the same time …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d310b2929075531071e22741",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "This charming gadget writes bad AI poetry",
-      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-      "publishedAt": "2026-04-17T17:30:00.000Z",
-      "summary": "I kind of wish it just took pictures.\t\n\nI've never been as charmed and frustrated by one gadget as I have with the Poetry Camera.\nIt's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. \nBut aside from obviously appealing, I'm not exactly sure what it is. I mean, I know what it is. It's a camera that makes AI poems instead of photos. You take a picture, and instead of printing a photo, you get an AI-generated poem inspired by the scene, printed on thermal receipt paper. But after printing dozens of poems, I can only report feeling frustrated instead of inspired.\n …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
