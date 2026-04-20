@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-04-20T02:38:57.989Z",
+  "generatedAt": "2026-04-20T08:06:42.915Z",
   "items": [
+    {
+      "id": "df870f725a0214fb5bea27c4",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Dragon Ball Xenoverse 2 - Official Future Saga Chapter 4 Teaser Trailer",
+      "url": "https://www.youtube.com/watch?v=CkBPl4CMoLc",
+      "publishedAt": "2026-04-19T22:45:01.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "CkBPl4CMoLc",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "e021af44835539b650220b20",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Dragon Ball Sparking! Zero - Official 'Super Limit Breaking NEO' Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=jEpDdjzxwuE",
+      "publishedAt": "2026-04-19T22:30:21.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "jEpDdjzxwuE",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "6601cd28d125bac53780e81e",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Dragon Ball Xenoverse 3 - Official Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=gP3xZy3QkiQ",
+      "publishedAt": "2026-04-19T22:08:30.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "gP3xZy3QkiQ",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "a4a004fc9e7fd4863f494789",
       "sourceId": "the-verge-tech",
@@ -65,7 +107,7 @@
       "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
       "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
       "publishedAt": "2026-04-19T12:00:00.000Z",
-      "summary": "The Keychron Q1 Ultra 8K in white (left) and the V5 Ultra 8K in black (right). | Photo: Antonio G. Di Benedetto / The Verge\t\n\nKeychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recommendations for off-the-shelf keyboards, and the latest iterations - the Q and V Ultra models - are a straightforward upgrade to the lineup, with benefits for regular users and deep-in-the-weeds keyboard nerds alike.\nI've been testing two Ultra keyboards: the Keychron V5 Ultra 8K and Keychron Q1 Ultra 8K. The $119.99 V5 Ultra is a near-full-size 1800-layout board with a number pad in a plastic case, while the $229.99 Q1 Ultra i …\nRead the full story at The Verge.",
+      "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recommendations for off-the-shelf keyboards, and the latest iterations - the Q and V Ultra models - are a straightforward upgrade to the lineup, with benefits for regular users and deep-in-the-weeds keyboard nerds alike.\nI've been testing two Ultra keyboards: the Keychron V5 Ultra 8K and Keychron Q1 Ultra 8K. The $119.99 V5 Ultra is a near-full-size 1800-layout board with a number pad in a plastic case, while the $229.99 Q1 Ultra i …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "degBlN01LvY",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9a7260e421dfb584582c492d",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Mexican Ninja - Official Gameplay Trailer",
-      "url": "https://www.youtube.com/watch?v=SZAu6g0fjq0",
-      "publishedAt": "2026-04-18T00:00:23.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "SZAu6g0fjq0",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "15ea52c1059d62a72862dd4a",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "007 First Light - Official 'Music Dev Diary' Beyond the Light Episode 4",
-      "url": "https://www.youtube.com/watch?v=vOxS-_clW3M",
-      "publishedAt": "2026-04-17T23:01:05.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "vOxS-_clW3M",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a2b29205919052b7f87c3bdf",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Getting The Crap Scared Out of Us In We Gotta Go - 23 Minutes of Co-Op Gameplay",
-      "url": "https://www.youtube.com/watch?v=tlDWCiiNCZU",
-      "publishedAt": "2026-04-17T22:50:16.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "tlDWCiiNCZU",
       "spotifyEpisodeId": null
     }
   ]
