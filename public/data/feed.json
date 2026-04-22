@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-22T02:32:19.523Z",
+  "generatedAt": "2026-04-22T07:47:27.580Z",
   "items": [
+    {
+      "id": "3eb485a2491bbe8eb335aa42",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Pragmata: Lunum Mines (Sector 4) 100% Collectibles Guide",
+      "url": "https://www.youtube.com/watch?v=NuFDdw65nI0",
+      "publishedAt": "2026-04-21T23:30:08.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "NuFDdw65nI0",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "da98d56ee4241758ce721bd1",
       "sourceId": "the-verge-tech",
@@ -13,6 +27,34 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9e5b4a03cf4678ec832a8ef3",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Age of Mythology: Retold - Obsidian Mirror - Official Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=hcyzy6E3g24",
+      "publishedAt": "2026-04-21T22:30:25.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "hcyzy6E3g24",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3d3b0bf40fb9ef55e8a29b57",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Is losing Call of Duty Day One worth the price decrease for Xbox Game Pass? #xbox #cod #gaming #news",
+      "url": "https://www.youtube.com/shorts/Eej40eNMPCA",
+      "publishedAt": "2026-04-21T22:07:20.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     },
     {
@@ -30,6 +72,34 @@
       "spotifyEpisodeId": null
     },
     {
+      "id": "a575fbe24f3a623cdb1216d9",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "AION 2 - Official Announce Teaser Trailer",
+      "url": "https://www.youtube.com/watch?v=Ux5xZuuB_pk",
+      "publishedAt": "2026-04-21T21:00:35.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Ux5xZuuB_pk",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "aec07e98601faf957af85bca",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Dropping Game Pass's Price Is a Great First Step to Fixing Xbox's Problems",
+      "url": "https://www.youtube.com/watch?v=Cf9x7oZy3UM",
+      "publishedAt": "2026-04-21T20:58:20.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Cf9x7oZy3UM",
+      "spotifyEpisodeId": null
+    },
+    {
       "id": "26ab7255d4422ab4ef8c7cef",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -44,6 +114,20 @@
       "spotifyEpisodeId": null
     },
     {
+      "id": "7fd3f4102be83c11f9e19978",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Ruiner 2 - Official Gameplay Trailer",
+      "url": "https://www.youtube.com/watch?v=Y2FlZzkb_fY",
+      "publishedAt": "2026-04-21T20:00:21.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Y2FlZzkb_fY",
+      "spotifyEpisodeId": null
+    },
+    {
       "id": "295b482c167c4a22d1eb2819",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -55,6 +139,20 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "974009f228f5bf88d325d32a",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Dead Island 2 x Quarantine Zone - Official Collaboration Trailer",
+      "url": "https://www.youtube.com/watch?v=Yy74nV0ZIog",
+      "publishedAt": "2026-04-21T19:00:35.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Yy74nV0ZIog",
       "spotifyEpisodeId": null
     },
     {
@@ -251,104 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "8S6KeieSIWA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "5ea5920c16c827ab570bb35d",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Xbox Lowers Prices on Game Pass Ultimate - IGN Daily Fix",
-      "url": "https://www.youtube.com/watch?v=1dx0gK1iqGI",
-      "publishedAt": "2026-04-21T16:00:03.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "1dx0gK1iqGI",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0a2ef9cda294281461a4a1ec",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Dead by Daylight - Official Bloodbound Reveal Trailer (Ft. Darkest Dungeon, Attack on Titan, Alien)",
-      "url": "https://www.youtube.com/watch?v=PEltlc86gpg",
-      "publishedAt": "2026-04-21T15:21:50.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "PEltlc86gpg",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "76f943d0f61a91808ff172b3",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Desert Warrior - Exclusive Clip (2026) Anthony Mackie, Sharlto Copley",
-      "url": "https://www.youtube.com/watch?v=WgC2dPiyY1E",
-      "publishedAt": "2026-04-21T15:00:55.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "WgC2dPiyY1E",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "60ad00b6a98cfea2b30e1ae6",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Ace Combat 8: Wings of Theve - Official Strangereal Evolution Episode 2 Trailer",
-      "url": "https://www.youtube.com/watch?v=6cbxyXQhyAo",
-      "publishedAt": "2026-04-21T14:42:57.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "6cbxyXQhyAo",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "5af0eda7d343cd3d22e3d76d",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Drawquarium - Official Demo Trailer",
-      "url": "https://www.youtube.com/watch?v=AOMjC3LBLgQ",
-      "publishedAt": "2026-04-21T14:30:07.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "AOMjC3LBLgQ",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6fc7335be0267a9e49df99ab",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Top Gun - Official 40th Anniversary Trailer",
-      "url": "https://www.youtube.com/watch?v=JykwMYHeDCA",
-      "publishedAt": "2026-04-21T14:03:33.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "JykwMYHeDCA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6f6e5843afbf5e7edd347ec9",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Wolfhound Preview: An 8-Bit Throwback That Has Clearly Studied the Classics",
-      "url": "https://www.youtube.com/watch?v=YdvPmfY9fyA",
-      "publishedAt": "2026-04-21T14:00:53.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "YdvPmfY9fyA",
       "spotifyEpisodeId": null
     }
   ]
