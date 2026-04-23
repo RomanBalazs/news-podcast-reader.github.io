@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-23T02:36:03.647Z",
+  "generatedAt": "2026-04-23T07:52:13.986Z",
   "items": [
+    {
+      "id": "806c4e299f81be0f5a07e439",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Odin: Valhalla Rising - Official 1st Anniversary Update Cinematic Trailer",
+      "url": "https://www.youtube.com/watch?v=Z4PUb5CHcws",
+      "publishedAt": "2026-04-23T06:00:20.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Z4PUb5CHcws",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "b88a00edb17b45efe80298dd",
       "sourceId": "ign-youtube",
@@ -293,20 +307,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "V4Gp3AhrTAw",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "83c5bb612c4ecc3e77511cb2",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "For Honor x Assassin's Creed - Official Crossover Trailer",
-      "url": "https://www.youtube.com/watch?v=gsgqI64M7a0",
-      "publishedAt": "2026-04-22T19:00:39.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "gsgqI64M7a0",
       "spotifyEpisodeId": null
     },
     {
