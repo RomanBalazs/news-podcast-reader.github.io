@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-26T02:41:43.174Z",
+  "generatedAt": "2026-04-26T07:28:35.319Z",
   "items": [
+    {
+      "id": "6487137c08350e560e40e406",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Spider-Noir - Official Black & White Trailer (2026) Nicolas Cage, Brendan Gleeson",
+      "url": "https://www.youtube.com/watch?v=IP1gbj9iOxo",
+      "publishedAt": "2026-04-26T02:53:25.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "IP1gbj9iOxo",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "7744c2936f94df411f62e8df",
       "sourceId": "ign-youtube",
@@ -317,20 +331,6 @@
       "title": "Monoco fans! You can preorder 17.5 inches right now at IGN Store #clairobscurexpedition33 #monoco",
       "url": "https://www.youtube.com/shorts/i7dj9BVLVx8",
       "publishedAt": "2026-04-24T23:21:56.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "7b1cfb2e3e14e5d2efc768a2",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Xbox still has a way to go, but Asha Sharma deserves some flowers #xbox #gaming",
-      "url": "https://www.youtube.com/shorts/9zAEbenuxFs",
-      "publishedAt": "2026-04-24T23:14:24.000Z",
       "summary": null,
       "imageUrl": null,
       "category": "gaming",
