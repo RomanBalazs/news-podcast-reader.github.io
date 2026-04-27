@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-04-27T02:44:03.020Z",
+  "generatedAt": "2026-04-27T08:24:33.157Z",
   "items": [
+    {
+      "id": "304747b9fbceaa2c54afa833",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Karma Exorcist is a Chinese Mythology Metroidvania That Caught Me Off Guard",
+      "url": "https://www.youtube.com/watch?v=zwyP6lbxTn8",
+      "publishedAt": "2026-04-27T05:01:03.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "zwyP6lbxTn8",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "d3338f054d1b2a7a2dd84f4d",
       "sourceId": "ign-youtube",
@@ -293,20 +307,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "bf6e9be319e80c7d014e8489",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Monster Hunter Outlanders - Official Weapon Overview Trailer",
-      "url": "https://www.youtube.com/watch?v=6Q97_ZUlTuE",
-      "publishedAt": "2026-04-25T19:00:06.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "6Q97_ZUlTuE",
       "spotifyEpisodeId": null
     },
     {
