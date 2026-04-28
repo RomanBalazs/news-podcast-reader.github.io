@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-04-27T19:21:11.636Z",
+  "generatedAt": "2026-04-28T02:51:30.758Z",
   "items": [
+    {
+      "id": "658c566fcf6a149db1c00e13",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Google is testing AI chatbot search for YouTube",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "publishedAt": "2026-04-28T00:01:54.000Z",
+      "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now available if you're a YouTube Premium subscriber in the US who is 18 or older.\nI turned it on for my account. Now, in the search bar, I see an \"Ask YouTube\" button, and clicking the search bar shows prompts to ask like \"funny baby elephant playing clips,\" \"summary of the rules of volleyball,\" and \"short history of the Apollo 11 moon landing.\" If  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ec99a127ce8eed4f4daaffc3",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+      "publishedAt": "2026-04-27T20:47:45.000Z",
+      "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features \"will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of 'AI native' features and workflows for those who want them.\" \nThese features will range from accessibility tools like improved speech-to-text and text-to-speech to agentic AI features for tasks …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "1b218fc141f0613e7aaff3b9",
       "sourceId": "the-verge-tech",
@@ -195,34 +223,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "j7kc_jfSd3c",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "47437408d783fbe802b66102",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "publishedAt": "2026-04-27T16:15:47.000Z",
-      "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped.\nOn Monday morning, Microsoft announced a handful of big changes to its long-standing OpenAI deal. Microsoft will remain OpenAI's \"primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities.\" But OpenAI can \"now serve all its products to customers across any cloud provider.\" That lets OpenAI pursue its goals of courting enterprise custom …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f175ef268518705a88ef841c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Philips Hue Sync Box 8K is 30 percent off",
-      "url": "https://www.theverge.com/gadgets/918999/philips-hue-8k-hdmi-sync-box-logitech-g435-gaming-headset-deal-sale",
-      "publishedAt": "2026-04-27T16:03:04.000Z",
-      "summary": "If you’re as invested in Philips Hue lights as these folks are, the 8K-ready sync box makes sense. | Image: The Verge\t\n\nThe Philips Hue Play HDMI Sync Box 8K is a great gadget to buy if you want to put your Hue lights to good use while watching a movie or playing video games. It syncs with your lights to mirror the colors on your TV, and it’s steeply discounted right now to a slightly more accessible price. You can currently get the box for $269.49 via the Philips Hue store, which is $115 off the going price at most other retailers (including Best Buy). This is part of the company’s ongoing “Bright Days” sale, which includes deals on a host of other lighting products.\nPhilips Hue Play HDMI Sync Box 8K\n\nWhere to Buy:\n\n $384.99 $269.49 at Philips Hue\n\nThe sync box is an HDMI hub that can accept up to four devices (gaming consoles, a PC, streaming devices, etc.), and it supports up to 8K passthrough at 60Hz to your TV, or 4K with a higher 120Hz refresh rate. It also offers passthrough support for HDR10 Plus and Dolby Vision HDR, as well as immersive Dolby Atmos audio.\nOne important note is that the Sync Box needs a Philips Hue Bridge to communicate with other Hue lights (including the gradient light strips that stick behind your TV). If you don’t have a Bridge, the standalone entry-level model typically costs about $65. However, I actually recommend opting for the discounted bundle on Philips Hue’s site, which nets you both products for $301.93, effectively halving the cost of the Bridge.\nRead more about the Philips Hue 8K sync box.\nOther deals to know about\nGameStop is running a sale on pre-owned games that stacks savings depending on how many you buy. You’ll save 10 percent on the total cost when buying two or three games, 20 percent with four or five games, and 30 percent off with six or more games. Whether you have the budget for some pricey games or just want to flesh out your collection of older, cheaper titles, you can save quite a bit by buying discs in bulk.\nThe Logitech G435 is a good, affordable headset for people who aren’t too picky about features or high-end build materials. The black model with minimal neon green details and a beamforming mic is down to $37.49 (about $43 off) on Amazon, which is the lowest price so far this year. The gaming headset was a favorite of mine when it came out in ’21, and it’s solid for use with a PC or PS5 via its 2.4GHz USB-A dongle. It also supports Bluetooth and includes a button to easily toggle between wireless modes. Read my hands-on impressions.\nBaseus’s AM52 is a slim, 10,000mAh MagSafe battery that claims to support 25W wireless charging speeds for the iPhone 16 and newer phones. It’s listed at $59.99 (down from $79.99) at Amazon for Prime members, but Slickdeals users have shared a promo code (BASEUSAM52) that knocks the price down to $39.29. The power bank lacks a built-in USB-C cable, but when paired with one, it can supply devices with up to 45W. Its small capacity isn’t a great fit with charging gaming handhelds or a laptop, but it can give you a little juice if that’s all you need.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
