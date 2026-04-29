@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-04-29T02:50:14.502Z",
+  "generatedAt": "2026-04-29T08:17:23.247Z",
   "items": [
+    {
+      "id": "42acaa91c87e4d108966b5e4",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Diablo 4 Warlock Endgame Gameplay",
+      "url": "https://www.youtube.com/watch?v=Hre9UuZKLug",
+      "publishedAt": "2026-04-29T07:00:14.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Hre9UuZKLug",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "cf33b3ad4165d4dd0e0a34cf",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Above Land: Rhapsody is a Co-Op Roguelite That Mixes Swordplay with... Slam Dunks?",
+      "url": "https://www.youtube.com/watch?v=IaskTBLDLVE",
+      "publishedAt": "2026-04-29T05:00:28.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "IaskTBLDLVE",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f3f83e5fffb3b29e0f1a418e",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Above Land: Rhapsody – Official Reveal Trailer",
+      "url": "https://www.youtube.com/watch?v=DBlcH7DwGbM",
+      "publishedAt": "2026-04-29T03:00:24.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "DBlcH7DwGbM",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "290e4ade66b66e3931081251",
       "sourceId": "ign-youtube",
@@ -195,48 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "DipdBkPHhpU",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "25c119b7959f31b80c2dc5bf",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Knuckle Paradise - Official Announcement Teaser Trailer",
-      "url": "https://www.youtube.com/watch?v=H2akccq5DBg",
-      "publishedAt": "2026-04-28T23:00:29.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "H2akccq5DBg",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "db79daa3badfa1e918fd6308",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Star Wars Unlimited - Official Ashes of the Empire Trailer",
-      "url": "https://www.youtube.com/watch?v=ZETD4BLqm-U",
-      "publishedAt": "2026-04-28T22:15:31.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "ZETD4BLqm-U",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c3fa4808e2cefa3835b7f55c",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Predator: Hunting Grounds - Official Father Predator Trailer",
-      "url": "https://www.youtube.com/watch?v=h_AaH655EO8",
-      "publishedAt": "2026-04-28T22:00:47.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "h_AaH655EO8",
       "spotifyEpisodeId": null
     },
     {
