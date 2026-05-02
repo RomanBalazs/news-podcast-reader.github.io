@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-05-02T07:43:34.202Z",
+  "generatedAt": "2026-05-02T13:10:27.111Z",
   "items": [
+    {
+      "id": "11ff919df3d01be283e72fe0",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Review: Mortal Kombat (1995) Is a Bad Movie, But Does Anybody Care?",
+      "url": "https://www.youtube.com/watch?v=4f9HzLcsF64",
+      "publishedAt": "2026-05-02T12:46:00.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "4f9HzLcsF64",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9d22ef6643f675f94c3a6cb7",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
+      "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+      "publishedAt": "2026-05-02T12:00:00.000Z",
+      "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons & Dragons: You play as a cleric wandering around a small town who's trying to figure out, among other things, the mystery of why a tea shop in town exploded, and all the while, you're having conversations with different character traits in your head. Like Disco Elysium, you see the world from an isometric, top-down perspective. Also like Disco Elysium, Esoteric Ebb requires a lot of reading, weighing the opinions of your competing voices, and making some bold dice rol …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "aa02e270f1159e150d843242",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The things we’re building",
+      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+      "publishedAt": "2026-05-02T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read all the old editions at the Installer homepage.) \nHappy Ruthless Self-Promotion Week! We're dedicating almost all of this issue to the stuff we've been making recently. Personally, I've been reading about the Tesla diner and Dwarkesh Patel and The Rest Is History, starting a Ted Lasso rewatch to get ready for season 4, watching a robot injure Joanna Stern, continuing down the rabbit hole of gorgeous Japanese stationery, wondering if those cool shoes …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "5f929d3e79c7cbbb597ee167",
       "sourceId": "ign-youtube",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4c5476b7a8ce449447092963",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;",
-      "url": "https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets",
-      "publishedAt": "2026-05-01T16:57:27.000Z",
-      "summary": "The unions backing professional NBA, NFL, MLB, NHL, and MLS players are calling on the Commodity Futures Trading Commission (CFTC) to ban prediction market platforms from allowing users to bet on a player's underperformance or injury, Sports Business Journal reports. In their letter, the unions cite the need for \"appropriate regulations\" to protect athletes and their families from \"abusive and harassing behavior.\"\nThe unions wrote the letter in response to the CFTC's request for comment on the regulation of prediction markets, such as those operated by Kalshi and Polymarket. In addition to asking for a ban on \"under\" bets, the unions also w …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "71cbff807fc716d213de3223",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help",
-      "url": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
-      "publishedAt": "2026-05-01T16:55:16.000Z",
-      "summary": "Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called \"Copy Fail\" that allows any user to give themselves administrator privileges.  The exploit, publicly disclosed as CVE-2026-31431 on Wednesday, uses a Python script that works across all of the vulnerable Linux distributions, requiring \"no per-distro offsets, no version checks, no recompilation,\" according to Theori, the security firm that uncovered it. \nArs Technica points out this blog post where DevOps engineer Jorijn Schrijvershof explains that what makes Copy Fail \"unusually nasty\" is the likelihood for it to go unnoticed by monitoring t …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "58e944b305eca22b82277878",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Dead or Alive 6 Last Round × The King of Fighters 14 - Official Collaboration Trailer",
-      "url": "https://www.youtube.com/watch?v=Eye-fZSi76A",
-      "publishedAt": "2026-05-01T15:27:14.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "Eye-fZSi76A",
       "spotifyEpisodeId": null
     }
   ]
