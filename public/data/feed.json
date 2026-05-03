@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-05-02T18:58:51.999Z",
+  "generatedAt": "2026-05-03T02:51:25.486Z",
   "items": [
+    {
+      "id": "43f7ea85ca9680ad28cc8758",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Steam to Electric - Official Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=gC2QbtRuJHQ",
+      "publishedAt": "2026-05-02T23:00:42.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "gC2QbtRuJHQ",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "72060a13a3b1038ec183c8db",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Luckrot - Official Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=jPpSKEXcrh8",
+      "publishedAt": "2026-05-02T22:00:46.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "jPpSKEXcrh8",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "b6b29b83fd498361c2dd4ea4",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Beware of the Cartographer! - Official Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=y89v0KkTTV8",
+      "publishedAt": "2026-05-02T21:01:00.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "y89v0KkTTV8",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "02cb17cf7ab9b60a62c37003",
       "sourceId": "the-verge-tech",
@@ -293,48 +335,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e1ef5ba13e0626253272f560",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Deserter - Official Gameplay Overview Trailer",
-      "url": "https://www.youtube.com/watch?v=2fIsF6pChpI",
-      "publishedAt": "2026-05-01T21:00:04.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "2fIsF6pChpI",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "528d7fa30ff6f177b97778e9",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "The War of the Worlds: Siberia - Official Story Trailer (English Subtitles)",
-      "url": "https://www.youtube.com/watch?v=nvg5axQZ1zg",
-      "publishedAt": "2026-05-01T20:01:46.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "nvg5axQZ1zg",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a7640eb1a348625bec9d30a7",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "eFootball x Naruto Shippuden - Official CustomStadium Trailer",
-      "url": "https://www.youtube.com/watch?v=gP6jXdzDaiA",
-      "publishedAt": "2026-05-01T20:00:37.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "gP6jXdzDaiA",
       "spotifyEpisodeId": null
     },
     {
