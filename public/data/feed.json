@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-05-03T18:59:08.092Z",
+  "generatedAt": "2026-05-04T02:48:50.734Z",
   "items": [
+    {
+      "id": "e011abe3f2e3e6b6a8a56812",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Dreamcore: Rabbit Hole - Official Release Trailer",
+      "url": "https://www.youtube.com/watch?v=djZhk7YxfV8",
+      "publishedAt": "2026-05-04T02:00:35.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "djZhk7YxfV8",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "dd8e6cba80c1dc0c28f3b253",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The Last Viking - Official Trailer",
+      "url": "https://www.youtube.com/watch?v=p6uvWgjRTDM",
+      "publishedAt": "2026-05-04T01:00:55.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "p6uvWgjRTDM",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "bb2b6f20a89359cb684c9682",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Fatal Fury: City of the Wolves - Official Wolfgang Krauser Animated Trailer",
+      "url": "https://www.youtube.com/watch?v=LJpXBKFA8Kc",
+      "publishedAt": "2026-05-04T00:00:31.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "LJpXBKFA8Kc",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "73a2246ba56a831389b1aa70",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Angels in Orbit - Official Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=dJZ5mCjdhdk",
+      "publishedAt": "2026-05-03T23:00:39.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "dJZ5mCjdhdk",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "dfeba1cae0dab4bd7072ff73",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Tiny Delivery - Official Release Window Trailer",
+      "url": "https://www.youtube.com/watch?v=6Au9GGjrDPY",
+      "publishedAt": "2026-05-03T22:00:06.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "6Au9GGjrDPY",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "670150a038184d955ebac088",
       "sourceId": "ign-youtube",
@@ -254,48 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "e702ee3a186cb31db0d5cdf3",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Fortnite x Star Wars - Official Escape Vader Trailer",
-      "url": "https://www.youtube.com/watch?v=HcB3CSsqwCk",
-      "publishedAt": "2026-05-02T15:05:35.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "HcB3CSsqwCk",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "90f379c854d3e166c9a4b456",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Fatal Fury: City of the Wolves - Official Mr. Karate Teaser Trailer",
-      "url": "https://www.youtube.com/watch?v=Rc-TWkGTz3s",
-      "publishedAt": "2026-05-02T15:00:45.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "Rc-TWkGTz3s",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e28546c1612c64552a84e26b",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "World Heroes Perfect - Official Trailer",
-      "url": "https://www.youtube.com/watch?v=fGRmA4UgnAM",
-      "publishedAt": "2026-05-02T14:24:19.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "fGRmA4UgnAM",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "3039018dacc7b654befaf63c",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -310,20 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "11ff919df3d01be283e72fe0",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Review: Mortal Kombat (1995) Is a Bad Movie, But Does Anybody Care?",
-      "url": "https://www.youtube.com/watch?v=4f9HzLcsF64",
-      "publishedAt": "2026-05-02T12:46:00.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "4f9HzLcsF64",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "9d22ef6643f675f94c3a6cb7",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "5f929d3e79c7cbbb597ee167",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Why so serious? (about Doctor Who)",
-      "url": "https://www.youtube.com/shorts/j0v5fZc454A",
-      "publishedAt": "2026-05-02T00:55:44.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
