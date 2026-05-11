@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-11T03:29:00.626Z",
+  "generatedAt": "2026-05-11T09:38:37.115Z",
   "items": [
+    {
+      "id": "3b7f764df7f12c3579350e08",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Avatar Legends: The Fighting Game - Official Sokka Developer Overview",
+      "url": "https://www.youtube.com/watch?v=2J3kzwNDTuA",
+      "publishedAt": "2026-05-11T07:15:01.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "2J3kzwNDTuA",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "d1e8453a325e8d8762342dce",
       "sourceId": "ign-youtube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ef75ea317a171a0bc61e0d7c",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Thick as Thieves - Official 'Welcome to Kilcairn' Gameplay Overview",
-      "url": "https://www.youtube.com/watch?v=D5b5TCil-u0",
-      "publishedAt": "2026-05-09T00:00:22.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "D5b5TCil-u0",
       "spotifyEpisodeId": null
     }
   ]
