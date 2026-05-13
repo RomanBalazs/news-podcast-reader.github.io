@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-05-12T19:51:27.120Z",
+  "generatedAt": "2026-05-13T02:58:46.617Z",
   "items": [
+    {
+      "id": "d12f1176a7627e621cf5bad9",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Sony’s new Xperia phone gets an overdue redesign",
+      "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+      "publishedAt": "2026-05-13T02:00:00.000Z",
+      "summary": "Sony’s new flagship doesn’t look much like its predecessors. | Image: Sony / The Verge\t\n\nSony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what should be a substantially improved telephoto camera, along with an AI camera assistant that looks like an improved version of Google's Camera Coach.\nWhile every previous Xperia 1 phone has had three vertical cameras, and the last six have positioned them in the same top-left corner spot, the 1 VIII mixes things up. The three lenses are now laid out in a square block, together with the flash and a Sony logo, that's raised from the phone but slopes  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "a947bf5783dd5ffa331004d1",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Sam Altman was winning on the stand, but it might not be enough",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+      "publishedAt": "2026-05-12T23:23:14.000Z",
+      "summary": "Who, me? | Image: The Verge; Getty Images\t\n\nAfter two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity.\n\"We created, through a ton of hard work, this extremely large charity, and I agree you can't steal it,\" Altman said. \"Mr. Musk did try to kill it, I guess. Twice.\" \nAltman was fully in \"nice kid from St. Louis\" mode, and did a passable impression of a man who was bewildered at what was happening to him. When he stepped down from the stand holding a stack of evidence binders, he even look …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "b250d9f7ee1b73d83412ff3a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "iOS 27 might add a lot more customization to the Camera app",
+      "url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
+      "publishedAt": "2026-05-12T21:36:11.000Z",
+      "summary": "Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be \"fully customizable\" in iOS 27 and users will be able to \"pick their own set of controls - called widgets - that run along the top of the interface.\"\nGurman notes that the Camera app will keep the current set of default widgets, but starting with iOS 27, you will \"be able to switch over to an 'advanced' array of options or choose their own items.\" From there, you'll reportedly be able to select from a new \"Add Widgets\" tray, with widgets split into thr …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "a6e034af1cfa72ed8b8656c4",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Meta won’t let you block its AI account on Threads",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "publishedAt": "2026-05-12T20:35:23.000Z",
+      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people tagging xAI's Grok. But, as reported by Engadget, Threads users quickly discovered that you can't block the new Meta AI account, and they aren't happy about it.\nMeta has invested heavily in AI as it works to catch up to rivals like OpenAI and Google, spending billions to hire AI talent. It launched a new AI model called Muse Spark in April, which it s …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "e77553d3f8f64006e6e5b49c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
+      "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
+      "publishedAt": "2026-05-12T19:56:50.000Z",
+      "summary": "Starting Tuesday, parents can get more details about what their teens are up to on Instagram. Meta is adding a feature to its Teen Accounts that shows parents the \"general topics their teens engage with,\" like \"basketball\" or \"fashion.\" Meta also says it will soon start notifying parents when their teen adds a new interest to their algorithm.\nIn December, Meta announced its \"Your Algorithm\" feature, which lets users choose topics they want to see more or less of in Instagram. Meta noted in its Tuesday blog post that users with Teen Accounts are already limited in what topics they can add to their algorithm - content shown to users with teen …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "7eec6bb2394ff139a4bc82c4",
       "sourceId": "ign-youtube",
@@ -128,48 +198,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "65cdae777b9959107d02d168",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Panasonic’s new Lumix L10 is a compact camera with a focus on photography",
-      "url": "https://www.theverge.com/tech/928767/panasonic-lumix-l10-four-thirds-sensor-digital-camera-price-availability",
-      "publishedAt": "2026-05-12T16:56:54.000Z",
-      "summary": "Panasonic has announced a new addition to its Lumix camera line with a compact body and fixed lens that's targeted at photographers instead of creators making video content. The Lumix L10 is available for preorder today with a black or silver finish for $1,499.99. To celebrate the 25th anniversary of the Lumix brand, the L10 will also be available in a titanium gold finish with matching accessories and software for $1,599.99, but only in limited numbers and primarily through Panasonic's online store.\nThe Lumix L10 weighs 508 grams and features a magnesium alloy front case and a metal exterior partially wrapped in a textured finish designed  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9a963ac334064f94e4e80daa",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "publishedAt": "2026-05-12T16:30:33.000Z",
-      "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical professional would have recognized as deadly,\" resulting in his death.\nThough ChatGPT initially \"shut down\" conversations about drug and alcohol use, the launch of GPT-4o in April 2024 changed the chatbot's behavior, according to the lawsuit. Following the update, ChatGPT \"began to engage and advise Sam on safe drug use, even providing specific dosag …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "329361c03c510bc146bda335",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Android Show 2026: all the news and announcements",
-      "url": "https://www.theverge.com/tech/928624/android-show-2026-all-the-news-and-announcements",
-      "publishedAt": "2026-05-12T16:30:00.000Z",
-      "summary": "Google I/O is just days away, and that means it’s time for another Android Show event to unpack all the Android ecosystem highlights Google has in store. \nThe highlight of this year’s Android Show was Googlebooks, a new line of laptops running Android. They can cast apps from Android phones, pull files directly from a connected Android device, and offer contextual AI suggestions using the mouse pointer. Google says the first of these Chromebook successors are “coming this fall.” \nGoogle also showed off some new features coming in Android 17, including 3D emoji, custom AI-generated widgets, expanded access to Quick Share/AirDrop, the “Rambler” AI transcription tool, and a new “Pause Point” feature for helping manage screen time. Plus, Android Auto got “the biggest update in its 10-year history,” with improved support for different screen sizes (and shapes), support for Material 3 Expressive and widgets, the ability to stream content from YouTube to your car’s screen, and more.\n\n\n\t\t\t\t\t\nGoogle-powered cars will predictively nudge you to switch lanes.\n\t\t\t\nAndroid Auto is now one (screen) size fits all\n\t\t\t\nGoogle announces its Chromebook successor: the Googlebook\n\t\t\t\nThe 9 biggest new features in Android 17\n\t\t\t\nAndroid is getting better for creators.\n\t\t\t\nGemini’s latest updates are all about controlling your phone\n\t\t\t\nGoogle’s Aluminium OS revealed in 16-minute leaked video\n\t\t\t\nHow to watch Google’s Android Show: I/O Edition today",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "551e8137752d3273581e4055",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -184,20 +212,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "82d830fd044964649f17a022",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sam Altman takes the stand in trial against Elon Musk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-      "publishedAt": "2026-05-12T16:05:20.000Z",
-      "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom.\nAltman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team at OpenAI, with Musk investing up to $38 million in the ChatGPT-maker's early days. But the relationship between Musk and other OpenAI founders eventually soured, and Musk stepped away from the company, later going on to found his own direct competitor, xAI. In recent years, Musk and Altman have traded barbs and made a slew of allegations agains …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "c5a23d88459d70c1700ef9c1",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -209,20 +223,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0b3fd7169769820464e73a72",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-      "publishedAt": "2026-05-12T16:00:00.000Z",
-      "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, including giving AI systems full permission to use their content, allowing access with certain requirements, or restricting access entirely.\nThe Human Consent Standard builds upon the Really Simple Licensing (RSL) Standard, which launched last year as a way for websites to signal how AI systems use their work. RSL Media, a nonprofit cofounded by Cate B …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
