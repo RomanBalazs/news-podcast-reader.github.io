@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-05-18T03:37:52.393Z",
+  "generatedAt": "2026-05-18T10:02:29.215Z",
   "items": [
+    {
+      "id": "e9c5fd97704b13d26a9ba8c3",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
+      "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+      "publishedAt": "2026-05-18T10:00:00.000Z",
+      "summary": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"frozen\" for five years and forced to do desk work, Cascade is sent to the city of Portofiro with an assignment and a chance to redeem herself.\nZero Parades highly resembles Disco Elysium, the critically acclaimed 2019 RPG featuring a disastrous detective dealing with generational heartbreak and a hangover that split his psyche into dozens of voice …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "ee89f80b52f1f47b7e67f0ba",
       "sourceId": "ign-youtube",
@@ -37,7 +51,7 @@
       "title": "Microsoft is retiring Teams’ Together Mode",
       "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
       "publishedAt": "2026-05-17T21:15:28.000Z",
-      "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI to cut your head and shoulds out, and place you in a virtual space with others in the meeting. It could definitely feel gimmicky - especially when you'd tap co-workers on the shoulder, or give virtual high fives - but it did limit visual distractions. \nThe changes are being rolled out gradually, but as they are, the Together Mo …\nRead the full story at The Verge.",
+      "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI to cut your head and shoulders out, and place you in a virtual space with others in the meeting. It could definitely feel gimmicky - especially when you'd tap coworkers on the shoulder, or give virtual high fives - but it did limit visual distractions.\nThe changes are being rolled out gradually, but as they are, the Together Mo …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -76,10 +90,10 @@
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
       "type": "article",
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "title": "Revamped Siri will reportedly offer autodeleting chats",
       "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
       "publishedAt": "2026-05-17T18:40:28.000Z",
-      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. Users will be able to save conversations for 30 days, one year, or forever. That's in stark contrast to the other major players in the space that generally only offer temporary incognito chats, if that. \nIt appears Apple is betting that people are willing to give up some convenience in the name of greater privacy, as anxiety around AI …\nRead the full story at The Verge.",
+      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. Users will be able to save conversations for 30 days, one year, or forever. That's in stark contrast to the other major players in the space that generally only offer temporary incognito chats, if that.\nIt appears Apple is betting that people are willing to give up some convenience in the name of greater privacy, as anxiety around AI c …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -279,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "hZORrzVP2bA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a8d53e25388a6047b2730c77",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
-      "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
-      "publishedAt": "2026-05-16T15:00:00.000Z",
-      "summary": "Manoush Zomorodi tackled tech’s effect on our brains, now she’s looking at our bodies. | Image: Tory WIlliams\t\n\nManoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and Brilliant, left off. That book looked at how technology was hampering our mental health. I highly recommend it to anyone who feels like being constantly attached to a device is sapping their energy and creativity. \nBoth books grew out of her extensive podcasting work. After heading up WNYC's Note To Self, Zamorodi went on to host NPR's TED Radio H …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
