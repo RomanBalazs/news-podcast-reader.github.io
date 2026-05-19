@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-05-18T19:44:06.914Z",
+  "generatedAt": "2026-05-19T03:31:11.318Z",
   "items": [
+    {
+      "id": "7fa08a973e58c957988f5492",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+      "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+      "publishedAt": "2026-05-19T01:10:12.000Z",
+      "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have only been capable of 720p at the most, but this 24.5-inch IPS display does not have that limitation, as the company says it's ready for esports competitors (whether they're in an FPS or Excel), who need maximum responsiveness.\nWe were already asking if anyone could feel the effect of higher refresh rates a few years ago when they hovered around 360 …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "2f7f5d10183060e5b5b42451",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Volvo teases a new affordable EV to replace discontinued EX30",
+      "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
+      "publishedAt": "2026-05-18T20:41:09.000Z",
+      "summary": "Volvo's compact, quirky EX30 had a lot of problems when it was first released. Tariffs essentially erased its affordability, making it more expensive to own, and a battery recall made it dangerous to park indoors. But its discontinuation didn't spell the end of Volvo's efforts to sell more affordable electric models. In fact, the Swedish automaker is already at work on a new offering for the US market. \nThe news of an affordable Volvo EV for the US came during a media roundtable this week related to the US launch of the new EX60. Luis Rezende, president of Volvo Cars America, said that the decision to discontinue the EX30 was not solely abo …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "28669115039eb134c18d0416",
       "sourceId": "the-verge-tech",
@@ -9,7 +37,7 @@
       "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
       "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
       "publishedAt": "2026-05-18T19:28:42.000Z",
-      "summary": "PlayStation reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy. Schreier had previously reported on the shift in March, saying that Sony scrapped plans to launch PC versions of last year's Ghost of Yōtei and \"other internally developed games.\" Online games will still come to multiple platforms following this change in strategy, Schreier reported at the time.\nIn recent years, Sony has released many of its biggest games on PC, including Spide …\nRead the full story at The Verge.",
+      "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy. Schreier had previously reported on the shift in March, saying that Sony scrapped plans to launch PC versions of last year's Ghost of Yōtei and \"other internally developed games.\" Online games will still come to multiple platforms following this change in strategy, Schreier reported at the time.\nIn recent years, Sony has released many of its biggest games on PC, including Spider-Man 2 …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -142,20 +170,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "2a77519510647efb505ddcaa",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Amazon Alexa Plus can now create AI-generated podcasts",
-      "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-      "publishedAt": "2026-05-18T15:55:25.000Z",
-      "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation and adjust its length before it starts generating the episode.\nSome \"Alexa Podcast\" examples shared by Amazon have two AI-generated hosts talking about the history of the Roman Empire, new music, and expectations for the World Cup. Amazon says you can also ask Alexa Plus to generate audio lessons about the Apollo missions, o …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "a9edb9819320d1bd765591b9",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -167,20 +181,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "Uhhws2QatmA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f7eb43a19e9d575a0410190b",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
-      "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
-      "publishedAt": "2026-05-18T15:03:03.000Z",
-      "summary": "A two-pack of wall washers usually costs over $300, but you can get them for $240. | Image: The Verge\t\n\nWoot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting. The retailer’s already-discounted prices are even cheaper today when you enter the code SAVETWENTY at checkout through midnight Central Time. The products included in the sale serve as a great introduction to setting up smart lights, or diving a little deeper.\nFor starters, there’s the Philips Hue Bridge Gen 2 that’s $25.60 with the code (versus $65.99 new at most), which is a required gadget for operating some Philips Hue products. For instance, you’ll need it to setup the Play HDMI Sync Box 8K ($212 with code, originally $384.99) that can sync other Hue lights to what’s showing on your TV screen. While some Hue devices fall back on Bluetooth, you’ll eventually need a Bridge if you plan to setup more than 10 lights or if you want to control lights remotely.\nPhilips Hue Solo Lightstrip (10-foot)\n\nWhere to Buy:\n\n $69.99 $40 at Woot (with code SAVETWENTY)\n\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/FY25Q4-Firefly-Max-LA-affiliate-VideoEditor-Marker-1x1-EN.jpg\",\n    productImageAlt: \"Adobe Firefly\",\n    productTitle: \"Adobe Firefly\",\n    shortDescription: \"Create and edit images, video, and audio with the power of AI.\",\n    longDescription:\n      \"Product Description: Adobe's all-in-one creative AI studio just got a lot more powerful. Quick Cut turns a pile of raw video footage into a structured first edit before you have had your second coffee. You can now edit your photos and videos with simple prompts, including adding fully licensed music and sound effects. Collaborate with your team on a polished final project with Firefly Boards. Through May 20th you can get unlimited generations and 50% off select plans. Do not sleep on this one.\",\n    purchaseUrl: \"https://adobe.prf.hn/click/camref:1011l3IdQV/pubref:Verge/ar:Hypedesk/destination:https%3A%2F%2Fwww.adobe.com%2Fproducts%2Ffirefly.html\",\n    purchaseLinkText: \"Get The Deal At Adobe\"\n  };\n\n\n\nOther great Verge-approved deals\nAnother notable product eligible for a 20 percent discount through midnight Central Time at Woot is the first-gen Amazon Kindle Scribe. The retailer has refurbished models of the 16GB, 32GB, and 64GB models starting at $159, and going up to $176, and $199, respectively. You can get the deal by entering the code KINDLE20 at checkout. The differences between the late 2024 model that’s on sale here and the one that arrived late last year starting at $499 may be a big deal depending on who you ask. The older model has a thicker bezel on its left side, and its 10.2-inch screen is smaller than the 11-inch display in the newer one. The discounted model at Woot includes a Premium Pen stylus for handwriting and drawing. \nGameStop has new copies of the Super Mario RPG remake for Nintendo Switch selling for just $15. The sale price extends to another first-party Nintendo Switch RPG, Mario & Luigi: Brothership. Both titles have never been more affordable, and these prices aren’t available at other retailers. There are other games available at $15 each that you might be interested in, from the likes of Diablo 4 and Monster Hunter Wilds to Dead Rising Deluxe Remaster. \nIf you can’t decide whether you want a USB-C power bank or wall adapter, you can get both in a small and very cheap package at Amazon. Iniu’s 10,000mAh power bank with fold-out outlet prongs is $18.35 (originally $39.99) when you add the black model to your cart. The power bank can output top speeds of 45W via its built-in USB-C cable, or through its additional USB-C port (it also has a USB-A port). It reduces output speed to 30W while it’s plugged into your wall, but that’s still a respectable pace for many phones, tablets, and some laptops.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
