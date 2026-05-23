@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-05-23T08:19:05.407Z",
+  "generatedAt": "2026-05-23T13:23:59.163Z",
   "items": [
+    {
+      "id": "cb58732853754925611cd1f8",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Inferius - Official Gameplay Trailer | Endix Showcase 2026",
+      "url": "https://www.youtube.com/watch?v=uPFbuojVCrQ",
+      "publishedAt": "2026-05-23T13:00:38.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "uPFbuojVCrQ",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "e32277bb725fdccd7174d566",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Backrooms: How Kane Parsons Turned A Video Game Design Flaw Into Pure Nightmare Fuel",
+      "url": "https://www.youtube.com/watch?v=2phkKVwERPY",
+      "publishedAt": "2026-05-23T13:00:24.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "2phkKVwERPY",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3f726ca32d272653bc17ca0d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "I have a new go-to browser",
+      "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+      "publishedAt": "2026-05-23T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage.) \nThis week, I've mostly been sick, which has meant nearly a full rewatch of Parks and Recreation while alternately napping and feeling bad for myself. But I've also been reading about Nick Fuentes and clowns, listening to old episodes of Short History Of, testing the NextSense Smartbuds while I sleep, writing in the Outerline Markdown app beta, and eagerly looking for things to do with the upcoming Flipper One.   \nToday' …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "6b5c336108351d098fb52c1e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "publishedAt": "2026-05-23T11:00:00.000Z",
+      "summary": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full-on slop. Maybe that Venn diagram is a perfect circle! Maybe not. But what I know for sure is that the tools to make realistic videos are surprisingly good, requiring surprisingly little effort and know-how. And that trend is c …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "bf7bd17549d15d187289f7fa",
       "sourceId": "ign-youtube",
@@ -282,34 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "0fad480620101530928e788c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
-      "url": "https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale",
-      "publishedAt": "2026-05-22T14:48:00.000Z",
-      "summary": "Best Buy’s Memorial Day sale includes a good deal on a massive OLED TV. The 77-inch LG B5 is down to $1,499.99 (originally $2,999.99), and the purchase includes a $200 Best Buy gift card. I’m a 55-inch TV kind of person, but if you’ve got the budget — and the wall space — this is a great deal.\nLG B5 OLED TV\nLG’s B5 TV is a great way to get OLED picture quality for less. It features support for both Dolby Vision and Dolby Atmos, along with a 120Hz panel and four HDMI 2.1 ports for hooking up the latest gaming consoles. It also runs LG’s webOS platform, supports Amazon Alexa, and provides easy access to a wide range of popular streaming apps.\n\nWhere to Buy:\n\n $2999.99 $1499.99 at Best Buy (77-inch, includes $200 gift card)\n\nThe last-gen B5 is the more budget-friendly alternative to LG’s C5 OLED TV, kind of like how the iPhone 17E is to the iPhone 17. It has many of the same features, including small bezels, a stunning panel with infinite contrast ratio, and four HDMI 2.1 ports to let your consoles run wild at 4K with up to 120Hz refresh rate on the TV. However, it’s less bright than the C5, and isn’t as good at upscaling content. The C5 also has a faster 144Hz refresh rate, though I don’t think those features are worth its current $400 premium over the B5.\nIf you’re having second thoughts about the 77-inch size, smaller sizes of the B5 are surprisingly affordable, too. The 48-inch model is $649.99, while the 65-inch model might just be the biggest OLED you can currently get for under $1,000.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a0342058dff96657719f86f1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Trump phone is not here",
-      "url": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
-      "publishedAt": "2026-05-22T14:46:20.000Z",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. It's now been more than a week since Trump Mobile announced that phones would \"start shipping this week.\"\nLast week Trump Mobile announced that the T1 Phone was ready to start shipping by the end of the week. Almost two weeks later, there's no sign that's actually happened - and the company still hasn't shipped either of the two phones ordered by The Verge.\nDepending on where you get your news, you might believe the company when it says the phone has now launched: The phone is \"here\" according t …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "e15604ff89d6e3bff152faa5",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "_rzI6REFtZ8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "3b48ee6038c021f1441f251d",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Canyons: Official Enemy Hordes Trailer",
-      "url": "https://www.youtube.com/watch?v=1a3iFsjTu1E",
-      "publishedAt": "2026-05-22T14:00:32.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "1a3iFsjTu1E",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "344d7fd11a80500c369d7971",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "PS5 + Xbox + Nintendo Summer Show Predictions 2026 - Next-Gen Console Watch",
-      "url": "https://www.youtube.com/watch?v=AJILdogVTrg",
-      "publishedAt": "2026-05-22T13:00:38.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "AJILdogVTrg",
       "spotifyEpisodeId": null
     }
   ]
