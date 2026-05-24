@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-05-24T08:28:36.016Z",
+  "generatedAt": "2026-05-24T13:24:45.204Z",
   "items": [
+    {
+      "id": "f84cf146bb3e27eeb047d2af",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Hands Over: Official Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=m_sW2VDOl68",
+      "publishedAt": "2026-05-24T13:00:12.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "m_sW2VDOl68",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "fa9b3cc71ecb4b272bab85e8",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "publishedAt": "2026-05-24T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHacking the first generation of AI chatbots was a laughably simple affair. You didn't need any technical know-how, backdoor access, or even a basic understanding of what a large language model was. You didn't need to code. To get an AI system that had cost billions to build to abandon its safety instructions, sometimes all you had to do was ask.\nThese attacks, known as jailbreaks, had the quality …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ad2454517482a5e74285cc34",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+      "publishedAt": "2026-05-24T11:00:00.000Z",
+      "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10  cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better?\nNuro, the delivery robot company created by veterans of Google's self-driving car project, thinks it has a decent shot at occupying the slot. After pivoting from delivery to robotaxis in 2024, Nuro struck a deal with Uber and Lucid to deploy tens of thousands of robotaxis all across the US - netting itself hundreds of millions of dollars in …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "e817d31283ea15b3880851ff",
       "sourceId": "the-verge-tech",
@@ -282,34 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "4a3966634f9deb98838f6100",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Arknights: Endfield - Official 'Sketches of Lost Heirlooms' Trailer",
-      "url": "https://www.youtube.com/watch?v=M8vDVyLhUyA",
-      "publishedAt": "2026-05-22T19:30:14.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "M8vDVyLhUyA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c5d8757af6042047c42af81a",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Where Winds Meet - Official Imperial Palace Gameplay Trailer",
-      "url": "https://www.youtube.com/watch?v=w9AtlAQ9UG8",
-      "publishedAt": "2026-05-22T18:30:01.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "w9AtlAQ9UG8",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "d2c4fd8a12570c323ced863c",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -324,31 +338,17 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "f489ff8338807521ca990259",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
-      "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
-      "publishedAt": "2026-05-22T17:27:08.000Z",
-      "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. \nRather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum users can view, search for, and post advice directly in their Facebook groups, with optional help from Meta's AI. \nAfter logging in with my Facebook account, Forum automatically pulled in the groups I was part of on Facebook and populated my feed with posts from those groups, along with suggestions from groups I'm not part of, similar to my Reddit fe …\nRead the full story at The Verge.",
+      "id": "1c603679a7ce89413aa0009d",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Rocket League Championship Series Paris Major Final",
+      "url": "https://www.youtube.com/watch?v=AiLZWvBxymE",
+      "publishedAt": "2026-05-19T19:07:54.000Z",
+      "summary": null,
       "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a49a02194e50983273920a00",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Elon, stop trying to make Grok happen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-      "publishedAt": "2026-05-22T17:17:06.000Z",
-      "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's signature chatbot is in trouble, even as Musk puts it at the heart of what could be the biggest IPO in history.\nReuters reviewed more than 400 examples of government AI use where specific vendors were named. Grok or xAI, it found, appeared in only three - each of those for basic uses like document drafting or social media management, and always …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
+      "category": "gaming",
+      "youtubeVideoId": "AiLZWvBxymE",
       "spotifyEpisodeId": null
     }
   ]
