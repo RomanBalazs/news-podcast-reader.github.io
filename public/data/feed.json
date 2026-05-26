@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-05-25T19:38:25.267Z",
+  "generatedAt": "2026-05-26T03:29:43.682Z",
   "items": [
+    {
+      "id": "472dc9755a2cac1116dc6b99",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+      "publishedAt": "2026-05-25T22:00:00.000Z",
+      "summary": "Sennheiser is sticking with the redesign it introduced with the Momentum 4 Wireless. | Image: Sennheiser\t\n\nNearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 Wireless headphones. They look very similar to their predecessors, the Momentum 4, with large ear cups and a design that doesn't quite stand out from the competition. But under the hood there are welcome upgrades, including improved ANC and, for the first time, a user-replaceable battery to extend their life.\nThe Momentum 5 Wireless will be available starting on June 30th for $399.99, a $50 price bump over the Momentum 4. Th …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "cb4f78fac5bf34d6e3aabfba",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
+      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+      "publishedAt": "2026-05-25T21:33:12.000Z",
+      "summary": "The Ferrari Luce will start at €550,000 in Italy, but US pricing hasn’t been announced. | Image: Ferrari\t\n\nAfter months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark Newson at their collective LoveFrom. It's also going to be Ferrari's second four-door car and its first five-seat one.\nWe already knew Ive and Newson were working on the Luce's interiors, which were shown off earlier this year. Now Ferrari says LoveFrom was allowed to \"define the design direction of the project from the outset,\" inside and out.\nTim Stevens reporting for Engadget offers a few firsthand impression …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "8dffe24545d6cfab8e91e736",
       "sourceId": "the-verge-tech",
@@ -310,20 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "e817d31283ea15b3880851ff",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Record Club is trying to be Letterboxd for music nerds",
-      "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-      "publishedAt": "2026-05-23T22:41:11.000Z",
-      "summary": "Look at those cute little guys. | Image: Record Club\t\n\nThere isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and modern, with a streamlined interface that's quite similar to Letterboxd. \nThe basic features you'd expect from such a site are all there. You can rate and review records or mark them as listened to. You can also see what your friends are listening to and see what albums are trending with other users.    There's a  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "91a43401e5f3045a66c51b98",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "0oi0wIveMN8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f2d5b58debdd08a10e9247a1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-      "publishedAt": "2026-05-23T15:00:00.000Z",
-      "summary": "Roger Linn lets his accomplishments do the talking. | Image: Roger Linn\t\n\nRoger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They were used on countless records in the 1980s, including hits by Tom Petty, Queen, and Tears for Fears. But the most notable fan was probably Prince, who used them extensively on Purple Rain and 1999.\nSomehow, those are not his greatest contributions to the music world. That would, undoubtedly, be the MPC. Linn partnered with Akai to create one of the most popular and impor …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
