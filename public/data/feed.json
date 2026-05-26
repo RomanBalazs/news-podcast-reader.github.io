@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-05-26T03:29:43.682Z",
+  "generatedAt": "2026-05-26T09:55:29.666Z",
   "items": [
+    {
+      "id": "0906cc241999712a6f14245d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Uber president says AI spending is getting ‘harder to justify’",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "publishedAt": "2026-05-26T09:55:09.000Z",
+      "summary": "Uber president Andrew Macdonald (pictured) says its “hard to draw a line” between AI spending and deliverable features. | Photo: Zed Jameson/Bloomberg via Getty Images\t\n\nAfter reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more useful features being delivered to consumers.\n\"That link is not there yet, right? I think maybe implicitly there is more that is getting shipped, but it's very hard to draw a line between one of those stats and, 'Okay, now we're actually producing 25 percent more useful consumer f …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "67318b2b5c03e80098ec676d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "A battery-powered Starlink Mini is likely on the way",
+      "url": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
+      "publishedAt": "2026-05-26T08:55:51.000Z",
+      "summary": "This, but no cable. | Photo by Thomas Ricker / The Verge\t\n\nCode in recent Starlink firmware suggests that SpaceX might soon release a version of its smallest internet dish with an integrated battery. A battery-powered Starlink Mini would offer untethered portability for vanlifers, emergency responders, and anyone who wants fast, low-latency internet from almost anywhere on the planet.\nUniversity researcher Jinwei Zhao spotted a number of strings hinting at the integrated battery in a May firmware release, according to PCMag. The \"message DishBatteryStats\" line suggests code designed to return specific fields from an integrated battery, including the current state_of_charge. If the dish were simply  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "58ea33d8425a00ed0a767c87",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Northward - Official Reveal Trailer",
+      "url": "https://www.youtube.com/watch?v=foMFebT1QAE",
+      "publishedAt": "2026-05-25T22:00:31.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "foMFebT1QAE",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "472dc9755a2cac1116dc6b99",
       "sourceId": "the-verge-tech",
@@ -27,6 +69,20 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "33d2a831a6df5a25e0e25c44",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Darksiders: Warmastered Edition - Official PS5 and Xbox Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=GhReGV_BZMw",
+      "publishedAt": "2026-05-25T20:00:08.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "GhReGV_BZMw",
       "spotifyEpisodeId": null
     },
     {
@@ -293,62 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "lOxeOW0pDKA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f84cf146bb3e27eeb047d2af",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Hands Over: Official Announcement Trailer",
-      "url": "https://www.youtube.com/watch?v=m_sW2VDOl68",
-      "publishedAt": "2026-05-24T13:00:12.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "m_sW2VDOl68",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "fa9b3cc71ecb4b272bab85e8",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "publishedAt": "2026-05-24T12:00:00.000Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHacking the first generation of AI chatbots was a laughably simple affair. You didn't need any technical know-how, backdoor access, or even a basic understanding of what a large language model was. You didn't need to code. To get an AI system that had cost billions to build to abandon its safety instructions, sometimes all you had to do was ask.\nThese attacks, known as jailbreaks, had the quality …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ad2454517482a5e74285cc34",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
-      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
-      "publishedAt": "2026-05-24T11:00:00.000Z",
-      "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10  cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better?\nNuro, the delivery robot company created by veterans of Google's self-driving car project, thinks it has a decent shot at occupying the slot. After pivoting from delivery to robotaxis in 2024, Nuro struck a deal with Uber and Lucid to deploy tens of thousands of robotaxis all across the US - netting itself hundreds of millions of dollars in …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "91a43401e5f3045a66c51b98",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Avatar Legends: The Fighting Game - Official Azula Reveal Trailer",
-      "url": "https://www.youtube.com/watch?v=0oi0wIveMN8",
-      "publishedAt": "2026-05-23T22:30:38.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "0oi0wIveMN8",
       "spotifyEpisodeId": null
     }
   ]
