@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-05-26T20:08:28.792Z",
+  "generatedAt": "2026-05-27T03:43:19.372Z",
   "items": [
+    {
+      "id": "71beb81b0eb78cbe29919a69",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "publishedAt": "2026-05-27T00:38:11.000Z",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word \"genuinely\" - which crops up in writing by Anthropic's Claude - than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first cha …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "acf3079333f7f94a5a107b9e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "publishedAt": "2026-05-26T22:24:53.000Z",
+      "summary": "On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon Base missions NASA says are \"the first of more than a dozen missions that will be announced this year.\"\nMoon Base I, launching \"no earlier than fall 2026,\" will use Blue Origin's Blue Moon Mark 1 Endurance lander to bring NASA payloads to the Moon, including the Stereo Camera for Lunar Plume-Surface Studies instrument and the Laser Retroreflective Array. NASA will use these \"to study how thrusters interact with the Moon's surface\" and help \"orbi …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "7de5d8c17c0ece339177063c",
       "sourceId": "ign-youtube",
@@ -254,20 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "86c6c4635303bbde892c2f91",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Govee included a book on ‘white supremacy’ in its website imagery",
-      "url": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
-      "publishedAt": "2026-05-26T15:07:40.000Z",
-      "summary": "The sort of light reading material you’d expect to find in a child’s bedroom. | Image by Govee, compiled by The Verge\t\n\nCompanies often include background props in their product imagery that serve as set dressing, but one of Govee's decorative choices is raising some eyebrows. An eagle-eyed Verge reader spotted that two copies of a book with \"white supremacy\" plastered on the spine were included in a lifestyle image on Govee's website, in a scene that seemingly depicts a child's bedroom.\nYou'd be forgiven for assuming that this is the result of some failed generative AI experiment, or the work of a rogue designer. (The image didn't contain any C2PA and SynthID data when we checked, but that doesn't necessarily rule out that something was generated with AI to …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "649edcf691227dcf3c0b6af1",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -279,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "6EJDNgo4yyE",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "36a8c2b5e2ac92c4e297ae67",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Jony Ive’s Ferrari looks nothing like a Ferrari",
-      "url": "https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ive-design",
-      "publishedAt": "2026-05-26T14:17:37.000Z",
-      "summary": "Ferrari makes some of the fastest cars on the planet, so it's anyone's guess how the Italian automaker ended up being so incredibly late to the EV party. Long after most automakers have drastically scaled back their EV ambitions, canceled battery-powered models, or curtailed factory plans, Ferrari emerges from the shadows with a real weird one: the all-electric Luce.\nFerrari unveiled the Luce Monday at the Vela di Calatrava, a massive architectural sporting complex located on the outskirts of Rome. In many ways it's the most anticipated and also the most over-hyped EV to come out since battery-powered models first arrived on the scene. An e …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
