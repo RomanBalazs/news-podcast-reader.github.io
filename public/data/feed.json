@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-05-27T20:15:58.149Z",
+  "generatedAt": "2026-05-28T03:32:36.289Z",
   "items": [
+    {
+      "id": "36a5dd41d15e554d01cd526f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket ",
+      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "publishedAt": "2026-05-27T22:30:02.000Z",
+      "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint, prosecutors allege that Michele Spagnuolo \"knew the outcome of these wagers before the trading public did because he had accessed Google's confidential, commercially valuable internal data.\" Spagnuolo was arrested in New York on Wednesday but released on a $2.25 million bond, ABC News reports. He is charged with commodities fraud, wire fraud, and money laundering.\nSpagnuolo made bets on Polymarket under the username AlphaRa …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3ab9e9a41c69602b1d922dd1",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Apple’s newest iPad Air is up to $100 off for the first time",
+      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
+      "publishedAt": "2026-05-27T21:08:41.000Z",
+      "summary": "If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11-inch Air with 128GB of storage and Wi-Fi connectivity is available at Amazon starting at $519.99 ($79 off). If you want a larger screen, the base 13-inch Air has dropped to a new low price of $699 ($100 off), also at Amazon.\n13-inch iPad Air M4 \n\nWhere to Buy:\n\n $799 $699.99 at Amazon (128GB, Wi-Fi)\n $899 $789.99 at Amazon (256GB, Wi-Fi)\n $1099 $1019 at Amazon (512GB, Wi-Fi)\n\n\n11-inch iPad Air (2026)\n\nWhere to Buy:\n\n $599 $519.99 at Amazon (128GB, Wi-Fi)\n $699 $609.99 at Amazon (256GB, Wi-Fi)\n $899 $839 at Amazon (512GB, Wi-Fi)\n\nNo matter which size you choose, the new iPad Air is noticeably faster than the base iPad thanks to its M4 processor and a bump up to 12GB of RAM. While it falls short of the M5-powered iPad Pros in terms of raw performance and its super-thin design, the Air is sufficient for lighter creative work and some gaming. This model also boasts Apple Intelligence and support for the latest Apple Pencil Pro. \nApple also made a handful of smaller upgrades in the now-discounted iPad Air, like the N1 wireless networking chip that supports Wi-Fi 7 and Bluetooth 6. It’s also compatible with Thread, making it easier to control smart lights, locks, and other compatible smart home devices directly from your tablet. It was already a good value, and now it’s a better one at this price if you’re shopping for a new iPad.\nRead our M4-powered iPad Air review.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c539bccf3e94d011a01b5a4b",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "All the news about Ferrari&#8217;s polarizing Luce EV",
+      "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+      "publishedAt": "2026-05-27T20:22:57.000Z",
+      "summary": "Ferrari fans don’t like the design of the new Luce EV, an electric four-door sedan that just doesn’t look like the Ferraris of old.\nIt was designed with help from Jony Ive’s LoveFrom, but what worked for Ive at Apple isn’t working for Ferrari. The Luce’s launch immediately preceded a stock drop that even an appearance by the Pope hasn’t been able to turn around so far.\n\n\n\t\t\t\t\t\nLamborghini CEO talks EVs vs. hybrids after the Ferrari Luce launch.\n\t\t\t\nThis Ferrari should have been a Volkswagen\n\t\t\t\nLuce x Leo.\n\t\t\t\n‘If I were to say what I think, I would be hurting Ferrari.’\n\t\t\t\nFerrari’s stock plummets after disappointing Luce unveil.\n\t\t\t\nJony Ive’s Ferrari looks nothing like a Ferrari\n\t\t\t\nFerrari reveals its first EV, with design help from Jony Ive\n\t\t\t\nHere’s what the Ferrari Luce’s buttons, switches, and knobs sound like.\n\t\t\t\nFerrari’s first EV will have an interior designed by Jony Ive\n\t\t\t\nFerrari exposes the guts of its upcoming 1000hp EV\n\t\t\t\nFerrari’s first EV spotted making fake Ferrari sounds.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "876bbc8cf831cc065e2d15de",
       "sourceId": "the-verge-tech",
@@ -170,20 +212,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "feea3605ac56fa17b06b653b",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sony is offering up to 50 percent off some of our favorite PS5 games",
-      "url": "https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal",
-      "publishedAt": "2026-05-27T16:41:48.000Z",
-      "summary": "Even without E3, the transition from spring to summer is a busy time for the gaming industry. Summer Game Fest is right around the corner, and Sony is kicking things off with a State of Play on June 2nd with an extended look at Insomniac’s upcoming Wolverine game. To mark the occasion, Sony is also hosting another Days of Play sale, giving you a chance to save on headsets, games, DualSense controllers, earbuds, and other first-party hardware / licensed products through June 10th.\nNeedless to say, there’s a lot on offer, with Sony’s first-party exclusives being some of the most notable. Right now, for instance, you can pick up the open-world samurai epic that is Ghost of Yōtei at Amazon, Best Buy, and Sony’s PlayStation Direct storefront for an all-time low of $49.99 ($20 off). The Last of Us Part II Remastered ($29.99) and Astro Bot ($39.99) are also discounted for a limited time, the latter of which remains one of the best platforming titles of the last decade.\nBelow, we’ve rounded up some of our top picks from the ongoing promotion, all of which are on sale for more than 25 percent off.\nGhost of Yōtei\n\nWhere to Buy:\n\n $69.99 $49.98 at Amazon\n $69.99 $49.99 at Best Buy\n $69.99 $49.99 at PlayStation Direct\n\nThe Last of Us Part II Remastered\n\nWhere to Buy:\n\n $49.99 $29.97 at Amazon\n $49.99 $29.99 at Best Buy\n $49.99 $29.99 at PlayStation Direct\n\nHorizon Forbidden West\n\nWhere to Buy:\n\n $49.99 $29.99 at Amazon\n $49.99 $29.99 at PlayStation Direct\n $49.99 $29.99 at GameStop\n\nAstro Bot\n\nWhere to Buy:\n\n $59.99 $39.99 at Amazon\n $59.99 $39 at Walmart\n $59.99 $39.59 at PlayStation Direct\n\nDeath Stranding 2: On the Beach\n\nWhere to Buy:\n\n $69.99 $39.98 at Amazon\n $69.99 $39.99 at Walmart\n $69.99 $39.99 at PlayStation Direct\n\nMarvel’s Spider-Man 2\n\nWhere to Buy:\n\n $69.99 $29.99 at Amazon\n $69.99 $29.97 at Walmart\n $69.99 $29.99 at PlayStation Direct\n\nDemon’s Souls\n\nWhere to Buy:\n\n $69.99 $29.99 at Amazon\n $69.99 $29 at Walmart\n $69.99 $29.99 at PlayStation Direct\n\nHelldivers 2\n\nWhere to Buy:\n\n $39.99 $29 at Walmart\n $39.99 $29.97 at Amazon\n $39.99 $29.99 at PlayStation Direct\n\nMore deals and discounts\nAs part of its Summer Kickoff Sale, Our Place’s 31.7-quart Wonder Oven is now available from both Amazon and Our Place in select colors starting at $175 ($70 off), an all-time low. The compact 6-in-1 countertop appliance is a little pricey for what it offers; however, it’s incredibly easy to use and showcases a lovely, muted aesthetic that’s likely going to be far more attractive in your kitchen than anything from Cuisinart (sorry, not sorry). Truth be told, I’ve probably used it more than any other wedding gift I received last year.\nI’ve been super eager to follow up with John Martson ever since Rockstar announced that Red Dead Redemption was making its way to current-gen titles — including the Nintendo Switch 2. And now, thanks to a discount at Amazon and Walmart, you can pick up a physical copy of the open-world Western for the OG Switch for $24.99 ($5 off), which is the best price we’ve seen. Afterward, you can upgrade to the overhauled Switch 2 version free of charge.\nGovee’s massive Lightwall is receiving its first discount at Amazon, where you can pick it up for $399.99 ($50 off) for a limited time. The nifty water-resistant display measures 7.9 feet wide and 5.3 feet tall, with 1,536 color-changing LEDs that are spaced about 2 inches apart in a grid. The LEDs themselves can create one of 200 preset scenes or simple animations, or, if you prefer, you can choose from 10 different music modes in Govee’s Home app, all of which are designed to sync with your music. Hell, you can even sketch your own image or use simple text prompts to create custom GIFs, which you can throw on the self-standing display within seconds.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "0e1b8a732da96858d91ce11f",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -198,20 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "9227205bbf723b58686d1c6c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sony’s first RGB TV is a statement piece",
-      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
-      "publishedAt": "2026-05-27T16:00:00.000Z",
-      "summary": "The first wave of RGB LED TVs are fighting for their spot in the TV hierarchy. They need to outperform OLED TVs in brightness and color (because they'll never match OLED's contrast), and they need to outperform regular LED TVs in everything (because their price is so much higher). It's now time for Sony to take a swing with the Bravia 7 II, which is out alongside the flagship Bravia 9 II. Both pair RGB LED backlighting with Sony's always top-notch processing.\nRGB TVs like the Bravia 7 II use red, green, and blue LEDs instead of a field of all-blue or white LEDs for the backlight. This allows for an RGB LED TV to display more, and brighter,  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "4c8d43816eb7a387b4773330",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -223,20 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "sGJ2f_DLZos",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c43603c0fc2c5981ab0d2025",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "AI tried to bury this politician — now people have actually heard of him",
-      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-      "publishedAt": "2026-05-27T15:40:00.000Z",
-      "summary": "NY-12 congressional candidate Alex Bores speaks during a campaign event. | Bloomberg via Getty Images\t\n\nBy the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud may be the guy they're currently fighting over: a once-obscure New York state assemblyman, who they've Streisand-effected into becoming the poster child for AI safety regulation. \nEver since late 2025, Leading the Future, a super PAC funded by OpenAI, Palantir, and a16z executives, has spent millions against Alex Bores, who wrote one of the …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
