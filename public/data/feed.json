@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-05-30T13:28:06.424Z",
+  "generatedAt": "2026-05-30T19:14:27.927Z",
   "items": [
+    {
+      "id": "3e074dd96913b1a43a7586e7",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Backrooms is a certified blockbuster with a $38 million opening day",
+      "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
+      "publishedAt": "2026-05-30T16:58:51.000Z",
+      "summary": "The Kane Parsons' film Backrooms is expected to earn up to $90 million in its opening weekend after pulling down $38 million on Friday alone. That's not only above expectations, but absolutely obliterates A24's previous opening weekend record of $25.5 million for Alex Garland's Civil War. It's also a better opening day than The Mandalorian and Grogu, which only pulled down $33.7 million on its way to a total $81.6 million for the weekend. \nThat also means that Backrooms is an incredibly profitable movie, with an estimated $10 million budget. By comparison, the latest Star Wars disappointment cost $165 million and was considered affordable c …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "7defd4d784a7ef0cdf237fa8",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+      "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+      "publishedAt": "2026-05-30T16:00:00.000Z",
+      "summary": "Cecil Baldwin is a busy man with some dope boots. | Image: Cecil Baldwin\t\n\nCecil Baldwin's résumé includes appearances on Gravity Falls, narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing as part of the New York Neo-Futurists theater company. But he is best known as the host of the podcast Welcome to Night Vale, a long-running fiction show that blends macabre Lovecraftian horror with absurdist comedy. As Cecil Palmer, the voice of Night Vale Community Radio, Baldwin keeps the people of the titular town abreast of all the goings ons with the Faceless Old Woman Who Secretly Lives in Your Home and offers tips on how to best maintain their Bloodstone circles. \nHe also cohosts Random Nu …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "b2e5ecea9edb2cddbf58872d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Microsoft is threatening legal action for disclosing exploits",
+      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "publishedAt": "2026-05-30T15:19:50.000Z",
+      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts suggest that they're a disgruntled former employee. But what caught cyber security researcher Kevin Beaumont's eye was how Microsoft has responded.\nMicrosoft suggests it plans to bring a criminal case against Nightmare Eclipse for failing to follow \"proper coordination\" in disclosing vulnerabilities. They also disabled Nightmare Eclipse's GitHub, GitLab, and Microsoft Security Response Center accounts disabled. As Beaumont point …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "333930ab3bc0c6b687ea345b",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Some of our favorite art TVs are more than 40 percent off this weekend",
+      "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+      "publishedAt": "2026-05-30T15:00:00.000Z",
+      "summary": "Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung’s 2025 Frame TV and Hisense’s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.99 ($520 off) — its best price of the year — while Samsung’s like-minded Frame TV is on sale in multiple sizes starting at $587.99 ($312 off). If you want a bigger set, the 75-inch CanvasTV is also on sale for $1,197.99 ($1,302 off). However, note that both Hisense models come with a one-year warranty, whereas the Frame TVs only include a 90-day warranty through Woot.\nHisense CanvasTV (2025)\n\nWhere to Buy:\n\n $2499.99 $1197.99 at Woot (75-inch)\n $1299.99 $779.99 at Woot (65-inch)\n\n\nSamsung The Frame (2025)\n\nWhere to Buy:\n\n $899.99 $587.99 at Woot (43-inch)\n $1247.99 $797.99 at Woot (55-inch)\n $1697.99 $897.99 at Woot (65-inch)\n\nBoth 4K TVs deliver an excellent, art-focused experience. When my colleague John Higgins compared the two panels in November, he found that the artwork looked remarkably realistic on their matte displays, even though the Frame was brighter (661 vs. 527 nits) and handled reflections better. Hisense also includes a magnetic bezel with each purchase and, by default, access to more than 1,000 works by renowned artists such as Van Gogh and Monet. Samsung, meanwhile, charges up to $200 for its optional bezels, depending on the size, plus another $50 a year for access to its full suite of artwork.\nIn addition to blending easily into your home decor, both the Hisense and the Frame are great for watching TV and gaming. Each offers a max 144Hz variable refresh rate (except for the 43- and 50-inch Frame models), which helps make fast-paced action movies, sports, and games look smooth. The Frame also offers four HDMI 2.1 ports instead of just two, though the CanvasTV has the leg up when it comes to software, since it runs on Google’s intuitive TV interface rather than Samsung’s clunky Tizen OS. Both sets support Google Assistant and Amazon Alexa for voice controls, though, as well as Apple AirPlay.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "143b11c2c513af302910fa38",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
+      "url": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
+      "publishedAt": "2026-05-30T14:02:51.000Z",
+      "summary": "You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you.\nHere's the new Steam Controller performing the \"Ground Theme\" from Super Mario Bros. 2:\n\nHere is \"Still Alive\" from Portal - fitting for Valve hardware:\n\nI even made it play Doom:\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\n\n\nAre you wondering how the controller, which does not have a speaker, is able to make audio at all? Valve's first Steam Controller, even though it was discontinued, was a great gadget for tinkerers - someone even wrote an open-source program to make it \" …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "447199140cb809c80b9415e7",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Pebblebee’s Halo watches my back and my belongings",
+      "url": "https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review",
+      "publishedAt": "2026-05-30T14:00:00.000Z",
+      "summary": "I live in a part of Los Angeles where I feel safer bringing pepper spray on walks. The problem is, I don't always remember to bring it with me, and it's not legal to carry it everywhere I go. Pebblebee's $59.99 Halo Bluetooth tracker surprised me by being a suitable replacement because it doubles as a siren-equipped personal safety device, and I can bring it anywhere.\nA quick pull of its cap triggers a bunch of safety features: Its 130dB siren will sound, its LEDs will strobe, and it will automatically alert up to five trusted contacts with text messages (Pebblebee's Alert Live service shares your location for 24 hours, or as a one-time loc …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "751a47a52c2722a7253f1c76",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
+      "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
+      "publishedAt": "2026-05-30T14:00:00.000Z",
+      "summary": "The Arduboy FX-C squeezes a lot of entertainment into a thin, credit card-sized handheld.\t\n\nAs handheld consoles continue to grow and push the limits of what you can actually hold in your hands, the Arduboy FX-C comes in a refreshingly pocketable package.  It manages to squeeze the best features of past models and some welcome upgrades into a handheld that’s still no larger or thicker than a few credit cards. It’s the best version of the Arduboy so far, particularly for gamers who want to jump into the handheld’s ever-expanding library of games and apps right out of the box, but one of its most compelling upgrades isn’t quite ready for primetime.\nThe original Arduboy was a Tetris-playing business card created by Kevin Bates to show off his electronics skills. It went viral in 2014 prompting Bates to turn the idea into a commercial device a year later that was both a tiny open-source gaming device and a tool that could help would-be developers learn to code.\nArduboy FX-C\n\nWhere to Buy:\n\n $79 at Amazon\n $79 at Arduboy\n\nAfter over a decade of minor iterations, the Arduboy FX-C looks very much like the original. The controls are limited to six buttons, four of which function as a D-pad. They have a minimal amount of travel given the device is just 5mm thin, but a satisfying amount of click when pressed. The piezoelectric speaker is high pitched but more than loud enough, and its 1.3-inch, 1-bit OLED screen is bright enough to be playable outdoors.\nWhile the 37-year-old original Game Boy could display four shades of greenish-gray, the Arduboy FX-C’s screen is monochromatic and limited to only white pixels. Developers have to rely on visual tricks like dithering or flickering to create grayscale graphics. Equally limiting is the FX-C’s ATmega32u4 processor that’s paired with just 2.5KB of RAM. Compared to other black-and-white handhelds like the Playdate, the Arduboy FX-C feels primitive but its limitations have forced game developers to get creative and experimental, which is a big part of this platform’s appeal.\nMy biggest frustration with the original Arduboy was its minimal storage that had me regularly connecting the device to my laptop when I wanted to play a different game. In 2020, Bates introduced the Arduboy FX with an extra flash chip on board that could hold 250 games. The FX-C inherits that chip, but a slightly larger version, bumping its included library of games to over 300, while also upgrading the device from microUSB to USB-C.\nIt’d be nice if the FX-C had a color screen, a proper D-pad, dedicated volume buttons, an improved sound chip, Wi-Fi, Bluetooth, and even a microSD card slot, but none of those upgrades really feel necessary. It’s a handheld that feels pared down to the absolute bare necessities for gaming, but it works.\nA tiny switch on the top edge of the FX-C powers up the handheld but it can occasionally be a challenge if, like me, your fingernails are short. After a near instant boot up, you’re presented with a simple homescreen and menu system. The bundled games are sorted into several categories including Action, Adventure, Arcade, Runner, Puzzle, and Racing you cycle through by scrolling left and right. Games in each category are instead scrolled vertically by pressing up or down. It’s simple and easy to navigate, however I would like to see one additional category that lists all the games alphabetically.\n\n\n\n\nAll of the games that have been developed for the Arduboy are distributed for free, so you’re not going to find any classic 8-bit games you recognize like Super Mario Bros. or Castlevania that Nintendo is still making available on platforms like its Switch. But there are plenty of excellent doppelgängers that are similar enough to scratch a nostalgic itch while also being unique enough to keep lawyers at bay. Surprisingly, despite the FX-C’s limited processing power, there are far more than just side-scrollers and falling block puzzle games included. You’ll also find first-person shooters, dungeon crawlers, and racing games with excellent frame rates.\nThere’s a lot of fun to be had, but don’t expect games that will take you weeks to finish. The Arduboy FX-C is better suited for quick pick-up-and-play sessions when you’ve got a few minutes to kill.\nUnfortunately, the feature that convinced me to buy a pair of FX-Cs isn’t quite ready. I haven’t been able to get multiplayer over USB to work, although some users on the Arduboy community forums have been successful. Bates says the feature is still in development. Arduboy multiplayer cleverly takes advantage of the extra conductors on modern USB cables to pass game data back and forth, as Bates explains in a forum post, but it requires a more expensive USB 3.0 or Thunderbolt cable to work. After testing several different USB 3.0 cables from Amazon, I’ve had no success. It’s a feature I know can work and I expect hiccups to be sorted out eventually, but if that’s your only reason for grabbing a pair of FX-Cs, I’d hold off for now.\nThe Arduboy FX-C is still a solid upgrade. The original was one of the last devices I had to keep microUSB cables around for, but the huge collection of bundled games sourced from the Arduboy development community is the real reason to snag one. I’ve barely tried 10 percent of them at this point, and while the quality varies, it’s hard to feel disappointed when you’re not actually paying for them. A console is only as good as its library of games, and over the past decade, the Arduboy has managed to cultivate a devoted community developing hundreds. If you go in with an open mind and don’t worry about what it’s missing, you’ll absolutely enjoy this handheld.\nPhotography by Andrew Liszewski / The Verge",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "f09376ef4cc2af6b1c8f55c1",
       "sourceId": "ign-youtube",
@@ -72,34 +170,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "c32dd188c8efd7284b167ae9",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-      "publishedAt": "2026-05-30T12:00:00.000Z",
-      "summary": "Number go up? | Image: Cath Virginia / The Verge, Getty Images\t\n\nI haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bankers have their way, you are going to be their bagholder.\nLots of the top-line details leaked long before the S-1 filing itself became public. There's the rumored valuation of more than $1 trillion. That's despite the nearly $5 billion in losses last year. The total addressable market (TAM) for SpaceX - the amount of revenue SpaceX thinks it could make if won over what it thinks is its entire customer base - was listed as $28.5 trillion. By way  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c12e23fd971e6f28cffa76bb",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "This is the James Bond game we’ve been waiting for",
-      "url": "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer",
-      "publishedAt": "2026-05-30T12:00:00.000Z",
-      "summary": "Hi, friends! Welcome to Installer No. 130, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Victor Wembanyama and mahjong and Merlin Mann's pearls of wisdom, watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi, belatedly cleaning up my Google Photos library, and finally - finally - getting my home office organized. Ish.\nI also have for …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "f60aec4350afab4542c7f472",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -153,20 +223,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "kN7QZ6NwndQ",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "340310f0cc02037f2489fb4e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
-      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-      "publishedAt": "2026-05-29T23:03:29.000Z",
-      "summary": "Nvidia CEO Jensen Huang with an RTX laptop at CES 2025. | Image: Getty Images\t\n\nIt's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" earlier today, and now Arm has followed up with an identical post. \nAll three posts include coordinates pointing to where Computex is hosted in Taipei. Nvidia is holding a Computex keynote in Taipei at 8PM PT / 11PM ET on Sunday night, where it's rumored to be announcing its new N1 and N1x laptop chips.\n\n\nA new era of PC.\n 25.0528, 121.5990\n- Windows (@Windows) May 29,  …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -226,34 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "64135d58a97eb29780a6616b",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
-      "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
-      "publishedAt": "2026-05-29T21:48:52.000Z",
-      "summary": "The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites linked with President Donald Trump's planned \"Golden Dome\" defense system, as reported earlier by Bloomberg. In an announcement on Friday, the US Space Force says the sensor-equipped satellites will allow it to detect and track targets from space.\nThe Elon Musk-owned SpaceX - which recently filed for what could be the biggest initial public offering ever - already has contracts with the Space Force to develop other parts of the Golden Dome. Similar to Israel's Iron Dome, Trump's pricey defense system would identify and take down missiles and other airb …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f9d730fe56457549660acce3",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Acer’s launching a Linux handheld for streaming your PC games",
-      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
-      "publishedAt": "2026-05-29T19:01:48.000Z",
-      "summary": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced ahead of Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, and 8GB of eMMC storage. That's technically not even enough RAM to run Stardew Valley, but the Blaze Link isn't meant for playing games locally. \nLogitech launched a similar handheld a few years ago, the Logitech G Cloud, that cost $350, included 4GB of RAM and 64GB of storage, and ran on Android. It was a tough sell at that price consi …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "d6ef20e135bcdcf1d13b50d2",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -296,20 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "0cccb130738d7da535876b59",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Tech companies desperately want to film you doing chores",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "publishedAt": "2026-05-29T17:37:43.000Z",
-      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. \nBut there's a catch. There's always a catch. \nIn exchange for the cleaning, Shift wants footage of its cleaners at work: scrubbing dishes, wiping counters, dusting tables, mopping floors. It wants everything. Video of all the boring domestic labor we'd happily outsource if we could - and that robotics companies are racing to teach machines to do so they can sell us something to do it for us.\nThat's harder than it sounds. Unlike cha …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "373e7cbe1075e5c2c54353e3",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,20 +335,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "i10-f8_fjQE",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "374a9e7795f275a6bed4ee31",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Verge’s 2026 high school graduation gift guide",
-      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
-      "publishedAt": "2026-05-29T17:00:00.000Z",
-      "summary": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at college. Either way, they'll be taking on more responsibility, meaning it's up to friends and relatives to figure out how to support them.\nSupport comes in many forms, but a gift or two certainly won't hurt. Luckily, we've compiled a host of Verge-approved gift ideas spanning a wide array of interests and price points. They'll think of you when they grab their AirPods 4 to tune out distractions w …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
