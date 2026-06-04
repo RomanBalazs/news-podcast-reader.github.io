@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-06-03T20:54:57.409Z",
+  "generatedAt": "2026-06-04T03:57:15.845Z",
   "items": [
+    {
+      "id": "55b6d4459e064a0fd418c99f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "publishedAt": "2026-06-04T00:04:04.000Z",
+      "summary": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measures to comply with these requirements by preparing versions of products to meet the Regulation.\"\nThanks to EU regulations, gadgets with user-replaceable batteries are making a comeback, as my colleague Dominic Preston wrote recently. Starting on that February 2027 date, EU rules mandate that many types of gadgets, including portable game consoles, must allow users t …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "30378e53488042d2d41a8dbe",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Apple is bringing age verification to Texas this week",
+      "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "publishedAt": "2026-06-03T21:49:51.000Z",
+      "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds.\nPeople in Texas who are creating a new Apple account will need to verify they're over 18 using a credit card or government ID. Apple may also automatically verify users' age using the age of their account and whether they have a credit card on file.\nMeanwhile, users under 18 must join a Family Sharing group, where a parent or guardian will need to provide con …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "714f09206c44041781791fff",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "WiiM expands its whole-home ecosystem with a new soundbar",
+      "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+      "publishedAt": "2026-06-03T21:12:51.000Z",
+      "summary": "The $479 WiiM Bar includes a 2.1-inch touchscreen on its front. | Image: WiiM\t\n\nWiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers and audio components, the WiiM Bar supports a bunch of streaming options and expandability at an affordable price - in this case, $479.\nThe company's first soundbar has a 3.0.2 Atmos configuration with a total of eight drivers - three front mid-woofers, three front tweeters, and two up-firing full-range height drivers - paired with four passive radiators. That configuration can be expanded to 3.1.2 with the addition of a WiiM  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "636b649784213a140843c214",
       "sourceId": "ign-youtube",
@@ -254,20 +296,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "38990dae4e9e4c4bc76e7bdf",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280",
-      "url": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
-      "publishedAt": "2026-06-03T14:53:10.000Z",
-      "summary": "Dreame’s L20 Ultra robot vacuum can clean itself. | Image: The Verge\t\n\nThe Dreame L20 Ultra isn’t the company’s newest model, but it’s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever price right now. Originally $1,400 when it launched in 2023, it’s down to $279 from Wellbots with code L20VERGE.\nDreame L20 Ultra\n\nWhere to Buy:\n\n $1399.99 $279.99 at Wellbots (with code L20VERGE)\n\nWhat makes the L20 Ultra so great at this price is that it can do a lot on its own — so much more than other robovacs at this price point. The included base station automatically empties the vacuum’s dustbin, washes and dries the mop pads, and refills the robot’s water tank between cleaning sessions. The L20 Ultra also offers reliable AI-powered obstacle avoidance and can quickly map your home’s layout, meaning you don’t need to babysit it as it cleans. Thanks to its large dust bin, you can ignore it for up to 75 days without having to empty it yourself. \nThe robovac does a good job of cleaning up carpets and hardwood floors alike, thanks to its 7,000Pa of suction power. What’s more, its dual oscillating mop pads extend when needed to clean along baseboards and in corners. It can lift the mop pads over carpets, or return to its base station to have them removed. \nOf course, being a three-year-old robot vacuum, it lacks some of the upgrades found on newer models. For example, the $1,349.99 ($150 off) Dreame X60 — currently one of our favorite robovacs — offers a whopping 35,000Pa of suction, two rubber brushes, and a motorized swing arm that can climb over taller thresholds between rooms. Even without them, the L20 Ultra still offers a lot of premium features that aren’t typically offered at this price.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/corsairddr5.jpg\",\n    productImageAlt: \"Corsair DDR5 Memory\",\n    productTitle: \"Corsair DDR5 Memory\",\n    shortDescription: \"The upgrade your PC has been waiting for.\",\n    longDescription:\n      \"If your computer has been feeling sluggish lately, your memory might be the culprit. Whether you are gaming, editing, or just someone who has too many browser tabs open at once Corsair’s DDR5 RAM is one of the easiest ways to get noticeably more out of a machine you already own. Faster load times, smoother multitasking, less waiting around while your computer catches up with you. Use code MEMORY15 for 15% off through June 15.\",\n    purchaseUrl: \"https://go.corsair.com/c/482924/490888/8513?subId1=VergeHypedesk&subId2=Corsair&subId3=Article2&u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fc%2Fmemory&partnerpropertyid=7032191\",\n    purchaseLinkText: \"Get The Deal At Corsair\"\n  };\n\n\n\n\n\nThree more ways to save\nThrough July 16th at 2:59AM ET, Prime members who are new to Audible can get three months of Audible Standard for free, a savings of roughly $27 compared to paying the regular $8.99 monthly price. The plan gives you one credit to purchase a new audiobook each month from Audible’s vast library, which includes bestsellers and classics, and they’re yours to keep forever, even if you end the subscription. You’ll be renewed at the regular $8.99 per month price unless you cancel at the end of the promotional period.\nWoot is selling the last-gen Bose Soundlink Flex portable Bluetooth speaker in refurbished condition for $69.99 with a one-year Bose warranty. That’s $80 less than its original retail price. The portable Bluetooth speaker isn’t all that different from the newer model, and can deliver surprisingly expansive sound quality for its size. It also boasts a rugged IP67-rated design for dust and water resistance, and it lasts up to 12 hours on a single charge. Its controls aren’t the most intuitive we’ve used, and it lacks support for higher-res AAC and aptX codecs, but we think those flaws are easy to overlook at this price.\nYou can buy two Ring Cam Indoor cameras for $49.98 (normally $99.98), making the second camera free, at Amazon. The wired 1080p cameras sport physical privacy covers that turn off audio and video recording. They also include an adjustable mount, a built-in siren, color night vision, and two-way talk. If you subscribe to a Ring Protect Plan, which starts at $4.99 a month per device, you’ll get notifications for people, packages, and vehicles, as well as access to recorded video history.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "76b1e27149ca5a3d94988c1d",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -279,20 +307,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "Uo5V6AXfdyU",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "1154946f4817355bfb1d0af1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "publishedAt": "2026-06-03T14:04:00.000Z",
-      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's finally acting like it. \nFor years, Microsoft's AI business leaned hard on its early and exclusive partnership with OpenAI. But the drama-filled marriage slowly devolved into a situationship, and the pair effectively separated in late April (though Microsoft is still OpenAI's primary cloud partner - for now). This …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "rJSv6EyWRFw",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9744f1f71d85251ea06a5c97",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box",
-      "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-      "publishedAt": "2026-06-03T13:22:17.000Z",
-      "summary": "The Surface Laptop Ultra.\t\n\nMicrosoft has two new Surface devices arriving later this year, both powered by Nvidia's RTX Spark chips. I got a chance to take a closer look at both the Surface Laptop Ultra and Surface RTX Spark Dev Box at Microsoft's Build conference this week, and while both have the same chip inside, they're utilizing Nvidia's RTX Spark in different ways.\nThe Surface Laptop Ultra looks and feels very much like a 16-inch MacBook Pro. There are no transforming hinges, detachable displays, or any other tricks - this is a clamshell laptop built with performance in mind. Microsoft has opted for a 15-inch mini LED panel, which operates at up to 2,000 nits o …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
