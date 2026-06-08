@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T03:57:34.590Z",
+  "generatedAt": "2026-06-08T10:53:13.132Z",
   "items": [
     {
       "id": "b430d896b82051630a311f75",
@@ -13,20 +13,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "KUPTIOfk0OI",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "69240aed43984555d36abc41",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Julie Chen Moonves's Top Moments From 1000 Eps of Big Brother - IGN Live 2026",
-      "url": "https://www.youtube.com/watch?v=_x7MqA-iFzs",
-      "publishedAt": "2026-06-08T01:45:14.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "_x7MqA-iFzs",
       "spotifyEpisodeId": null
     },
     {
@@ -48,7 +34,7 @@
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
       "type": "video",
-      "title": "Poppy Playtime's Lily Lovebraids & Giblet Rate How Toys Would Fare in the Factory - IGN Live 2026",
+      "title": "Poppy Playtime's Lily Lovebraids and Giblet Answer Your Questions - IGN Live 2026",
       "url": "https://www.youtube.com/watch?v=by6bfwL6I5A",
       "publishedAt": "2026-06-08T01:00:06.000Z",
       "summary": null,
@@ -205,6 +191,20 @@
       "title": "Is a fly landing on your food a curse or a blessing? Here's what the Deli Boys had to say!",
       "url": "https://www.youtube.com/shorts/YeqY_Cv9IY0",
       "publishedAt": "2026-06-07T23:48:07.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "dc1d8ee05c63786d18d85f39",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "In OKU, exploration is shaped by poetry. Presented by @ByteRockersGames",
+      "url": "https://www.youtube.com/shorts/u-f_voxSsPU",
+      "publishedAt": "2026-06-07T23:42:11.000Z",
       "summary": null,
       "imageUrl": null,
       "category": "gaming",
