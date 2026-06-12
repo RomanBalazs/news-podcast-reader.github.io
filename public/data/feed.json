@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-06-12T03:54:34.394Z",
+  "generatedAt": "2026-06-12T10:12:06.474Z",
   "items": [
+    {
+      "id": "c0317c1f88583c29b505cb72",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Siri won’t be your AI girlfriend",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "publishedAt": "2026-06-12T07:00:31.000Z",
+      "summary": "‘Listen, that's not what I'm here for.' | Image: Apple\t\n\nOur early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others.\n\"As you may know, if you use many of the existing chatbots, they're really focused on engagement to a large degree,\" said Federighi, who is responsible for software at Apple. \"And sycophancy, right? They kind of want to pull you in. They might encourage you to reveal things about yourself, and then use that as a basis to establish a connection.\"\n\nApple purposely took a di …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "842f4e53830ef300b587b346",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The First Descendant x Evangelion - Official Cosmetic Collaboration Trailer",
+      "url": "https://www.youtube.com/watch?v=sJTk4bkLe44",
+      "publishedAt": "2026-06-12T07:00:10.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "sJTk4bkLe44",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "9bfe1d3840a51457bb1b1450",
       "sourceId": "ign-youtube",
@@ -121,7 +149,7 @@
       "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
       "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
       "publishedAt": "2026-06-11T22:06:32.000Z",
-      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and controls on the screen than the previous version. \nThe Echo Hub is also getting access to Ring AI's Video Search feature that lets you use natural language to search through your smart home camera footage, as well as Alexa Plus summaries of detected camera events. \nThese are the five new features Amazon highlighted for the Echo Hub:\nOrganize by r …\n\nRead the full story at The Verge.",
+      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the homescreen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and controls on the screen than the previous version. \nThe Echo Hub is also getting access to Ring AI's Video Search feature that lets you use natural language to search through your smart home camera footage, as well as Alexa Plus summaries of detected camera events. \nThese are the five new features Amazon highlighted for the Echo Hub:\nOrganize by ro …\n\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -209,20 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "AnZ_kl42nLE",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "1e55cc5e1669c10003992167",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "The Odyssey - Official 'In Studio: Ludwig Göransson' Featurette (2026) Matt Damon, Anne Hathaway",
-      "url": "https://www.youtube.com/watch?v=lc3CqJE6fJc",
-      "publishedAt": "2026-06-11T20:00:20.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "lc3CqJE6fJc",
       "spotifyEpisodeId": null
     },
     {
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
       "publishedAt": "2026-06-11T16:00:00.000Z",
       "summary": "Uber One, meet Waymo Premier. \nThe robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership service is aimed at Waymo customers who use the service most frequently, offering them a number of perks, including priority pickups, 10 percent cash back on every trip, early robotaxi access in new cities, and up to five free cancellations a month. \nWaymo Premier will be initially offered to select riders in San Francisco, Los Angeles, and Phoenix, the company said. The program will scale to new cities as Waymo continues to expand; the company h …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f1cb5c3c4746ce741bac23cb",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "I&#8217;ve found the Goldilocks of portable MIDI controllers",
-      "url": "https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review",
-      "publishedAt": "2026-06-11T16:00:00.000Z",
-      "summary": "I have tested more portable MIDI controllers than I can keep track of, and I will tell you right now: 37 keys is the ideal size. While Arturia's 25-key MiniLab MK3 is a solid controller that easily fits in a backpack, it feels a bit claustrophobic. The new $149 MiniLab 37 adds another octave, giving you much more room to play bass and lead simultaneously, or just play more expansive chords.\nPhysically, the MiniLab 37 isn't very different from its smaller sibling. It's got the same solid (if slightly springy) keybed, eight pads, eight endless encoders, four faders, a pair of touch strips, USB-C, and a full-size five-pin MIDI DIN out on the b …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
