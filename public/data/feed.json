@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-06-15T04:13:25.783Z",
+  "generatedAt": "2026-06-15T12:11:45.604Z",
   "items": [
+    {
+      "id": "d4403657f61062733cd8e07d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Fox is buying Roku",
+      "url": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
+      "publishedAt": "2026-06-15T11:44:08.000Z",
+      "summary": "Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion.\nThe deal will see Fox's TV networks and Tubi streamer combine with Roku's network of streaming devices, smart TV software, and The Roku Channel. The companies say in a statement that by combining they'll become the third-largest player in the US TV industry by viewing share.\nIt doesn't sound like the plan is to build Roku and Fox into a walled ecosystem. The two companies are \"committed\" to keeping Roku an open-platform that works with other content providers, and to the \"continued ubiquitous distribution\" of Fox's own content.\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4034a6b828f6816b03f4951c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
+      "url": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+      "publishedAt": "2026-06-15T11:30:00.000Z",
+      "summary": "Through more than two decades of travel for both work and leisure, my packing list has evolved from a random assortment of gadgets and accessories thrown together at the last minute into a refined checklist of gear honed by trial and error. The right packing list, I've found, can be the difference between a good trip and a great one. Or at least the difference between hectic trips to the local Best Buy and some extra time by the pool.\nMy family's summer vacation this year will involve lots of hiking and exploring the great outdoors, but it will by no means be an attempt to disconnect from our favorite devices. Convenience, comfort, and peac …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ad8ea1294cac363289f2f137",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Honor’s Magic V6 sets three foldable firsts",
+      "url": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+      "publishedAt": "2026-06-15T11:00:00.000Z",
+      "summary": "The crease isn’t quite invisible, but otherwise this feels like the complete foldable package — on the hardware side at least.\t\n\nOn paper, the Honor Magic V6 sounds like a tremendous leap forward for foldable phones: It's the thinnest one yet, with the biggest battery, and the best water-resistance ever. In practice, only the bigger battery feels like a meaningful improvement. The other upgrades are only fractionally superior to what came before.\nThis isn't entirely Honor's fault. It's getting harder to make a foldable phone stand out; even last year's offerings felt like complete flagship phones. Huawei's Pura X Max stood out for its odd new aspect ratio, which we're expecting to see both Samsung and Apple replicate later this year. Then there are the trifolds, whic …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "aeb295faab6de6a06a659a7b",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Under-16 social media ban announced by UK government",
+      "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+      "publishedAt": "2026-06-15T08:19:09.000Z",
+      "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early next year, will be joined by wider measures that will also prevent children from talking to strangers in online games, livestreaming, or using sexual or romantic chatbots.\n\"Do we truly believe that social media creates a happy environment for our children? Do we truly believe that it's a place where they can feel safe?\" Starmer asked during a press conference announcing the policy. \"I don't think I even need to answer those questions, do I?\"\n\" …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "f88d45f93e31edca212a560b",
       "sourceId": "the-verge-tech",
@@ -9,7 +65,7 @@
       "title": "The FBI built a small town to simulate cyberattacks",
       "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
       "publishedAt": "2026-06-14T20:35:41.000Z",
-      "summary": "There’s also a fake power company to jack up prices thanks to the fake data center. | Image: FBI\t\n\nLast year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses.\nIt's a training facility where the bureau can recreate real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There's even a small data center with over 200 servers that can be hacked, infected with malware, and stu …\nRead the full story at The Verge.",
+      "summary": "There’s also a fake power company to jack up prices thanks to the fake data center. | Image: FBI\t\n\nLast year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000-square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses.\nIt's a training facility where the bureau can re-create real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There's even a small data center with over 200 servers that can be hacked, infected with malware, and st …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -23,7 +79,7 @@
       "title": "China may have accessed Mythos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
       "publishedAt": "2026-06-14T18:27:55.000Z",
-      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavior.\nThe White House has not confirmed this report, and a post on X by Trump adviser David Sacks did not mention China. Instead, Sacks focused on a r …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -93,7 +149,7 @@
       "title": "The impossible dream of the universal remote",
       "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
       "publishedAt": "2026-06-14T13:42:07.000Z",
-      "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product came much closer than most. It was called the Harmony, and for many years it was the best universal remote on the market. Maybe the only one that mattered. And still, even the Harmony couldn't make it work.\nOn this episode of Version History, we tell the story of the Harmony. The Verge's David Pierce, Nilay Patel, and John Higgins are joined by Matt Rogers, the CEO of Mill and former co-founder of Nest,  …\nRead the full story at The Verge.",
+      "summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product came much closer than most. It was called the Harmony, and for many years it was the best universal remote on the market. Maybe the only one that mattered. And still, even the Harmony couldn't make it work.\nOn this episode of Version History, we tell the story of the Harmony. The Verge's David Pierce, Nilay Patel, and John Higgins are joined by Matt Rogers, the CEO of Mill and former cofounder of Nest, t …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -226,20 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "011cc1f8b4b8d79997561bde",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "publishedAt": "2026-06-13T21:39:26.000Z",
-      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\nShortly after Jassy shared the company's findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "ab87795dc9c8dcf527075894",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -251,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "US1B_AIUIEY",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c9ad60840eb400a102b13889",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "X-Men ’97 has what Master of the Universe is missing",
-      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
-      "publishedAt": "2026-06-13T20:00:00.000Z",
-      "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutants into an apocalyptic future. Both projects were clearly made by people who love the source material, and they are similarly filled with nerdy Easter eggs meant to get hardcore fans hyped up. X-Men '97 and Masters of the Universe are both nostalgia plays, but the biggest difference between the two - and arguably the reason one of them hasn't been …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -296,20 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "c3db5ae9bdaaf8ee4d6fd738",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sealed Super Mario Bros. sells for a record $3 million",
-      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
-      "publishedAt": "2026-06-13T18:37:21.000Z",
-      "summary": "You know this came for free bundle with the console for $150, right? | Image: Heritage Auctions\t\n\nA copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction of Super Mario 64 for $1.56 million.\nPart of what drove the price of this particular copy so high is that, according to Heritage Auctions, instead of shrink wrap, this 19895 second run was sealed with a glossy sticker, which was discontinued shortly after. The site claims it's the earliest known sealed copy of the game in existence. It's also gr …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "df1c58b1ff6974845ee382eb",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "cEN15i23X5w",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e63a4479bc268f1c0ad8dc5d",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Microsoft hasn’t ruled out spinning off Xbox",
-      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
-      "publishedAt": "2026-06-13T16:29:47.000Z",
-      "summary": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nMicrosoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. \nA new report from The Information suggests that Microsoft has considered some dramatic measures to make its Xbox unit more sustainable. That includes turning it into a wholly owned subsidiary, a joint venture, or even spinning it off entirely, with the possibility of selling the business. The report doesn't suggest anything is imminent, but it …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
