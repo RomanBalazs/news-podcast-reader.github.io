@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-14T19:25:49.454Z",
+  "generatedAt": "2026-06-15T04:13:25.783Z",
   "items": [
+    {
+      "id": "f88d45f93e31edca212a560b",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The FBI built a small town to simulate cyberattacks",
+      "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+      "publishedAt": "2026-06-14T20:35:41.000Z",
+      "summary": "There’s also a fake power company to jack up prices thanks to the fake data center. | Image: FBI\t\n\nLast year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses.\nIt's a training facility where the bureau can recreate real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There's even a small data center with over 200 servers that can be hacked, infected with malware, and stu …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "40a69e7e8c0cead47c8f7b33",
       "sourceId": "the-verge-tech",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
       "publishedAt": "2026-06-13T16:29:47.000Z",
       "summary": "Asha Sharma. | Image: The Verge, Microsoft\t\n\nMicrosoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. \nA new report from The Information suggests that Microsoft has considered some dramatic measures to make its Xbox unit more sustainable. That includes turning it into a wholly owned subsidiary, a joint venture, or even spinning it off entirely, with the possibility of selling the business. The report doesn't suggest anything is imminent, but it …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f31c9cd5641658c594fbf9d3",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price ",
-      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
-      "publishedAt": "2026-06-13T16:00:00.000Z",
-      "summary": "Bose’s latest QuietComfort Ultra headphones fold down for easy storage. | Image: Bose\t\n\nIf you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now that they’ve dropped to a new low price of $379 ($70 off) at Amazon, Best Buy, and Walmart. \nBose QuietComfort Ultra headphones (second-gen)\n\nWhere to Buy:\n\n $449 $379 at Amazon\n $449 $379 at Walmart\n $449 $379 at Best Buy\n\nThe over-ears improve upon their predecessor with better noise cancellation and support for lossless audio over a USB-C cable, allowing you to enjoy higher-quality sound from compatible devices. Bose also added a new Cinema Mode that helps make movies and TV shows feel more immersive while making dialogue easier to hear, along with an improved transparency mode that surpasses the predecessor’s capabilities of reducing sudden loud noises. Battery life is better too, with the headphones lasting up to 30 hours on a single charge — a six-hour increase over the first-generation model. \nBose has also added a few other conveniences, including the ability to automatically enter a low-power standby mode when stored in the included case or laid flat. Plus, the headphones automatically power on and reconnect to a paired device when you put them on. At the same time, the new model retains soft ear cups and a comfortable, lightweight design that’s easy to wear for hours a time. Support for multipoint Bluetooth pairing remains as well, allowing you to stay connected to two devices simultaneously, so you can watch a video on your laptop and answer calls from your phone.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
