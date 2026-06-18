@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-06-17T20:11:25.726Z",
+  "generatedAt": "2026-06-18T03:55:06.055Z",
   "items": [
+    {
+      "id": "8b67699b94057e6051bbffd8",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "publishedAt": "2026-06-18T03:12:31.000Z",
+      "summary": "“A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions.“ | Image: Midjourney Medical\t\n\nMidjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical slices of the inside of your body, looking at the composition of your muscle, fat, bone, and organs to start. Holz said ideally, you could do this once a year or every single day, as it \"aims for image quality comparable to MRI in many ways.\"\nHe mentioned that one way he'd like to use it would be to see how h …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "e04de63079d8469284912563",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
+      "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
+      "publishedAt": "2026-06-17T21:42:21.000Z",
+      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\"\n We're doing our best to mitigate the huge increases that are being passed to us, and we've been trying to shield our customers from the increases, but the situation has become unsustainable.\nCook doesn't say when Apple plans on raising prices or which products will be affected. The company has already stopped selling the Mac Studio with 512GB of RAM in March and later raised the starting price of the Mac Mini to $799 after dropping the cheaper $599 option f …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "34c9720ecf7237e9750012e3",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "url": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+      "publishedAt": "2026-06-17T20:43:28.000Z",
+      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a reference image, and sharing images through VSCO Galleries. VSCO says more features are coming later, including support for RAW images, advanced export options, and additional advanced editing tools like adjusting image aspect ratios. \nA press release says the app is made for managing high-volume editing projects, like  \"weddings, portraits, events, sports, school photography, and other large-scale photoshoots.\" \nThe $500 per ye …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "a5b730e8654be4abbb0bdc44",
       "sourceId": "ign-youtube",
@@ -212,20 +254,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "eb2af6a20760e60dd8864b01",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "SanDisk’s new PlayStation 5 SSD will cost you more than three PS5 Pros",
-      "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
-      "publishedAt": "2026-06-17T15:34:29.000Z",
-      "summary": "SanDisk has announced an expensive way to boost the PlayStation 5's storage capacity. The company's new Optimus GX PRO 850P NVMe SSD is an officially licensed PS5 accessory in capacities ranging from 1TB to 8TB. The largest option can store up to 200 PS5 games (based on average installation sizes) SanDisk claims, but thanks to the global memory shortage, it will cost you $2,959.99 when it's eventually available through the company's online store, discounted from $3,699.99.\nEven after you take into account Sony's recent console price hikes, you can buy three PS5 Pro consoles for the price of just one of these 8TB sticks. But the smaller capa …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "abc06a89e600307ed330fcec",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "AlV__BFg8qk",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "b07fb3a68c89dace65ee60f2",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Paramount Plus is two dollars for two months of ad-free viewing",
-      "url": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
-      "publishedAt": "2026-06-17T14:30:00.000Z",
-      "summary": "A poster showing the cast of Star Trek: Strange New Worlds | Image: Paramount\t\n\nParamount Plus is offering new and former subscribers a discounted rate until June 25th, 2026. You’ll pay 99 cents per month for the first two months, with the Premium plan automatically renewing for $13.99 per month after that, and the more limited Essential plan renewing for $8.99. \nParamount Plus (two months)\nNow through June 25th, new and former subscribers can get a two-month subscription to Paramount Plus Essential (ad-supported) or Paramount Plus Premium (ad-free) for 99 cents per month. The deal saves you over $20 and includes access to a catalog of over 40,000 TV shows and movies, including Star Trek: Strange New Worlds, The Naked Gun, South Park, and The Daily Show.\n\nWhere to Buy:\n\n $8.99 $0.99 at Paramount Plus Essential (two months)\n $13.99 $0.99 at Paramount Plus Premium (two months)\n\nBoth plans include some excellent shows, like Freaks and Geeks, Colin from Accounts, and South Park, and is one of the only places to find the majority of the Star Trek series — I know I’ll be spending two dollars to rewatch The Next Generation. \nYou can also find new movies like the 2025 Naked Gun reboot, classics like Mean Girls, while both plans include access to live NFL games on CBS, UEFA Champions League matches, and Showtime Originals. The Essential plan only includes a subset of the Showtime Originals found on the Premium plan, is ad supported, and doesn’t allow for downloads or live CBS.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/image1.png\",\n    productImageAlt: \"CORSAIR Xeneon Edge LCD Touchscreen\",\n    productTitle: \"CORSAIR Xeneon Edge LCD Touchscreen\",\n    shortDescription: \"A second screen that actually earns its spot on your desk.\",\n    longDescription:\n      \"Your main monitor handles the heavy lifting. The Xeneon Edge handles everything else. The Xeneon Edge is a 14.5-inch ultrawide touchscreen that magnetically attaches to your case, PSU shroud, desk, or stand, giving you a dedicated dashboard for system stats, widgets, chat, shortcuts, and more. With new iCUE widgets and community-created layouts, it gets more useful over time. Use code XENEON30 for $30 off.\",\n    purchaseUrl: \"https://go.corsair.com/c/482924/490888/8513?subId1=VergeHypedeskAricle4&u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fmonitors%2Fcc-9011306-ww%2Fxeneon-edge-14-5-lcd-touchscreen-cc-9011306-ww&partnerpropertyid=7032191\",\n    purchaseLinkText: \"Shop at Corsair\"\n  };",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "5b357b0e74e53be2afbc12f7",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "In a big year for horror, Widow’s Bay still stands apart",
-      "url": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
-      "publishedAt": "2026-06-17T14:30:00.000Z",
-      "summary": "Horror is having a moment. In 2026, the genre is especially well-represented: new blood is dominating the box office through films like Backrooms and Obsession, established names like Sam Raimi and Damian McCarthy are at the top of their game, and long-running franchises like 28 Years Later and Resident Evil continue to stay relevant. But the most impressive piece of horror this year might just be found in the world of TV comedy: Widow's Bay, a series that manages the delicate balance of mixing scares with laughs, while also doubling as a loving tribute to the genre. It's the kind of combination that often doesn't work, which is part of what …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
