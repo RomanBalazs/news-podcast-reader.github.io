@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-06-19T04:14:59.479Z",
+  "generatedAt": "2026-06-19T10:25:14.986Z",
   "items": [
+    {
+      "id": "e3648d03db39e757c60692d7",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Every Detail in the GTA 6 Cover Art Explained",
+      "url": "https://www.youtube.com/watch?v=Sb2pukhFaTs",
+      "publishedAt": "2026-06-19T09:08:05.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Sb2pukhFaTs",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4a929daf2adc7b5b894c0202",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "publishedAt": "2026-06-19T04:49:33.000Z",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. \nZoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. \nOpenAI confirmed to The Verge that Zoph will be depart …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "6bc8ad7f43ae504ae8a0caee",
       "sourceId": "ign-youtube",
@@ -198,20 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "d7b682c237aac38408e60462",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Dispatch Adds New Ways To Censor Things In The Game",
-      "url": "https://www.youtube.com/shorts/GIUhnAw02IQ",
-      "publishedAt": "2026-06-18T20:30:12.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "8bd859a7a7f4495b6f39ff71",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch",
       "publishedAt": "2026-06-18T17:00:00.000Z",
       "summary": "InfoWars founder Alex Jones speaks to the media outside Waterbury Superior Court during his trial on September 21, 2022. | Getty Images\t\n\nThe Onion's InfoWars officially has a launch date: On July 2nd, the conspiracy network previously run by Alex Jones will return as a comedy and media platform. The reboot comes more than a year and a half after news broke that the satirical news site was working to acquire the property owned by Jones, a conspiracy theorist who notably targeted victims of the Sandy Hook school shooting.\n\"Developed with the support of the Sandy Hook families, the new InfoWars is being reimagined as a comedy and cultural platform featuring original programming, guest talent, and new comedic voices,\" a press release reads. \"The project reflects The Onion's broa …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d85ab515959ff9f0fc563eef",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Amazon employees say they’re facing termination for backing data center limits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "publishedAt": "2026-06-18T16:00:00.000Z",
-      "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. \nOn June 10th - one week after the hearing, and one day after the City Council passed a milestone moratorium on data centers - Patrick Schloesser, Darius Irani, and Liesl Wigand were each called into an impromptu meeting with Amazon's \"Employee Relations.\" HR representatives told the employees that the company was investigating them  …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
