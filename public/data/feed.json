@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-20T03:36:37.356Z",
+  "generatedAt": "2026-06-20T08:55:00.804Z",
   "items": [
+    {
+      "id": "882ca333406f455e8652b2dc",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+      "publishedAt": "2026-06-20T07:00:00.000Z",
+      "summary": "I’m a fan.\t\n\nI can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot.\nAs the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying that it can tilt up, down, left, and right to push a decent amount air around a room. It looks okay, despite all the plastic, is relatively quiet, runs for hours on battery, has an integrated nightlight, transforms from a desktop to standing fan in seconds, and works on its own or as part of a smart home. There's a lot to like here.\nOver …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "e8e858a3abb20b2772c1c10e",
       "sourceId": "ign-youtube",
@@ -307,20 +321,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "Sb2pukhFaTs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4a929daf2adc7b5b894c0202",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "publishedAt": "2026-06-19T04:49:33.000Z",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. \nZoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. \nOpenAI confirmed to The Verge that Zoph will be depart …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
