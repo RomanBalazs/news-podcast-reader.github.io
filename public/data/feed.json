@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-06-19T19:48:39.329Z",
+  "generatedAt": "2026-06-20T03:36:37.356Z",
   "items": [
+    {
+      "id": "e8e858a3abb20b2772c1c10e",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Zenless Zone Zero v3.1: Official Void Hunter Agent Remielle Trailer",
+      "url": "https://www.youtube.com/watch?v=LU6UsOPtq58",
+      "publishedAt": "2026-06-20T02:00:02.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "LU6UsOPtq58",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "422387d6118c2a568047c1c1",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+      "publishedAt": "2026-06-19T21:28:39.000Z",
+      "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year:\nWe were working on a successor but with memory prices where they are right now, we can't build a phone that feels like a genuine step forward at a price that makes sense for CMF. As a result, we've decided not to launch a new CMF phone this year.\nLast week, Nothing CEO and co-founder Carl Pei also said the RAM shortage has impacted the cost of the company's mid-range phone, stating, \"For Phone 4A, memory costs doubled between  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "be2cc018eb5d986cddedcf47",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Forza Horizon 6 - Official Porsche 911 Turbo S Leichtbau Trailer",
+      "url": "https://www.youtube.com/watch?v=pDpzhXs7rXA",
+      "publishedAt": "2026-06-19T20:31:37.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "pDpzhXs7rXA",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "756e706ae7484789e60baa3e",
       "sourceId": "the-verge-tech",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6e78a4e7f9793d086367f38e",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "ReStory: Chill Electronics Repairs - 20 Minutes of Gameplay",
-      "url": "https://www.youtube.com/watch?v=6xYOrUsTFWg",
-      "publishedAt": "2026-06-19T01:00:21.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "6xYOrUsTFWg",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "cc300cd95844e2e7c533fe4d",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "7 Burning Questions for the GTA 6 Pre-Order Launch - IGN Daily Fix",
-      "url": "https://www.youtube.com/watch?v=VZmFGutQe7Y",
-      "publishedAt": "2026-06-19T00:34:14.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "VZmFGutQe7Y",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "8bd859a7a7f4495b6f39ff71",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
-      "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
-      "publishedAt": "2026-06-18T20:26:06.000Z",
-      "summary": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by December 2026, or sometime in 2027. The bad news: Any reservations made today \"indicate a 2027 date for shipping,\" Valve says.\n\"We have no plans to stop making Steam Controller,\" according to Valve. \"But as we look at the current demand compared to how many we know we can make by the end of the year, we want to manage expectations as much as we can with regards to when folks can expect t …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
