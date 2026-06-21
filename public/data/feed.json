@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-06-21T14:09:13.773Z",
+  "generatedAt": "2026-06-21T19:39:50.003Z",
   "items": [
+    {
+      "id": "fefa1915766738bdf55154fe",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Bose thinks it can be a media company for some reason",
+      "url": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+      "publishedAt": "2026-06-21T18:53:50.000Z",
+      "summary": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red Bull. And, while Bose has more of a right to dip its toes into the media world than Build-a-Bear, there's little reason to believe it can succeed where so many others have failed.\nIn an interview with Business Insider, Bose CMO Jim Mollica said the company had created Bose Studios as part of a move away from traditional \"campaign-driven marketing.\" A big element of that is going to be Bose Records, a new label the company has …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "8308d4e39c097273c6a1271d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+      "url": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+      "publishedAt": "2026-06-21T17:00:33.000Z",
+      "summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily wink at pop punk and emo, Cold Court are a bit more self-serious, and that's not necessarily a bad thing. \nThe opening track on the band's debut EP \\ (^_^) / (aka Hands Up), \"Nina\", starts off sounding not unlike the dance punk bands that stormed the scene in the mid aughts like Franz Ferdinand or Test Icicles. But that all starts to change about a minute  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4f254712ec4a9dc84a6bf17f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "publishedAt": "2026-06-21T14:19:46.000Z",
+      "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company paid them to create the clips.\nThe videos posted on social media look legit at first, but there are subtle clues that betray them as fraudulent. For instance, when examined closely, one clip shows someone visiting \"poiymarket.com\" rather than polymarket.com. According to the Journal's investigation, none of the bets placed in the over 1,100 vide …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "349d59dacbc36449c10550fe",
       "sourceId": "ign-youtube",
@@ -170,20 +212,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "882ca333406f455e8652b2dc",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
-      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
-      "publishedAt": "2026-06-20T07:00:00.000Z",
-      "summary": "I’m a fan.\t\n\nI can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot.\nAs the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying that it can tilt up, down, left, and right to push a decent amount air around a room. It looks okay, despite all the plastic, is relatively quiet, runs for hours on battery, has an integrated nightlight, transforms from a desktop to standing fan in seconds, and works on its own or as part of a smart home. There's a lot to like here.\nOver …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "e8e858a3abb20b2772c1c10e",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -198,20 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "422387d6118c2a568047c1c1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
-      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-      "publishedAt": "2026-06-19T21:28:39.000Z",
-      "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year:\nWe were working on a successor but with memory prices where they are right now, we can't build a phone that feels like a genuine step forward at a price that makes sense for CMF. As a result, we've decided not to launch a new CMF phone this year.\nLast week, Nothing CEO and co-founder Carl Pei also said the RAM shortage has impacted the cost of the company's mid-range phone, stating, \"For Phone 4A, memory costs doubled between  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "be2cc018eb5d986cddedcf47",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -223,20 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "pDpzhXs7rXA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "756e706ae7484789e60baa3e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
-      "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
-      "publishedAt": "2026-06-19T18:41:48.000Z",
-      "summary": "Relativity Space’s CEO is former Google executive Eric Schmidt. | Image: Alexander Tamargo / Getty Images\t\n\nRelativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first integrated, daily, global view of Martian winds, temperatures, dust, and clouds.\" \nThe Aeolus payload will have four instruments on board for studying the Martian atmosphere, which NASA says will \"directly inform entry, descent, and landing systems and support safer, more predictable mis …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
