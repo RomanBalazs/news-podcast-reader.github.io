@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-20T19:25:22.058Z",
+  "generatedAt": "2026-06-21T04:09:23.469Z",
   "items": [
+    {
+      "id": "0c6260503de9673aa3476fff",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Stranger Than Heaven Second-Take Preview: Combat Seems Harder Than Hell, and that's a Good Sign",
+      "url": "https://www.youtube.com/watch?v=WgUueFZI6bg",
+      "publishedAt": "2026-06-21T03:00:04.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "WgUueFZI6bg",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "9c147049651823a55d933b26",
       "sourceId": "ign-youtube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "uP6lQODS1EU",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "43452804cd0abcd503af1a41",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Moana - Official 'Along The Way' Behind the Scenes Clip (2026) Catherine Lagaʻaia, Dwayne Johnson",
-      "url": "https://www.youtube.com/watch?v=qTvkF80KRcQ",
-      "publishedAt": "2026-06-19T12:00:17.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "qTvkF80KRcQ",
       "spotifyEpisodeId": null
     }
   ]
