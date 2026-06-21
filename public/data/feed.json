@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-06-21T09:48:50.041Z",
+  "generatedAt": "2026-06-21T14:09:13.773Z",
   "items": [
+    {
+      "id": "349d59dacbc36449c10550fe",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Final Fantasy 7 Rebirth: Everything MAJOR Added Since Launch",
+      "url": "https://www.youtube.com/watch?v=GLE4motRsCY",
+      "publishedAt": "2026-06-21T14:00:11.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "GLE4motRsCY",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c214c86e80e039445d24a179",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "How Roomba started a robot revolution",
+      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "publishedAt": "2026-06-21T12:29:01.000Z",
+      "summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably loved your Roomba. You probably gave it a name.\nOn this episode of Version History, we tell the story of the Roomba, and how it made vacuums lovable. The Verge's David Pierce and Jennifer Pattison Tuohy are joined by iRobot's co-founder and former CEO Colin Angle to trace the robovac revolution back to its origins, with a group of engineers try …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "381a45c47a7fe9296482d4e2",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Electric air taxis are stuck in the courtroom",
+      "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+      "publishedAt": "2026-06-21T12:00:00.000Z",
+      "summary": "Joby flight at JFK airport. | Image: The Verge\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nLast year, two of the leading air taxi companies in the US, Joby Aviation and Archer Aviation, sued each other, with Joby accusing Archer of corporate espionage and Archer claiming that Joby was concealing its ties to China. Then, in February of this year, Archer filed a patent infringement suit against a different air taxi rival, Vertical A …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4ebce761b6ef617b79af5d67",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+      "publishedAt": "2026-06-21T11:00:00.000Z",
+      "summary": "The 1 VIII doesn’t look much like any Xperia that’s come before.\t\n\nThe Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. \nIt's not all different. Sony staples like a 3.5mm headphone jack and microSD card slot remain, and a few specific design touches, like a thick front bezel that fits stereo speakers, have stayed intact. Sony's ambitious pricing hasn't changed either: The Xperia 1 VIII isn't launching in the US, but in the UK and Europe, it starts from £1,399 / €1,499 (about $1,850), r …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "0c6260503de9673aa3476fff",
       "sourceId": "ign-youtube",
@@ -212,20 +268,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "52a0bdfa3b7f72751952f81c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
-      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-      "publishedAt": "2026-06-19T17:24:45.000Z",
-      "summary": "The new Wired Wall Switch Modules fit behind existing switches. | Image: Signify\t\n\nSmart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 candle bulbs that add a broader white light spectrum and Matter-over-Thread compatibility.\nThe new lights are now available globally; however, the Wired Wall Switch Modules are Europe-only. Signify CTO George Yianni told The Verge that there are currently no plans to launch them in the US, but the company woul …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "8656d5d47f8b78468d6f678a",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -296,34 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "153d3ac58c51053677d1f22f",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-      "publishedAt": "2026-06-19T14:53:53.000Z",
-      "summary": "Have I found my Chromecast Audio replacement? | Image: NTS Radio\t\n\nNTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect.\nThe $179 NTS Radio Player puts out 24-bit / 192kHz audio over a standard 3.5mm audio jack and comes with an adapter cable for connecting to RCA on your vintage hi-fi system, or whatever other speakers you have lying around. The top of the device has two buttons for tuning in directly to NTS 1  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a10e1f528ab73affbf06851e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "publishedAt": "2026-06-19T14:15:29.000Z",
-      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. \nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora's Yura Borisov as OpenAI chief scientist Ilya Sutskever.\nIn a statement to Deadline, the studio said it believes the movie \"will be better served if it were released by a different studio and is working closely with the filmmak …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "2d91e52d0f1d00388281080d",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "t7D95SBZquo",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "37fb221aa6e4e0abb1e721a7",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Fatal Fury: City of The Wolves - Official Kenshiro Character Trailer",
-      "url": "https://www.youtube.com/watch?v=uP6lQODS1EU",
-      "publishedAt": "2026-06-19T13:46:53.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "uP6lQODS1EU",
       "spotifyEpisodeId": null
     }
   ]
