@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-23T03:30:54.219Z",
+  "generatedAt": "2026-06-23T09:37:24.741Z",
   "items": [
+    {
+      "id": "28232ba7784fbdbb1a6bba84",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure",
+      "url": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure",
+      "publishedAt": "2026-06-23T07:00:20.000Z",
+      "summary": "A family “eSUV” designed to be fun and practical. | Image: Amflow\t\n\nAmflow, the e-bike brand spun out of DJI, just announced its TL Carbon, a do-it-all \"eSUV\" suitable for both bikepacking adventures and dropping the kid at daycare on your cycle to work.\nThe TL Carbon is built around Amflow's incredibly compact yet powerful Avinox M2 mid-drive motor. The all-terrain e-bike offers 125Nm of hill-flattening torque and up to 1100W of peak output. It supports up to 1280Wh of battery capacity when its 800Wh removable battery is paired with a 480Wh extender. You can even opt for a hub that charges up to four batteries sequentially.\nThis sport-tourer comes standard with mudguards, integrated lights, and a rear rac …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "7313402c9cf0d8abdbd3dbbc",
       "sourceId": "ign-youtube",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
       "publishedAt": "2026-06-22T17:05:00.000Z",
       "summary": "If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that \"starting with the SteamOS 3.8 release, you can put together your own Steam Machine using whatever PC parts you want.\" SteamOS 3.8.10 launched last week with a slew of updates, including \"improved compatibility with recent Intel and AMD platforms.\" Alongside that improved compatibility, Valve is giving gamers the green light to install SteamOS on their own desktops. \nIn an interview with The Verge, Valve's Pierre-Loup Griffais said Valve has been \"rolling out improvements to [SteamOS] so it's more compatible wit …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "011cd51e5bec9fbcd8890a61",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Valve explains why it isn&#8217;t subsidizing the Steam Machine",
-      "url": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
-      "publishedAt": "2026-06-22T17:02:00.000Z",
-      "summary": "But the Xbox Series X is kind of like two Steam Machines! | Photo: Kelsey McClellan / The Verge\t\n\nValve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations with a bundled Steam Controller cost an extra $79 each.\nDespite Valve offering a console alternative with the Steam Machine - a compact piece of hardware that can easily hook up to your TV to play your Steam library - those prices mean the Machine is much more expensive than console counterparts like the PS5 ($599.99), Xbox Series X ($649.99), and PS5 Pro ($899.99) while performing similarly to a PS5. (Those console prices are also higher than …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
