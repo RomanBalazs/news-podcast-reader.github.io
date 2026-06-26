@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-06-26T03:37:40.399Z",
+  "generatedAt": "2026-06-26T09:24:48.232Z",
   "items": [
+    {
+      "id": "1a6e85b37e5ad74d0ff57260",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Sword Sage: Awakening is an Action-RPG that Breaks the Rules of Soulslike Combat | IGN Preview",
+      "url": "https://www.youtube.com/watch?v=MqBk0OtNNyw",
+      "publishedAt": "2026-06-26T05:00:04.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "MqBk0OtNNyw",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "7a20ebe30178a591fe77d935",
       "sourceId": "ign-youtube",
@@ -265,20 +279,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6364ab7beb32d78f5b091dd5",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Lazy River - Official Announcement Trailer",
-      "url": "https://www.youtube.com/watch?v=PJ2F_Np7L_E",
-      "publishedAt": "2026-06-25T21:00:01.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "PJ2F_Np7L_E",
       "spotifyEpisodeId": null
     },
     {
