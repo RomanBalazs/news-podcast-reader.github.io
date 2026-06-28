@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-06-28T08:50:24.247Z",
+  "generatedAt": "2026-06-28T13:44:32.861Z",
   "items": [
+    {
+      "id": "6bb8bed674f3dc5de97d3d90",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "BlazBlue: CentralFiction - Official Trinity Glassfille Character Reveal Trailer",
+      "url": "https://www.youtube.com/watch?v=0ZmR9RtHv4o",
+      "publishedAt": "2026-06-28T13:35:09.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "0ZmR9RtHv4o",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4340112cac5268df6caf40c0",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Nest&#8217;s quest to fix your thermostat",
+      "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+      "publishedAt": "2026-06-28T12:02:44.000Z",
+      "summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to have an experience that drags him back for one last job. For Fadell, that job was to try and reinvent the thermostat. And maybe change the way our homes work forever.\nOn this episode of Version History, we tell the story of the early days of Nest. The Verge's David Pierce, Nilay Patel, and Jennifer Pattison Tuohy describe Fadell's frustration with outdated, expensive temperature controls …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9847277dad2467ca3b5ad448",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Ad-free streaming is a luxury now",
+      "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
+      "publishedAt": "2026-06-28T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nStreaming was once a reprieve from cable. Not only could you watch whatever you wanted at any given time, but you didn't have to sit through five-minute-long commercial breaks. And the best part was the price: Netflix, for example, cost just $7.99 / month when it launched its standalone streaming service in 2010. Amazon's Prime Video was the same, offering ad-free streaming as a p …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "8e22c628bdd0f8d630581619",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Pokemon Expert Answers Your Novice, Enthusiast, and Expert Questions",
+      "url": "https://www.youtube.com/watch?v=uBTpyUbKX4k",
+      "publishedAt": "2026-06-28T11:00:28.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "uBTpyUbKX4k",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "8ed801efb158559f7209ab5c",
       "sourceId": "the-verge-tech",
@@ -212,34 +268,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "d2476fed55505cf56257382f",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
-      "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
-      "publishedAt": "2026-06-27T12:00:00.000Z",
-      "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo developer Dan DiIorio, better known as TrampolineTales, lots of room to play with clever ideas. Over the course of a few hours, the game never stopped surprising me.\nPuzzle clues come in several different formats. Some are written text; the very first puzzle is a sentence that tells you what numbers to punch in. But you'll also have to decipher four-digit codes from things like the blinking digits of a clock,  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d6cd127022305ad4cfacbb97",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "This might be the new best smart speaker",
-      "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
-      "publishedAt": "2026-06-27T12:00:00.000Z",
-      "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement, watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green's 4×3 game, trying my absolute hardest not to preorder this amazing Stanley Kubrick collection even though I'm obviously going to, buying a bunch of …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "8a864923527cbfe3d34ea543",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "2ca2c0c21506eac6f29117f0",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "In praise of Mario 64’s King Bob-omb. Presented by Marvel Animation's X-Men '97 Season 2",
-      "url": "https://www.youtube.com/shorts/mV3G_tXM5LM",
-      "publishedAt": "2026-06-27T00:05:50.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6a690d8ec0ae57eb480c51f4",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Backroom Cleaners - Official Early Access Release Window Trailer",
-      "url": "https://www.youtube.com/watch?v=Dgm_QwqyFqo",
-      "publishedAt": "2026-06-26T23:30:25.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "Dgm_QwqyFqo",
       "spotifyEpisodeId": null
     }
   ]
