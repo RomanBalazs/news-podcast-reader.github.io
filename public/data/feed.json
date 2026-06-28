@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-06-28T13:44:32.861Z",
+  "generatedAt": "2026-06-28T19:18:31.269Z",
   "items": [
+    {
+      "id": "5b1dc9432d1d13c6c236221c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "China claims the world&#8217;s fastest supercomputer",
+      "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "publishedAt": "2026-06-28T17:20:59.000Z",
+      "summary": "The LineShine supercomputer at the National Supercomputing Center in Shenzhen. | Photo: Liang Xu/Xinhua via Getty Images\t\n\nDespite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America holding three of the top five spots. LineShine doesn't even use any GPUs, which are typically the backbone of modern supercomputers.\nWhile reaching the peak of the Top500 carries obvious bragging rights, it also serves as a message from the Chinese government to the US. The Trump administration has sought …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f3c18278f201e231f1592393",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
+      "url": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+      "publishedAt": "2026-06-28T16:30:00.000Z",
+      "summary": "That sure is a man in a cube, alright. | Image: NBC / Jim Henson Company\t\n\nI'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending as the Muppetless The Cube. This 1969 teleplay was produced for an NBC anthology series called Experiment in Television, which featured, appropriately enough, various experimental films, plays, and documentaries. One episode even featured Marshall McLuhan explaining his oft-cited theory that \"the medium is the message.\" \nEven among all these oddities, however, Jim Henson's The Cube stands out. It's a 53-minute bottle film - taking place almost e …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c9ac533d074c9c4c04bd2d58",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Everything We've Learned About Resident Evil Veronica",
+      "url": "https://www.youtube.com/watch?v=N1E7jvWt0xQ",
+      "publishedAt": "2026-06-28T15:00:10.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "N1E7jvWt0xQ",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "7d83b17f34e6db3003dc0fc0",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "publishedAt": "2026-06-28T14:12:06.000Z",
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs.\nProsecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, \"Why am I so angry all the time?\", and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone could be blamed for a fire if it was lit by their …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "6bb8bed674f3dc5de97d3d90",
       "sourceId": "ign-youtube",
@@ -170,20 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "2109307482d1e3d952577bbb",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-      "url": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
-      "publishedAt": "2026-06-27T14:00:00.000Z",
-      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it through Nintendo Switch Online today.\nThe franchise has been revived through a splashy remake on the Switch 2, but it's also a series that has not seen an all-new entry since Star Fox Zero on the Wii U. Yet Nintendo's neglect of the series has been gently offset by indie creators. Ex-Zodiac and Whisker Squadron: Survivo …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "e6fc88f764f1f6342868e83c",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -195,20 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "ffv9ylYhflU",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "788abf28594d8860050b2699",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "publishedAt": "2026-06-27T13:30:00.000Z",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the AI industry, which is not surprising. RAMageddon has already come for your desktop PCs and gaming consoles. The Xbox has seen its price climb nearly 25 percent depending on the model, and Nothing even canceled an entire phone launch. Apple is just the most recent to jack up prices and point the finger at AI.\nThe price hikes are \"basic eco …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -251,20 +279,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "7rC2IY3PKDA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0a169c6936649a599b9c4376",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Inside the room where the smart home industry is still betting on Matter",
-      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-      "publishedAt": "2026-06-27T13:00:00.000Z",
-      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of collaboration between traditional rivals, including Apple, Google, Amazon, and Samsung.\nMatter promised an end to walled gardens and ecosystem lock-in. It promised to make a smart home device, like a lock, lightbulb, or sensor, easy to buy and set up. It promised you could choose any brand, use any platform, no expertise required - it would just …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -331,20 +345,6 @@
       "title": "Are you one of these gamers? #ignsummerofgaming",
       "url": "https://www.youtube.com/shorts/LKF3XJC22dw",
       "publishedAt": "2026-06-27T01:13:25.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "22fb73abeeddecbaec160ca5",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "How would you have answered these GTA 6 questions? #ignsummerofgaming",
-      "url": "https://www.youtube.com/shorts/XF5xk5cCc_0",
-      "publishedAt": "2026-06-27T01:12:45.000Z",
       "summary": null,
       "imageUrl": null,
       "category": "gaming",
