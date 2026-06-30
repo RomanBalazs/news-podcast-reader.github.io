@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-06-29T19:56:21.328Z",
+  "generatedAt": "2026-06-30T03:35:45.328Z",
   "items": [
+    {
+      "id": "42412dfc8f626b22ed42f434",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "T-Mobile is booting customers from its oldest plans",
+      "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+      "publishedAt": "2026-06-29T21:06:14.000Z",
+      "summary": "Time to say goodbye to that legacy Sprint plan. | Image: Alex Castro / The Verge\t\n\nEarlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect.\nAffected customers began sharing screenshots of the text on reddit and Threads this morning, and T-Mobile's chief marketing officer Allan Samson confirmed the news to The Verge: \nWe're retiring our oldest plans, some of which were built nearly 15 years ago - in the 3G and 4G eras, and well before our 5G network was fully deployed. Customers will transition to modern plans that provide acc …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "43dd19645177bec3b92f8f51",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "After a great start, DC’s new cinematic universe is already slowing down",
+      "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+      "publishedAt": "2026-06-29T21:00:00.000Z",
+      "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with films about another Kryptonian and one of Batman's less notable villains. But Gunn implored fans to have faith in his vision and trust that the DCU would become a world of interconnected stories that put WBD's last batch of comic book movies to shame.\nThough hopes were high for Supergirl, the movie has turned out to be a bit of a dud. Critics ha …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3ba71edeef875fe0323c0859",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "publishedAt": "2026-06-29T20:18:26.000Z",
+      "summary": "The iPhone 17 Pro. | Image: The Verge\t\n\nLeaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and Apple logo.\nThis comes just a week after Tata Electronics, an India-based company that manufactures iPhone components and assembles the devices, confirmed that it suffered a data breach. Security researchers told Reuters at the time that the ransomware group, World Leaks, posted more than 200,000 files related to the breach on the dark web. The leak …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "00397395a8d7251b8d890f3d",
       "sourceId": "the-verge-tech",
@@ -156,34 +198,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "3646b5d0e51c8706f36957ce",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Dbrand cancels Companion Cube because it didn’t actually ask Valve for permission",
-      "url": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled",
-      "publishedAt": "2026-06-29T15:59:45.000Z",
-      "summary": "Dbrand announced Monday that it's refunding everyone who bought its Steam Machine Companion Cube, which it said it made \"without a license from Valve.\" Dbrand announced the Portal-themed Steam Machine accessory in November and took preorders for it last Monday. But a few days later, the product had disappeared from the company's website and the teaser video promoting it had been made private after Valve contacted the company.\nDbrand says that the Companion Cube became \"the second-fastest selling product in our 15-year history, behind only the Switch 2 Killswitch\" after it opened preorders on June 22nd. However, Valve's legal team reached ou …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c0a72eb846cad4b7abe6d2f6",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "These camera-free smart glasses made me feel like Tony Stark",
-      "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
-      "publishedAt": "2026-06-29T15:16:24.000Z",
-      "summary": "We’re one step closer to Tony Stark’s smart glasses, but still quite a few steps behind J.A.R.V.I.S.\t\n\nXgimi, the Chinese company known for its all-in-one smart projectors, is expanding its portfolio with a new line of screen-equipped smart glasses that first debuted at CES 2026. Unlike AR glasses from companies like Meta and Snap, Xgimi’s new privacy-focused MemoMind One skip cameras for a lighter and more discreet design that helps hide their AI-powered smart functionality. After testing them for a week, I’m completely sold on the idea of having a screen floating in front of my eyes constantly feeding me useful information that no one else can see, but the MemoMind One don’t entirely deliver on my Tony Stark fantasies just yet. There’s some unique functionality I can’t get from my smart watch or phone, but I’m going to need a little more to justify dropping a half-grand (or more) on another smart wearable.\nXgimi is launching a Kickstarter for the glasses today, and the company plans to start shipping them in late July. There are three styles to choose from, and while full pricing will be $599, or $879 with prescription lenses, backing the Kickstarter discounts them to $399/$499. You can also customize the appearance of some of the styles with different colors, but that increases the price to $699/$879, which is discounted to $449/$499.\nI tested a beta version with beta software and a buggy mobile app that’s missing features. So while I can’t weigh in on what the final experience will be like, after a week I was impressed with some features and frustrated with others.\nSimilar to the $800 Meta Ray-Ban Display glasses, the MemoMind One use a pair of micro-LED projectors and transparent (but noticeable) waveguide prisms in each lens to create a display only you can see. While the Ray-Ban Display goes full color, the MemoMind One’s screen is bright green. It reminds me of the Apple II computers I used in grade school, but it doesn’t feel like I’m using dated technology because the experience of staring at a private screen hanging in midair still feels kinda futuristic. You can adjust the distance, position, and brightness of the display, and while the bright green color helps it pop and remain always visible indoors, it was hard to see outside on a sunny day if I wasn’t looking at something dark in the background to create more contrast.\n\n\n\n\nAt around 47 grams, the MemoMind One are heavier than my reading glasses but still feel lightweight and comfortable, even with the oversized end pieces on each arm stuffed with batteries good for up to 16 hours of use, charging contacts, Harman Kardon speakers, and other electronics. Most people I wore them around had no idea they had any smart features — unless I was listening to something. As much as I want to use the MemoMind One as earbud alternatives, people around me could easily hear what was playing through their speakers even at the lowest volume, including phone calls that were far from private.\n\n\n\n\nRaising your head or pressing the glasses’ single button near the right hinge activates the MemoMind One’s home screen, which shows the time, battery level, date, and weather on the left with customizable info on the right. Through the app you can choose up to four different sections such as stocks, news headlines from predefined sources (you can’t add your own RSS feeds), upcoming calendar events synced from your phone, a to-do list, and notifications.\nI was most excited to use the MemoMind One as a discreet alternative to constantly glancing down at my Apple Watch to check notifications or quickly respond to text messages, but the glasses are definitely not a smart watch. Most of the notifications from your phone will pop up on the glasses’ display with a condensed version of the message so you get gist of what they’re about. But there’s no way to read more than what’s in the brief notification, and you can’t respond to messages or emails through the glasses.\nPressing and holding the glasses’ button or saying “hi, Memo” lets you interact with the MemoMind One’s AI assistant through voice commands while responses are displayed as text with the option to have them read back to you. Responses typically took about four or five seconds, and I found myself using the assistant quite frequently instead of the current version of Siri on my watch. But I’ll admit I was disappointed there’s no way to privately ask the AI assistant questions to make myself seem smarter than I really am.\nDouble-pressing the glasses’ button brings up a Quick Launch section that can be customized with access to three different functions. These can include a teleprompter that will display and scroll a script that keeps up with your speaking cadence, captions generated on the fly while you’re watching something, and a voice recorder that shows a near real-time transcription of what glasses can hear while the mobile app can AI-generate summaries.\nAs a Canadian living close to Quebec with abysmal French skills, I was eager to test the MemoMind One’s live translation feature. A Dialog Mode for back-and-forth conversations is promised, but for now I was only able to test the glasses’ Listen-in Mode, which generates translated transcriptions on the display.\nThe speed and accuracy is good, but it’s very much dependent on how clearly the glasses’ microphone picks up the other person. Testing it with my wife speaking French from across the room required her to raise her voice above a normal volume while background noises like music playing easily tripped it up. Having quick access to the feature is convenient, but the translator can’t recognize the language being spoken, so you have to first open the mobile app and select what languages the tool is translating between. \nI was similarly frustrated when trying to use the MemoMind One’s mapping feature. Glasses with a heads-up display guiding you to a location is a neat idea, but you can’t ask the AI to route you to a destination. You need to open the mobile app, and the feature is currently limited to walking and cycling directions.\nXgimi is heavily promoting the privacy aspect of the camera-free MemoMind One, but an optional feature called Moments is anything but. The glasses constantly record everything and everyone around you to generate a frequently inaccurate summary of your day. It’s supposed to serve as a sort of auto-generated journal highlighting important moments, but it gets a lot of details wrong and frequently confuses what you actually did since it’s relying solely on audio. Xgimi plans to charge $19.99/month for the premium feature, but a better upgrade is to keep Moments turned off.\nI’ve no doubt glasses with screens will be a big part of our future, but I’m not yet convinced the MemoMind One’s features will make me want to wear them all day long. While they offer a few very useful features, they feel too dependent on the mobile app. If I’m going to the trouble of pulling out my phone, I’ll just use it to complete a given task. But there’s some exciting potential here in a design that doesn’t look obnoxious to wear, and I’m eager to revisit the MemoMind One once Xgimi has finalized and polished its software and features.\nPhotography by Andrew Liszewski / The Verge",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "4a1bfa7051f200606451e774",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -195,20 +209,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "Y6H1Q8B3LX8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "3105af09a73e5a6e757bfe86",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Supreme Court allows firing of FTC commissioners, ends agency independence",
-      "url": "https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence",
-      "publishedAt": "2026-06-29T15:10:45.000Z",
-      "summary": "The Supreme Court just placed once-independent agencies more firmly under presidential control. The court ruled in Trump v. Slaughter with a 6-3 vote that President Donald Trump had the authority to fire the Federal Trade Commission's two Democratic commissioners, even though it broke with decades of prior legal precedent at the time.\nThe justices have officially killed that precedent, based on a 1935 Supreme Court case known as Humphrey's Executor, which determined that independent agency commissioners could only be fired for cause. The ruling represents the latest expansion of presidential power, this time under the principle of the unita …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
