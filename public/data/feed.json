@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-07-01T19:53:50.838Z",
+  "generatedAt": "2026-07-02T03:31:09.827Z",
   "items": [
+    {
+      "id": "e98d50a83fcebdde257fa9dc",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+      "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+      "publishedAt": "2026-07-01T22:39:43.000Z",
+      "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\"\nThe updated MacBook Pro, which will keep the 14-inch screen size, will have a design that's \"in line\" with what Apple is planning for the touch screen MacBooks it also has in the works, Bloomberg says. Those new touch screen laptops are set to be released between \"the end of this year and early next year,\" and Bloomberg has previously reported that they will get a Dynamic I …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c5bafbf2923fb5eb71db6a3c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The funeral for PlayStation discs has begun",
+      "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+      "publishedAt": "2026-07-01T22:03:37.000Z",
+      "summary": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see. This decision is only a negative for gamers. We're losing the ability to sell games, to share games, and to own games.\"\nSony's announcement has been devastating news for many in the games industry. Not just players, but also groups like independent retail stores and preservationists that try and make gaming more accessible.\n\"This is unfortunate news for those who still prefer buying games on physical media, …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ad87339abd6040e9cfbbfee5",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
+      "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "publishedAt": "2026-07-01T21:00:00.000Z",
+      "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox reset.” The business, they said, is facing significant challenges, including a 3 percent “accountability margin,” massively higher component prices for consoles due to the memory and storage shortage, and an “over extended” studio system.\nThat same day, The Verge and Bloomberg reported that the Xbox division was planning layoffs in July. The cuts, expected to be announced on July 6th, could include studio closures or spinoffs. The Verge‘s Tom Warren reported on June 30th that Microsoft is looking at closing at least five studios and potentially canceling games like Blade.\nUnder Sharma’s leadership, Xbox has already made some other major changes, including upcoming price hikes for Xbox consoles, lowering Game Pass prices but cutting out new Call of Duty games, rebranding Xbox to XBOX, and making both Gears of War: E-Day and Clockwork Revolution Xbox console exclusives.\nRead on for all of our coverage of the shifts at Xbox.\n\n\n\t\t\t\t\t\nXbox will reportedly still publish Hideo Kojima’s OD.\n\t\t\t\n007 First Light’s developer lays off staff but claims its next franchise will continue\n\t\t\t\nXbox weighs canceling Blade game and shuttering Arkane\n\t\t\t\nXbox prices spike another $100 or more\n\t\t\t\nXbox is closing down Hellblade creator Ninja Theory\n\t\t\t\nXbox turmoil continues with a studio closure and executive departures\n\t\t\t\nMicrosoft hasn’t ruled out spinning off Xbox\n\t\t\t\nXbox warns of a ‘reset’ as it prepares for layoffs\n\t\t\t\nXbox exploring ‘radically different’ console business models\n\t\t\t\nRAMaggedon’s making Xbox “rethink” its Helix console.\n\t\t\t\nXbox exclusives are back and more complicated than ever\n\t\t\t\nXbox hires game industry analyst Matthew Ball to lead strategy\n\t\t\t\nXbox fans want exclusives, more backward compatibility, and free online multiplayer\n\t\t\t\nXbox is now XBOX\n\t\t\t\nInside the return of Xbox",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "fabd44d457063d93776359ed",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+      "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+      "publishedAt": "2026-07-01T20:10:21.000Z",
+      "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June.\nThe device was \"slimmer than an iPhone,\" and they were told it would run on a Qualcomm Snapdragon chip, according to the WSJ. It would also reportedly use its own AI-enabled operating system with features powered by the SpaceX-owned xAI.\nLast week, the Financial Times reported that SpaceX chief operating officer Gwynne Shotwell told investors that the company is con …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "165ef21bdb9e066afd50ba99",
       "sourceId": "ign-youtube",
@@ -268,34 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "3300c4a44c0fb64fddceebb1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sony is closing the PS3 and Vita digital stores",
-      "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
-      "publishedAt": "2026-07-01T12:37:52.000Z",
-      "summary": "It's the end of an era for the PlayStation store on PS3 and PS Vita, with Sony now planning to shut down its digital distribution service on both consoles. The PlayStation store on PS3 will close in select markets later this year, including Mexico, Honduras, and Nicaragua starting in August, with \"additional Latin American and Middle Eastern countries\" to follow in late 2026.\nThe shutdown across both PS3 and PS Vita \"in all other countries\" will take effect in July 2027. After this date, Sony says that console owners will be unable to purchase new content, but can continue downloading games they've previously purchased \"for the foreseeable  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4fb34a6dee95823a06f3b397",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sony is killing all physical PlayStation game discs",
-      "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
-      "publishedAt": "2026-07-01T12:15:13.000Z",
-      "summary": "Sony’s PlayStation 5 Pro doesn’t even feature a disc drive. | Photo by Vjeran Pavic / The Verge\t\n\nSony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital versions from the PlayStation Store and other retailers. Games released before January 2028 will still be available on disc.\n\"This is a natural direction for Sony Interactive Entertainment to adapt to consumer trends as the general preference for digital media significantly outpaces physical discs,\" Sony said in its announcement. \"This transition will enable us to align more closely with how most of our community prefers to access and play games to …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "85e60261ad1fb3743c330353",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -307,34 +335,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "q4ngbqu3T6g",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e6e75639ac450249ecca9d07",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "publishedAt": "2026-07-01T12:00:00.000Z",
-      "summary": "The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge\t\n\nSmart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that.\nAmazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. The Google Home Speaker is the company's first new smart speaker in six years and its first \"built for Gemini.\" After years of neglect, Google appears to be finally getting serious about the smart home - again. The new speaker is the clearest sign yet. Gemini for Home, however, still feels unfinished.\nGoogle …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "21ceb53e9061981fe709ab6d",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Rhythm Heaven never misses a beat",
-      "url": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
-      "publishedAt": "2026-07-01T12:00:00.000Z",
-      "summary": "Rhythm Heaven isn't Nintendo's best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it's out on July 2nd - there were only four previous entries, one of which was exclusive to Japan. The most recent came out more than a decade ago. Even still, there's a case to be made that this is Nintendo's most consistent franchise. There are few guarantees in life, but a new Rhythm Heaven being great is one of them.\nIf you're unfamiliar, Rhythm Heaven is sort of like a music-focused version of WarioWare. That means it's a collection of short and bizarre minigames, except these ones all test your …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
