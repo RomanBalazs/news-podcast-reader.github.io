@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-07-04T08:35:26.724Z",
+  "generatedAt": "2026-07-04T13:23:29.542Z",
   "items": [
+    {
+      "id": "0053a76e1519a3fabf4200a2",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The Biggest Games Still to Come in 2026 (Summer Update)",
+      "url": "https://www.youtube.com/watch?v=MbwL5Ln6utI",
+      "publishedAt": "2026-07-04T13:15:00.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "MbwL5Ln6utI",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "54f037b3d55845cb2e0161ee",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "publishedAt": "2026-07-04T12:00:00.000Z",
+      "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t\n\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.\nBroad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generated works, citing anything from em dashes to the broad concept of purple prose. But on June 29th, an anonymous X account called @heatedrivalryai promised a seemingly more reliable solution …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "fd2fa6b715324e8e41885cd4",
       "sourceId": "the-verge-tech",
@@ -226,20 +254,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "b4627e288f8f6d441ee19997",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple TV is hitting its stride",
-      "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
-      "publishedAt": "2026-07-03T12:00:00.000Z",
-      "summary": "Maximum Pleasure Guaranteed. | Image: Apple\t\n\nSince its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It's a strategy that has brought comparisons to the HBO of old, and 2026 has featured a particularly strong mix of new hits and returning favorites. It took a few years, but Apple TV seems to be finally hitting its stride.\nIn terms of brand-new series, this year's offerings have been fairly spread out across genres. Leading the way has been the delightful Widow's Bay, which skillfully manages the diff …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "86f3993677d969003920ea14",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "fc3df8f831a0f26c963a557c",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Silver Palace - Official Beta Test Gameplay Showcase Trailer",
-      "url": "https://www.youtube.com/watch?v=B6G5k5Vbqzo",
-      "publishedAt": "2026-07-02T23:00:38.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "B6G5k5Vbqzo",
       "spotifyEpisodeId": null
     }
   ]
