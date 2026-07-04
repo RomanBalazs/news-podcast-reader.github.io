@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-04T02:49:58.939Z",
+  "generatedAt": "2026-07-04T08:35:26.724Z",
   "items": [
+    {
+      "id": "fd2fa6b715324e8e41885cd4",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Qi fan fan",
+      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+      "publishedAt": "2026-07-04T07:00:00.000Z",
+      "summary": "The Kuxiu D5 keeps Qi-compatible phones cool while also charging a watch and earbuds.\t\n\nDespite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert after spending a week with the new $59.99 Kuxiu D5 Qi2.2 charging dock. Its active cooling system has kept my phone from heating up, unlike every other Qi charger I've tried. Good thing, given my own history with an overheating phone.\nLast year I fried the logic board on my titanium iPhone 15 Pro. I was on a sweltering train and trying to edit a 4K video on my phone, which was charging from a magnetically attached Qi power bank. Oof, …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "b47e6d6292fa72db21097cd2",
       "sourceId": "ign-youtube",
@@ -220,20 +234,6 @@
       "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
       "publishedAt": "2026-07-03T12:00:00.000Z",
       "summary": "Maximum Pleasure Guaranteed. | Image: Apple\t\n\nSince its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It's a strategy that has brought comparisons to the HBO of old, and 2026 has featured a particularly strong mix of new hits and returning favorites. It took a few years, but Apple TV seems to be finally hitting its stride.\nIn terms of brand-new series, this year's offerings have been fairly spread out across genres. Leading the way has been the delightful Widow's Bay, which skillfully manages the diff …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6c861f6caa16778f509f9ccc",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "publishedAt": "2026-07-03T11:49:10.000Z",
-      "summary": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nMidjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. \nThe AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour comes from tech YouTuber Marcin Plaza, who also happens to be an engineer at the company.\nPlaza frankly describes the scanner as scores of ultrasound probes \"hacked apart and slapped on a glorified hot tub with an elevator in it,\" connected to off-the-shelf computers and Raspberry …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
