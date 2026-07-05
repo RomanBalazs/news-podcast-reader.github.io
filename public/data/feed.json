@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-07-05T08:51:11.401Z",
+  "generatedAt": "2026-07-05T13:37:02.133Z",
   "items": [
+    {
+      "id": "fa682ff05185f3ecadc08f42",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Steam Machine vs PS5: How Does Performance Compare?",
+      "url": "https://www.youtube.com/watch?v=qvodYo5sGt0",
+      "publishedAt": "2026-07-05T13:15:09.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "qvodYo5sGt0",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "8c6f1d6824a21bdc068b12c7",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Vizio accidentally made the best dumb TV on the market",
+      "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+      "publishedAt": "2026-07-05T13:00:00.000Z",
+      "summary": "Vizio OS works well, but you don’t even need to use it.\t\n\nWhen I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio's been pretty quiet since it was acquired by Walmart in 2024, so putting out a TV with quantum dots, which allow for higher brightness levels and more accurate color, at a budget price seemed like a strong comeback.\nBut that's not the big story. While those two points are intriguing, the big news about the Mini LED Quantum TV is that Vizio accidentally made the best dumb TV on the market.\nVizio Mini LED Quantum TV\n\nWhere to Buy:\n\n $398 at Walmart ( …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "01b109151e493a382502cb7f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Xbox is a disaster",
+      "url": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
+      "publishedAt": "2026-07-05T12:00:00.000Z",
+      "summary": "Gears of War: E-Day.\t\n\nThis is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nMicrosoft closed out Summer Game Fest with a bang. The company's annual June showcase was packed with crowd-pleasers: Halo, Gears of War, Fable, a translucent Xbox, and even some pleasant surprises like new Persona and Crazy Taxi games. It was the kind of event that harkened back to the boisterous days of E3, when the industry was in a healthier place an …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "14d57f3255091a4fd5ab71b6",
       "sourceId": "ign-youtube",
@@ -268,20 +310,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "c2445ed009344d8e13dd849a",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
-      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-      "publishedAt": "2026-07-03T17:33:55.000Z",
-      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now ships with 4GB of RAM, and a small price bump from $139.99 to $154.99.\nThe Fire HD 10 with 64GB of storage still only comes with 3GB of RAM and the other specs for both tablets remain the same, including a 10.1-inch, 1,920 x 1,200 display, a 2GHz eight-core processor, a 13-hour battery, and expandable storage through a microSD card. The refreshe …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "af0963f4ba8cf07a6682984d",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "L5WGn4hdzP8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "b6d2f57ae53231e90d31b3b4",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "While you’re watching the World Cup, the feds may be watching you",
-      "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-      "publishedAt": "2026-07-03T15:00:00.000Z",
-      "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being watched.\nFrom Kansas City to New York, the US cities hosting the World Cup have been ramping up their surveillance capabilities in the months leading up to the tournament. Security measures are at an all-time high in Washington, DC, which isn't hosting the World Cup, but is home to a series of spectacles this summer. The Fourth of July festivities in the nation's cap …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d8a343b3326d310bbea71fa5",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Dragon Ball Xenoverse 2 - Official Future Saga Chapter 4 Trailer",
-      "url": "https://www.youtube.com/watch?v=uHzvZtbFn8E",
-      "publishedAt": "2026-07-03T14:26:26.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "uHzvZtbFn8E",
       "spotifyEpisodeId": null
     }
   ]
