@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-07-04T19:10:59.920Z",
+  "generatedAt": "2026-07-05T03:19:43.230Z",
   "items": [
+    {
+      "id": "14d57f3255091a4fd5ab71b6",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Suikoden: The Anime - Official Trailer (English Closed Captions)",
+      "url": "https://www.youtube.com/watch?v=DYqYNwGicOA",
+      "publishedAt": "2026-07-05T03:00:08.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "DYqYNwGicOA",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "70acf48cab4061d95d8cbc91",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Beyond Borders (Dwango ft. Hatsune Miku) - Official Trailer",
+      "url": "https://www.youtube.com/watch?v=iu9tdm1X1WY",
+      "publishedAt": "2026-07-05T00:30:07.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "iu9tdm1X1WY",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "2ea6b9ea79cba903ebbd486f",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "MURCIÉLAGO - Official Teaser Trailer",
+      "url": "https://www.youtube.com/watch?v=wAhUkKHkFaQ",
+      "publishedAt": "2026-07-04T20:30:02.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "wAhUkKHkFaQ",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "ddeae73b1a9df4ac4b82a227",
       "sourceId": "the-verge-tech",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "uHzvZtbFn8E",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "cf689a5c1c25d3f64a84d0a2",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Only Nintendo Can Save Physical Games - Next-Gen Console Watch",
-      "url": "https://www.youtube.com/watch?v=ZqC_5mbq09M",
-      "publishedAt": "2026-07-03T13:00:08.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "ZqC_5mbq09M",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "86f3993677d969003920ea14",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "A lot of pressure to get this Avatar scene right",
-      "url": "https://www.youtube.com/shorts/ZOkcW-Huwb8",
-      "publishedAt": "2026-07-03T01:49:02.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6b9b1072b894b067727529e7",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "What's your favoirte Danger Ehren Jackass stunt?",
-      "url": "https://www.youtube.com/shorts/Gaeh1xPxnY8",
-      "publishedAt": "2026-07-03T01:48:29.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
