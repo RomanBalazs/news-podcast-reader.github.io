@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-05T19:16:38.797Z",
+  "generatedAt": "2026-07-06T03:27:41.140Z",
   "items": [
+    {
+      "id": "c1c0cd1d1401d60166540699",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "publishedAt": "2026-07-05T22:30:54.000Z",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told the Wall Street Journal that he plans to send his …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "ceed6fa8715e9bc706cddde5",
       "sourceId": "the-verge-tech",
@@ -251,20 +265,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "zJl5Wzj9Dtk",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "3b31e9d85100dbea934eb465",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-      "publishedAt": "2026-07-04T16:00:00.000Z",
-      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price reflects its rising costs for memory and other components for the vacuum, which it says are now tenfold.\nThose who buy one directly from the company will get a year’s worth of replacement bags worth $96 at no extra cost. Each refill contains 12 bags, and they ship for free. Additionally, Matic has increased their return policy from 60 days to six months.\nMatic\nA different kind of robot vacuum and mop, Matic reinvents the floor cleaning machine.\n\nWhere to Buy:\n\n $1245 at Matic\n\nOur reviewer Jennifer Pattison Tuohy praised the Matic’s “human-like navigation,” noting in her review that it got stuck only twice during six months of use. In her cluttered (Jen’s words, not mine), three-story home with pets, thick rugs, and high transitions, it handled difficult layouts with ease while delivering powerful suction and a great self-cleaning roller mop. It’ll continue vacuuming even if its water tank runs dry, and it’s quiet enough to let it run without becoming a distraction if you work from home.\nIt also requires very little maintenance. Rather than relying on a big multifunction dock, it carries its own water tank and stores dirty water in a disposable bag, so you’ll only need to empty and clean its dirty water reservoir. It even drives itself to the sink when it needs more water. Unlike many competing robot vacuums, it can also operate entirely offline, with maps and other data stored locally instead of in the cloud.\nRead our Matic review.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
