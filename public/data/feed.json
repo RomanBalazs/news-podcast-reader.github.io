@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-07-07T19:53:48.804Z",
+  "generatedAt": "2026-07-08T02:35:54.171Z",
   "items": [
+    {
+      "id": "fcbe47da63cbab660a1be10e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "publishedAt": "2026-07-07T23:55:19.000Z",
+      "summary": "Even so, the privacy LED light is still hard to see. It’s on in this photo. | Photo by Amelia Holowaty Krales / The Verge\t\n\nAmid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to address modders who have taken actions such as physically drilling into the LED light.\nMeta has previously tried to discourage tampering with the LED light. For example, starting with its second generation glasses, blocking the light with tape or other objects will trigger a prompt asking users to uncover the recording light. However, many modders have found various workarounds for tha …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "b2f9efa4ce8d425ad4d9a199",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Of course viewers are giving up on Netflix shows",
+      "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+      "publishedAt": "2026-07-07T21:58:39.000Z",
+      "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it returned earlier this year. There seems to be some confusion as to why people aren't champing at the bit to dive back into once-popular projects like the live-action adaptations of Avatar: The Last Airbender and One Piece. Netflix is reportedly hard at work trying to figure out what, exactly, is prompting subscribers to jump ship in droves. But if you've spent any time payin …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3a81b3eddc51dac2ce457813",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+      "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
+      "publishedAt": "2026-07-07T21:37:19.000Z",
+      "summary": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by TechCrunch, the deal includes a mix of licensed past videos and new ongoing series that would have typically been published on YouTube or other online platforms, like Architectural Digest's \"Open Door\" or Vanity Fair's \"Lie Detector Test.\"  \nAs Netflix puts it, the deal will allow subscribers to watch content \"from around the Internet without having to leave Netflix.\" The announcement follows a Bloomberg report earlier this week  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "2001337000ba5babca20cc3c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "publishedAt": "2026-07-07T20:31:58.000Z",
+      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday.\nIt's part of the growing Muse family of AI models that replace Meta's Llama lineup. Alexandr Wang, who Meta hired to head up its Superintelligence Labs last year, says on Threads that Muse Image is \"agentic,\" meaning it works with its Muse Spark large language model \"to reason through your prompt, search the web, and plan before it generates.\" Meta is al …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "042176a259174fd25e7f17d5",
       "sourceId": "ign-youtube",
@@ -184,20 +240,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "c361bf4b25a1f1133fda2e27",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Discord accidentally banned over 8,000 people for posting grids and other &#8216;benign&#8217; images",
-      "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-      "publishedAt": "2026-07-07T15:02:30.000Z",
-      "summary": "A Reddit users says they were banned on Discord after uploading this picture of a chessboard. | Image: u/Laskof via Reddit\t\n\nDiscord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, such as chessboards, game textures, and even Minecraft inventories.\nStanislav Vishnevskiy, Discord cofounder and chief technology officer, writes that the bug impacted around 200 users who posted \"grid-like\" pictures, in addition to about 8,000 people who posted \"other benign images\" since May 2026. \"Everyone affected has now been unbanned,\" Vishnevskiy says.\n\n\n\n\n\nIn a thread on X, Disco …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "351812c96abc84583b0f9f32",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -240,20 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "d23a7d43585e91321a95964f",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Anker&#8217;s noise-blocking earbuds for sleeping are nearly half off",
-      "url": "https://www.theverge.com/gadgets/961962/anker-soundcore-sleep-a20-jbl-go-5-deal-sale",
-      "publishedAt": "2026-07-07T14:30:00.000Z",
-      "summary": "You might have a great bed and a good sleepy time routine, but if you’re still struggling to fall (or stay) asleep, Anker’s Soundcore Sleep A20 are worth considering. They’re designed to help muffle distracting sounds, and they’ve hit a new all-time low price of $99.99 ($80 off) at Best Buy and Target.\nAnker Soundcore Sleep A20\n\nWhere to Buy:\n\n $179.99 $99.99 at Best Buy\n $179.99 $99.99 at Target\n\nIn his review, my colleague Thomas Ricker said this model helped him average nearly 30 more minutes of sleep each night over a two-week period compared to when he wore the AirPods Pro to sleep. My colleague Jennifer Pattison Tuohy had a similarly positive experience, saying that while she could still hear her husband’s snoring, it was muted enough to fade into the background rather than keep her awake. The Sleep A20 include multiple ear tips and wings so even side sleepers can comfortably wear them overnight.\nBeyond blocking noise, they can play white noise, nature sounds, or meditation tracks, and can double as a pair of Bluetooth earbuds if you prefer falling asleep to podcasts or music. The companion app also tracks your sleep, including how long you’ve slept, your sleeping position, and nighttime movement, while extras like a built-in alarm let you wake up without disturbing your partner. \nBattery life is another highlight. The Sleep A20 can easily last through the night on a single charge (up to 14 hours) and their case recharges via USB-C. The newer $180 Sleep A30 feature active noise cancellation, which does a better job of masking unwanted sounds, but the feature sacrifices long-lasting battery life.\nRead our Anker Soundcore Sleep A20 review.\nThree more deals worth a look\nThe JBL Go 5 Portable Bluetooth Speaker is down to $44.95 ($10 off) at Amazon, which is its best prices to date. The tiny speaker features an IP68-rated design that can withstand dust and water, while delivering up to 10 hours of playback on a single charge. It also supports lossless audio when wired to your audio source over USB-C.\nIt’s been hot out in many parts of the US. To cool off while you’re on the go, I recommend getting Jisulife’s Handheld Fan Life8, which is on sale for $12.32 ($14 off) at Amazon. The foldable USB-C-powered fan works as a handheld or a desktop fan thanks to its built-in stand. It can serve as a flashlight in a pinch or as a backup power bank for charging your phone when needed, though its small size means it’s only good for brief battery top-ups, not full charges.\nThe Eero 6 Wi-Fi Router isn’t the company’s latest mesh router, but it’s still a solid pick for smaller homes, especially at its all-time low price of $54.99 ($30 off) at Amazon. The Wi-Fi 6 router covers up to 1,500 square feet, delivers speeds up to 900Mbps, and can handle more than 75 connected devices. It also doubles as a Zigbee smart home hub for compatible Alexa devices, so you can connect supported smart home devices without buying a separate hub.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "6fa0e9296c5196e9f0cbd37c",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -279,34 +307,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "wzeI2JiOl9A",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f8d3ed62213d3c99e3aa9811",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "iRobot’s newest floor cleaner isn’t a robot",
-      "url": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
-      "publishedAt": "2026-07-07T14:00:00.000Z",
-      "summary": "The Roomba Electro Plus is iRobot’s first manually-operated floor cleaner. | Image: iRobot\t\n\niRobot just announced its first-ever non-robotic floor cleaner. The $399 Roomba Electro Plus is a 5-in-1 hard-floor cleaner that combines vacuuming, mopping, and disinfecting, but you have to operate it yourself. The company also announced updates to its line of Roomba robot vacuums, launching five new models with higher suction power, smaller footprints, and lower prices. These largely replace the line that arrived in 2025. \nDesigned exclusively for hard floors, the new Electro Plus is similar to the new breed of manual wet-dry floor cleaners available from Dreame, Roborock, and others. iRobot's distinguishing feature is Electro's ability  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4cb289960dfa2c9ce921323d",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Microsoft fixes storage-hogging Windows 11 folder",
-      "url": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder",
-      "publishedAt": "2026-07-07T13:52:58.000Z",
-      "summary": "Microsoft is addressing a Windows 11 bug that caused a folder to take up several gigabytes of storage space. As spotted earlier by Windows Latest, Microsoft included the patch in its optional  June 2026 update (KB5095093), which \"improves disk space usage for the CapabilityAccessManager.db-wal file.\"\nThe CapabilityAccessManager.db-wal file is installed on Windows 11 PCs by default, and is related to app permissions. Several users have had issues with this file over the past few months, with one person saying the file took up 500GB of storage on their device. Others have reported the file growing to similarly large amounts, ranging from 12GB …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
