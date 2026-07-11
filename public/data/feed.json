@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-07-11T07:54:04.208Z",
+  "generatedAt": "2026-07-11T13:16:46.880Z",
   "items": [
+    {
+      "id": "ba2e568638f7e83ccbd472ca",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "ICE are heavily armed killers. They’re also huge losers",
+      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "publishedAt": "2026-07-11T13:00:00.000Z",
+      "summary": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images\t\n\nDonald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online.\nSince taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy railing against immigrants and call up ICE recruits as if we're fig …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "81bd6740eb8bcb600a4e9c89",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The Odyssey: Matt Damon and Zendaya On the Joys and Challenges of Making a Christopher Nolan Movie",
+      "url": "https://www.youtube.com/watch?v=7Y6L8WayzmI",
+      "publishedAt": "2026-07-11T12:00:39.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "7Y6L8WayzmI",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "92903e05c298669c45c85123",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "A tasty RPG that will make you very hungry",
+      "url": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+      "publishedAt": "2026-07-11T12:00:00.000Z",
+      "summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forgetting character names. That's part of what makes these games feel like epic adventures, but it can also make them intimidating, particularly if you have limited spare time. Dosa Divas, on the other hand, manages to capture much of that same feeling in a package that spans less than 10 hours. And it does it with a bold sense of style and a story that seamlessly flits between big themes and personal drama. There's just one big d …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "65d22fac6f47c26f8ba3ee0a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The perfect kit for all your tiny repairs",
+      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+      "publishedAt": "2026-07-11T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about cold plunges and Colson Whitehead and the food truck mafia, finally getting to the theater to see Obsession, watching The Agency because it's apparently everyone's favorite underrated show, nodding sadly to Adam Conover's video about the death of sitcoms, making a lot of noises during the Dune: Part Three trailer, testing Atlas as a visual journal, giggling endlessly at the new InfoWars, and s …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "3b0288c04a0e6ee04a28827e",
       "sourceId": "the-verge-tech",
@@ -212,48 +268,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "a5b29795b93ae02a455434fc",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-      "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-      "publishedAt": "2026-07-10T17:31:35.000Z",
-      "summary": "SK Hynix CEO Kwak Noh-Jung. | Image: Michael Nagle/Bloomberg via Getty Images\t\n\nAs the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to reports from The Associated Press and CNN.\nAfter reaching a $1 trillion valuation in May, SK Hynix briefly overtook Samsung as South Korea's most valuable company. SK Hynix is one of three major companies benefitting from a surge in demand for DRAM and high-bandwidth memory (HBM). These components have become essential for the widespread buildout o …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "8b8cdc6d5330ecfbf1472a9c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-      "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-      "publishedAt": "2026-07-10T17:02:13.000Z",
-      "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose from up to five options like \"Discover new artists,\" \"Editors' picks,\" and \"Pop.\" They're rolling out now across mobile and desktop apps and will appear at the top of your Release Radar playlist once they're available.\nSpotify also says it's making tweaks to the algorithm to serve up \"more personalized recommendations,\" along with a new look featuring updated cover and …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "bbaedac0d9ee1eed81afbf7e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Netflix is turning into YouTube",
-      "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
-      "publishedAt": "2026-07-10T16:29:50.000Z",
-      "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its primary competitor, it might all make perfect sense.\nOn this episode of The Vergecast, David and Nilay try to figure out why Netflix continues to expand its content machine and whether the company's ongoing YouTube-ification makes any sense at all. Many have tried to compete with YouTube; none have succeeded. Does that mean Netflix might inch its way up the Go90 Scale of …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "863c5d33aa9ecb359addfdba",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "WaLBOQ27BP0",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "7b505f49f0cfca9c7456a836",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Edward Kenway actor Matt Ryan ranks Assassin's Creed Black Flag memes using IGN scores.",
-      "url": "https://www.youtube.com/shorts/cGYL_CFRdxE",
-      "publishedAt": "2026-07-10T01:38:23.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
