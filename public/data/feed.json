@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-07-11T02:33:52.990Z",
+  "generatedAt": "2026-07-11T07:54:04.208Z",
   "items": [
+    {
+      "id": "3b0288c04a0e6ee04a28827e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Are you filthy enough for a $700 portable shower? ",
+      "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "publishedAt": "2026-07-11T07:00:00.000Z",
+      "summary": "A luxurious hot shower anywhere you go.\t\n\nHot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea of spending hundreds on a portable shower seem less absurd. \nI've been testing the Hottap Go from Australia-based Joolca while vanlifing to shower after surfing and to wash up after cooking. It features a 12L integrated water tank which is an improvement on other portable showers that require an external container and long, cumbersome hose th …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "6da61d0aa81f83e2413fddc9",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "we owe $100",
+      "url": "https://www.youtube.com/shorts/FmczQFe3a5Q",
+      "publishedAt": "2026-07-11T03:16:36.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "60139aff3466c4409edee5fc",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Did you know Spider-Man was a boss battle?",
+      "url": "https://www.youtube.com/shorts/J3Hd_XVxyKU",
+      "publishedAt": "2026-07-11T03:15:54.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "efa82151d703b9d2e1e1bf00",
       "sourceId": "the-verge-tech",
@@ -240,20 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "9cdd533de9b5ef995f59bd43",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Disney Plus is reportedly looking into a free streaming tier",
-      "url": "https://www.theverge.com/streaming/964056/disney-plus-free-tier-report",
-      "publishedAt": "2026-07-10T15:33:58.000Z",
-      "summary": "Disney Plus is considering making some of its content free to watch, according to a report from Business Insider. A source tells the outlet that Adam Smith, Disney's chief product and technology officer, mentioned a free streaming tier during the company's town hall on Thursday.\nIt's not clear which shows or movies the purported free streaming tier involves, or when Disney would consider rolling it out, but Business Insider reports that it's \"part of an ongoing discussion about concepts to better serve fans.\" Disney didn't immediately respond to The Verge's request for comment.\nWith YouTube taking up a large portion of viewers' time in fro …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "2f4d8adad1e0e8385d7fccc5",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a671055d3128851003936fae",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Buddy - Official Teaser Trailer (2026) Cristin Milioti, Patton Oswalt, Keegan-Michael Key",
-      "url": "https://www.youtube.com/watch?v=q328oUf-cA4",
-      "publishedAt": "2026-07-10T01:30:13.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "q328oUf-cA4",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "cb6d220a982eab9bfbfcfeab",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "HOPE - Official Trailer (2026) Hoyeon, Alicia Vikander, Michael Fassbender, Hwang Jung-Min",
-      "url": "https://www.youtube.com/watch?v=0Q4v7IKWO_E",
-      "publishedAt": "2026-07-10T01:07:33.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "0Q4v7IKWO_E",
       "spotifyEpisodeId": null
     }
   ]
