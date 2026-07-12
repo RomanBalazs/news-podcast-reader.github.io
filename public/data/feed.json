@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-07-11T19:02:07.279Z",
+  "generatedAt": "2026-07-12T02:40:33.368Z",
   "items": [
+    {
+      "id": "8f3a488935dd471ff2f4e517",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Soulframe - Official Warsongs Trailer | TennoCon 2026",
+      "url": "https://www.youtube.com/watch?v=G_fXqKUAsxE",
+      "publishedAt": "2026-07-11T22:00:23.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "G_fXqKUAsxE",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "229e2fae634f9372399ef313",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Warframe: Tau - Official Trailer | TennoCon 2026",
+      "url": "https://www.youtube.com/watch?v=YTMiqhLOhak",
+      "publishedAt": "2026-07-11T22:00:15.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "YTMiqhLOhak",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "d5885c37e34b3259b5796d1b",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+      "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+      "publishedAt": "2026-07-11T20:57:42.000Z",
+      "summary": "More mint green synths please. | Image: Nopia\t\n\nAfter setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching in \"a couple of months\" for around £550.\nNopia is built around harmonic interplay in a unique way. Rather than a few knobs and a keyboard controlling a single synth patch, it blends multiple modules - keys, bass, arp, and pad - into a single performance, not unlike a drumless groovebox. There's a one-octave keyboard called the Chord Builder, a 12-b …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "7d7b2ad17f8427e41698ae19",
       "sourceId": "the-verge-tech",
@@ -121,7 +163,7 @@
       "title": "ICE are heavily armed killers. They’re also huge losers",
       "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
       "publishedAt": "2026-07-11T13:00:00.000Z",
-      "summary": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images\t\n\nDonald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online.\nSince taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy railing against immigrants and call up ICE recruits as if we're fig …\nRead the full story at The Verge.",
+      "summary": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images\t\n\nDonald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pretenses. In the other, it made house calls to people who said mean things to them online.\nSince taking office last year, the Trump administration has been telling us that fighting the good fight of white supremacy will make you look cool and noble. The DHS under former Secretary Kristi Noem spent $220 million to help her cosplay as a cowboy and call up ICE recruits as if we're fighting a new World War, this …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -226,20 +268,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "2d289fb126d7f9cdd496212f",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "publishedAt": "2026-07-10T23:49:50.000Z",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to reference,\" Meta says in an update to a blog post about its new Muse Image AI model. \"Our intent was to provide a useful creative tool and to give pe …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "de3c0b8cec5c6004e4800585",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "863c5d33aa9ecb359addfdba",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Arkheron - Official Closed Beta Launch Trailer",
-      "url": "https://www.youtube.com/watch?v=R7RvlXyVVgY",
-      "publishedAt": "2026-07-10T16:19:39.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "R7RvlXyVVgY",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ea39d260c2026cf05b2b2a0e",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "PUBG Mobile x Naruto Shippuden - Official Animation Video",
-      "url": "https://www.youtube.com/watch?v=XC08fN0Tuz8",
-      "publishedAt": "2026-07-10T15:47:28.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "XC08fN0Tuz8",
       "spotifyEpisodeId": null
     }
   ]
