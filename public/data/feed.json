@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-07-14T02:25:54.580Z",
+  "generatedAt": "2026-07-14T08:02:31.516Z",
   "items": [
+    {
+      "id": "d1b2c786fc3056f3833e11c4",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The best look at Avengers: Doomsday so far",
+      "url": "https://www.youtube.com/shorts/48Trxzxwr4E",
+      "publishedAt": "2026-07-14T02:44:03.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "baedcb557d84564a0796feba",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Christopher Nolan comments on AI slop",
+      "url": "https://www.youtube.com/shorts/aMwQPhAaptk",
+      "publishedAt": "2026-07-14T02:43:22.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "cd4861c328d24a25a261d445",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "PUBG uses an iconic Naruto opening",
+      "url": "https://www.youtube.com/shorts/2HlYw-Qaiyc",
+      "publishedAt": "2026-07-14T02:42:44.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "274bdbab37e26cfc512ab280",
       "sourceId": "ign-youtube",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "0EK7sJw3EQA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d4d731a0392ce384cd6cb01c",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Soulframe - Official Warsongs Gameplay Demo | TennoCon 2026",
-      "url": "https://www.youtube.com/watch?v=p-xP4MwLfPs",
-      "publishedAt": "2026-07-13T14:37:48.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "p-xP4MwLfPs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "16ae4e84338b2cf376a2149d",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Fortnite x Warframe - Official Excalibur Launch Trailer",
-      "url": "https://www.youtube.com/watch?v=lPz6u7vrLzs",
-      "publishedAt": "2026-07-13T14:04:14.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "lPz6u7vrLzs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0e8b895fcadb11e7caacfd26",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "False Echo: Official Announcement Trailer",
-      "url": "https://www.youtube.com/watch?v=0Mn4aPov948",
-      "publishedAt": "2026-07-13T14:00:34.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "0Mn4aPov948",
       "spotifyEpisodeId": null
     }
   ]
