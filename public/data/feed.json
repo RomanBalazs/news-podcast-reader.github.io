@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-07-15T02:23:48.717Z",
+  "generatedAt": "2026-07-15T08:08:07.908Z",
   "items": [
+    {
+      "id": "b4470002dc14e859c4b9efdb",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Starlink’s V5 dish is now available — here’s how it compares",
+      "url": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+      "publishedAt": "2026-07-15T07:17:27.000Z",
+      "summary": "The smaller Starlink V5 (right) next to the larger V4 dish. | Image: SpaceX\t\n\nSpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not intended for in-motion use - for that you'll have to wait for the revamped Starlink Mini teased alongside the V5 last month.\n\n\nThe next generation Starlink Kit is designed to deliver reliable, high-speed home internet. Starlink V5 has a smaller form factor and lightweight design with greater power efficiency than the Starlink V4.\nWith speeds up to  …\n\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "27bfe297e6e7058948775ee0",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Tides of Annihilation - Official gamescom 2026 Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=0bUysGHE8VM",
+      "publishedAt": "2026-07-15T07:00:16.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "0bUysGHE8VM",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "47738164e5bacd652c56d09f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "publishedAt": "2026-07-15T03:28:53.000Z",
+      "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it's time for Microsoft to launch an Xbox game store on Android?\nIn October 2024, Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and forcing it to share its own entire catalog of …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "c82e99353022e9dbd7abe083",
       "sourceId": "ign-youtube",
@@ -104,10 +146,10 @@
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
       "type": "article",
-      "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
+      "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
       "url": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
       "publishedAt": "2026-07-14T21:32:04.000Z",
-      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance. Microsoft patched a bunch of security issues with this update as well, which the company said we can expect to see more of in future releas …\nRead the full story at The Verge.",
+      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-breaking release, according to Krebs on Security. It also includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days and repeatedly extend the deadline after that.\nIt comes as part of Microsoft's plan to revitalize Windows 11 with updates focused on addressing user complaints and improving performance …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -282,34 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "d2cdff419c144d5712dc3b8b",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
-      "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
-      "publishedAt": "2026-07-14T16:52:47.000Z",
-      "summary": "See Spot carry. | ﻿Image: Boston Dynamics\t\n\nBoston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory  that allows Spot to carry packages from a vehicle and autonomously unload them on a customer's doorstep in an effort to reduce a delivery driver's workload.\nWhile attempts have already been made to expedite and automate deliveries using wheeled robots or aerial drones, humans are still the most efficient way to navigate obstacles like stairs or cluttered pathways in order to get packages from a truck to a doorstep. A demo video s …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "72a0c4277ce5efcd0f2c023c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sony delays its new PS5 fight stick",
-      "url": "https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay",
-      "publishedAt": "2026-07-14T16:47:49.000Z",
-      "summary": "Sony is delaying the launch of its FlexStrike fight stick controller for PS5 and PC, which had been set to launch on August 6th, to an unspecified date in the future. The company blames the delayed launch on \"unexpected production delays.\" The original planned launch of the FlexStrike would have lined up with the release date of Marvel Tōkon: Fighting Souls, a Marvel-themed fighting game developed by Arc System Works that PlayStation is publishing.\n\"We wanted to share an update on the launch timing for FlexStrike wireless fight stick,\" Sony says in an update to a PlayStation blog post about the controller and other accessories. \"Due to unex …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "5ba7165799b81ba2e4b8e1c8",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "whH29E0dXig",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9616ee9d1f28468fc61c2be0",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Dead by Daylight - Official Iron Maiden Collection Trailer",
-      "url": "https://www.youtube.com/watch?v=xukXetc5Y5I",
-      "publishedAt": "2026-07-14T16:00:13.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "xukXetc5Y5I",
       "spotifyEpisodeId": null
     }
   ]
