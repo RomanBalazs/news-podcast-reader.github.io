@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-17T02:33:38.550Z",
+  "generatedAt": "2026-07-17T08:08:11.888Z",
   "items": [
+    {
+      "id": "332cd4dabac258064bdff7d9",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Castlevania: Belmont’s Curse: The First Preview",
+      "url": "https://www.youtube.com/watch?v=FewyB4H4ztw",
+      "publishedAt": "2026-07-17T07:01:02.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "FewyB4H4ztw",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "df3b25ef2ebfacda4164fc22",
       "sourceId": "ign-youtube",
@@ -209,20 +223,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "FHkIHQ759hs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e44d029b789e9e450f7b058f",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Cathedral: Crow's Curse - Official Trailer | Convergence Games Showcase 2026",
-      "url": "https://www.youtube.com/watch?v=85uqCVy9RU8",
-      "publishedAt": "2026-07-16T21:05:28.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "85uqCVy9RU8",
       "spotifyEpisodeId": null
     },
     {
