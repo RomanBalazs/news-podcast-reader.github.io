@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-07-19T19:04:23.190Z",
+  "generatedAt": "2026-07-20T02:51:57.005Z",
   "items": [
+    {
+      "id": "45c4a198327ae2f7ef34be10",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+      "publishedAt": "2026-07-19T21:02:45.000Z",
+      "summary": "Sure is a lot of porcelein in there. | Image: Kieran Hebden\t\n\nJust why?\nʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌　҉　　　　　͡　͞　͞　͞　҉● ࿀ ●  ࿀  ●　　　҉⃝ 　　　⃝͢ ͞　　　͘　͞⃝̕ ͢　　　　̛　⃝ 　　　̸　̡　　͢⃝̧ 　͡　͡　　̀　̧　̢⃝͜ 　 　҉　　͞　͞　⃝͞ 　͞　͡⃝  ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊(　̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥\n\nWhat am I supposed to do with this? \nIt's un-Googleable. Unpronounceable.\nIt doesn't even render the same way on various platforms. It looks one way on YouTube Music. Another on Apple Music. And yet another on Bandcamp. Even the artist name ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ is an unpronounceable series of glyphs that would make Prince shake his head.\nSo, from here on out, I'm just going to refer to ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9bfaed0fb63f071e5d8c29ce",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+      "publishedAt": "2026-07-19T19:26:06.000Z",
+      "summary": "I’m partial to that avocado green one. | Image: Reto Project\t\n\nFollowing the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact that it has a manual wind and rewind only emphasizes that. And you can really lean into that disposable aesthetic thanks to its built-in automatic flash.\nUnlike the A1, there's no double exposure feature here or zone focusing. The EC35 is designed to require almost no thought to use. Its one special feature is the sliding …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "6d94bf0603187ad191bea063",
       "sourceId": "the-verge-tech",
@@ -139,34 +167,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "goVicH1VkdM",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "3393f7819cb2452599e1a185",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "publishedAt": "2026-07-18T20:54:42.000Z",
-      "summary": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival\t\n\nLast year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer tips on being relentlessly prolific, or how to excel in multiple fields. Instead, he apparently laced into the company. According to the Financial Times, Eggers told the staff:\n\"The effect of ChatGPT on educators' lives is catastrophic. Whether you intended to do it or not, you've made every teache …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "cfc2899ff739dea6278f1036",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Google might not kneecap the Pixel 11a with an old processor",
-      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
-      "publishedAt": "2026-07-18T18:25:08.000Z",
-      "summary": "The Pixel 10a shipped with a last gen processor. | Photo: Dominic Preston / The Verge\t\n\nMystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the modern processor, but cut corners in other places to keep costs down.\nThe Tensor G6 is rumored to feature the same PowerVR DXT-48-1536 GPU as the G5, but it should still be an improvement over the Mali-G715 in the Tensor G4. The big upgrade is that the G6 moves on from Samsung's Exynos modems and instead uses a MediaTek M90 modem. Tha …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
