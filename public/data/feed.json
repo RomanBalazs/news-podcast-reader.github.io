@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-07-22T02:33:53.679Z",
+  "generatedAt": "2026-07-22T08:27:16.157Z",
   "items": [
+    {
+      "id": "66160083e5faf59fc184d87e",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The truth behind the \"Spider-Man Font\"",
+      "url": "https://www.youtube.com/shorts/3dR8tEhNM2c",
+      "publishedAt": "2026-07-22T02:25:22.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "0e323a31e70b92a0f23ddeda",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The Odyssey villain that everyone kinda likes",
+      "url": "https://www.youtube.com/shorts/DFE6fL9yCHI",
+      "publishedAt": "2026-07-22T02:21:28.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "001e67738e2136b6547a8bfa",
       "sourceId": "ign-youtube",
@@ -254,20 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "51e55cea7ce6b6c4b0afedec",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "College Football 27: 9 Things That Actually Make a Difference",
-      "url": "https://www.youtube.com/watch?v=jQ6itwyU0A8",
-      "publishedAt": "2026-07-21T17:30:23.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "jQ6itwyU0A8",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "ef29bc62a6b16a2ca86feae9",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -321,20 +335,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e4139b36fdc06f913adb4977",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Avatar Aang: The Last Airbender has a thin plot but thrilling action that deserved to be in theaters",
-      "url": "https://www.youtube.com/shorts/6bZzf-bV04s",
-      "publishedAt": "2026-07-21T16:37:19.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     },
     {
