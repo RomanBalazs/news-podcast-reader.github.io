@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-29T02:32:27.239Z",
+  "generatedAt": "2026-07-29T08:38:53.921Z",
   "items": [
+    {
+      "id": "5195018ab75799b4dd236954",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview",
+      "url": "https://www.youtube.com/watch?v=MiXKj4f6GRk",
+      "publishedAt": "2026-07-29T07:00:16.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "MiXKj4f6GRk",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "48d68e2c77ba813165c9f17b",
       "sourceId": "ign-youtube",
@@ -223,20 +237,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a7b599d6fe8786f288517ca6",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Which Avatar character do you relate to? Presented by @paramountgames #sdcc",
-      "url": "https://www.youtube.com/shorts/Pnk6_N8vA7A",
-      "publishedAt": "2026-07-28T21:22:44.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     },
     {
