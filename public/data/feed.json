@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-31T02:43:25.863Z",
+  "generatedAt": "2026-07-31T08:47:45.762Z",
   "items": [
+    {
+      "id": "2616b5fd64299e4ace748bb6",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "PAW Patrol: Dino World - Official Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=VUxBN_p9SJk",
+      "publishedAt": "2026-07-31T08:00:02.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "VUxBN_p9SJk",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "f239ada9c15ded87b9c05f98",
       "sourceId": "ign-youtube",
@@ -279,20 +293,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "2e99ad3cd68e240a5ed53e6a",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Call of Duty: Modern Warfare 4 - Official 'Losing Ground' Campaign First Look Trailer",
-      "url": "https://www.youtube.com/watch?v=YjgG-40MRfM",
-      "publishedAt": "2026-07-30T18:30:07.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "YjgG-40MRfM",
       "spotifyEpisodeId": null
     },
     {
