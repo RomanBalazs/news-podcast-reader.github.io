@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-08-01T08:18:51.768Z",
+  "generatedAt": "2026-08-01T13:17:52.122Z",
   "items": [
+    {
+      "id": "cf92a291c651d4de3f3b7e55",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The Mermaid Mask is a perfect vacation murder mystery",
+      "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
+      "publishedAt": "2026-08-01T13:00:00.000Z",
+      "summary": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery.\nIt starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling across the floor. The colorful cast of suspects stationed aboard are delightful to talk to, including a grumpy author trying to draft a sequel to his hit novel, an actor playing the lead in a movie based on that novel, a young woman who puts on elaborate illusion performances, and even a man who studies dreams. The submarine works as an excellen …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "daa4c589a4bddf43816af7f3",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The OG reading app just got a big update",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) \nThis week, I've been reading about microwave sounds and Meta glasses and Alex vs. Alix, testing the Logitech Alto Keys K98M to see if I'm ready for the mechanical keyboard life, digging into the history of the first chatbot, clearing space on my desk for a Bob Ross deskmat, doing a full Ted Lasso rewatch ahead of the new season next week, finally getting into Cyberpunk 2077 now that it's so cheap, cackling and nodding at this A …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "d18b6fbc08421f9d0896f210",
       "sourceId": "ign-youtube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "WINJ23qTulE",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "8b58bfa6223daabcb80ffebe",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The major labels propose rules to keep AI slop off the charts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "publishedAt": "2026-07-31T16:36:48.000Z",
-      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. \nThe proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels' proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being \"substantially human  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "1379331070fac7abf5ca0fab",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
-      "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
-      "publishedAt": "2026-07-31T15:30:13.000Z",
-      "summary": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming commission, as reported earlier by CNBC.\nAn investigation from the Office of the Attorney General (OAG) found Kalshi exposes New York residents \"to serious personal and financial risk,\" including people under the legal gambling age of 21, the lawsuit alleges. The state asks the court to block Kalshi - which is headquartered in New York - from operating in the state and to pay restituti …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
