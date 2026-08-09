@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-08-08T18:35:23.410Z",
+  "generatedAt": "2026-08-09T01:39:36.133Z",
   "items": [
+    {
+      "id": "3bb16b0c36bb716cee1e8bbe",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "publishedAt": "2026-08-08T21:15:12.000Z",
+      "summary": "X wants to make money on previously used handles. | Image: The Verge\t\n\nX is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in the last 90 days, among other requirements. \nCreators will then earn revenue based on \"qualified impressions\" on \"original content.\"Qualified impressions are unique impressions from Premium subscribers \"on the Home Timeline feed, where at least 50% of the post is visible.\" What qualifies a …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "1b4de657208719d79ee6e32a",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Warrior Cats: Clans of the Forest - Official Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=KydfEOzdNkw",
+      "publishedAt": "2026-08-08T19:00:19.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "KydfEOzdNkw",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "c028a7e1d2fbac776504819a",
       "sourceId": "the-verge-tech",
@@ -310,20 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "b07a2f054b94d6b9a0b10cf3",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Wreckfest 2 - Official Trailer | THQ Nordic Digital Showcase 2026",
-      "url": "https://www.youtube.com/watch?v=peqNeoTWlWY",
-      "publishedAt": "2026-08-07T19:35:17.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "peqNeoTWlWY",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "5c8bd90efec27122f1e1b0f6",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
       "publishedAt": "2026-08-07T18:59:46.000Z",
       "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content.\nThis week, Roku added four new channels to its library of streamable programming. Along with dedicated feeds for old episodes of Mad TV, Whose Line Is It Anyway?, and a variety of Black sitcoms, the platform also debuted a 24/7 stream filled with projects from Colin Petrie-Norris' AI startup,  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "abf80f4523b0d115d2ae1d69",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "publishedAt": "2026-08-07T18:40:34.000Z",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations. \nRecent internal evaluations of an OpenAI model called Astra indicate that it offers \"significant advancements in agentic coding and cybersecurity,\" according to the company. \"These results, in addition to expert assessments, have led us to conclude last n …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
