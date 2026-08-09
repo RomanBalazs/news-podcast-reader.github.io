@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-08-09T12:47:24.264Z",
+  "generatedAt": "2026-08-09T18:38:36.878Z",
   "items": [
+    {
+      "id": "1c3a7e9228236e78d687fb61",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "publishedAt": "2026-08-09T17:20:30.000Z",
+      "summary": "Mark Zuckerberg's yacht \"The Launchpad\" | Image: Sylvain Lefevre / Getty Images\t\n\nEarlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad.\nMichael Love, a passenger on the Wilderness Legacy, posted on Bluesky that the captain announced the Launchpad was closer, but \"repeatedly refused to respond,\" which was met with booing from the passengers. The AIS tracking (embedded below) seems to support that the Launchpad was closer to the vessel in trouble, but then stopped near the entrance …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "5e84d23979784e0d6e970e16",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "publishedAt": "2026-08-09T15:56:49.000Z",
+      "summary": "Head Coach Kyle Shanahan of the San Francisco 49ers | Image: Michael Zagaris / San Francisco 49ers / Getty Images\t\n\nFour weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the time. Shanahan was not passing the buck, however, saying it was his fault regardless of whether or not Autopilot was engaged. \n\"I've had Autopilot for nine years, so I'm pretty comfortable with it and, you know, who knows what happened when I turned around? Whether it malfunctioned or whether I knocked it off? That's somethi …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "1917baa686c099f54366ee6a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Dropbox is a PC builder’s best friend",
+      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "publishedAt": "2026-08-09T13:00:00.000Z",
+      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot of people very upset and placed me in deep trouble. I wasn't irresponsible, I had local backups, but at some point I found myself in custody of so many important files that it scared me. And no matter how many redundancies I could build at home, they'd all still be in the same place - a risky bet. So I bought a subscription to Dropbox. Years later, it's still one …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "adc26c06051dcbf002b5fad8",
       "sourceId": "the-verge-tech",
@@ -114,20 +156,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "2a8a1bf09f4ea781fa6549d6",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-      "publishedAt": "2026-08-08T07:00:00.000Z",
-      "summary": "The Nitecore NB10000 Gen 4 power bank is a great option for endurance athletes and backpackers. | Photo by Thomas Ricker / The Verge\t\n\nThere's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking,  bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few weeks with it I can confidently say: Haribo be damned!\nThe $83.95 NB10000 Gen 4 weighs just 146 grams, according to my scale, and measures 1.45 x 11.6 x 4.68cm (0.57 x 4.57 x 1.84 inches), according to Nitecore's spec sheet. That makes it the lightest and most compact 10,000mAh power bank I can find. Even when  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "0c463e092abf9ef5757f39d7",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -226,20 +254,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "f968ade45628516dbc711abb",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-      "publishedAt": "2026-08-07T22:05:08.000Z",
-      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off.\nRestart is operated by Moonrock, a content marketing agency, though its editorial mission page says it's \"powered\" by Walmart. That page outlines how Walmart is (or was) involved:\nWhen we mention a game, we'll provide purchase links that will take you to Walmart using a partner tracking code. This link provides us with 0% of the sale if you decide to buy the product, but it doe …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "9225547064054f641cd2f621",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -293,20 +307,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "1cX2--OL2L8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "85c5bf6dbdd00f8809b28337",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "publishedAt": "2026-08-07T20:01:51.000Z",
-      "summary": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t\n\nIt took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it as Treblo AI-created. \nIn a reply to a comment pointing out that Tyga admitted to relying on AI for his own controversial '80s-influenced album $tarface, on one of his Instagram posts, Fenix said:\nnever said I didn't use AI , i said it had nun to do w recording process . I didn't even know what da app was till we mixed …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
