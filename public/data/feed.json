@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-08-12T01:50:36.936Z",
+  "generatedAt": "2026-08-12T07:22:33.702Z",
   "items": [
+    {
+      "id": "a0bfc2484a6d0d46e61e6f63",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Blue Lock is REAL?",
+      "url": "https://www.youtube.com/shorts/dTu7zDZK6o8",
+      "publishedAt": "2026-08-12T02:06:49.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "a5e680a01469411d93d1f84b",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Phantom Blade Zero: 11-Minute Extended Gameplay Trailer",
+      "url": "https://www.youtube.com/watch?v=9W07UNNY0ms",
+      "publishedAt": "2026-08-12T02:00:06.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "9W07UNNY0ms",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "e90b751c94cce120957c2fed",
       "sourceId": "the-verge-tech",
@@ -296,20 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "d7b6c81cfdd5d21f782d7fad",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Iron Nest: Heavy Turret Simulator - Official Launch Trailer",
-      "url": "https://www.youtube.com/watch?v=iGdC8ACJxjk",
-      "publishedAt": "2026-08-11T17:00:35.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "iGdC8ACJxjk",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "303ea7ed7d92813922d964da",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "76544933d1ba2d2d53346330",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Control Resonant Wants 'To Challenge' What’s Come Before In Action Games — IGN First",
-      "url": "https://www.youtube.com/watch?v=oZ1si6qAPQg",
-      "publishedAt": "2026-08-11T16:00:32.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "oZ1si6qAPQg",
       "spotifyEpisodeId": null
     }
   ]
