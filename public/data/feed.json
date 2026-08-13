@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-08-13T01:52:54.590Z",
+  "generatedAt": "2026-08-13T07:25:06.909Z",
   "items": [
+    {
+      "id": "c07e67477390ab9b227075db",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Details about Ghost of Yotei's new content",
+      "url": "https://www.youtube.com/shorts/AKy3DK1NJYM",
+      "publishedAt": "2026-08-13T05:00:31.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "bab77a016a07e6966c8d8140",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Lootbound: Official Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=rKQosubGV9U",
+      "publishedAt": "2026-08-13T05:00:28.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "rKQosubGV9U",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "1f4d49d7b593845488aed7e0",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Coyote vs Acme is AMAZING",
+      "url": "https://www.youtube.com/shorts/pNFljbc6gSI",
+      "publishedAt": "2026-08-13T04:59:34.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "c7a44edef61e7f4ed8f83e57",
       "sourceId": "ign-youtube",
@@ -268,20 +310,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "71ed171e7b0176499ccdf9bd",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Final Fantasy Resonance - Official Vision: Shantotto Trailer",
-      "url": "https://www.youtube.com/watch?v=jsVplNxSh9U",
-      "publishedAt": "2026-08-12T17:00:29.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "jsVplNxSh9U",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "3b657035e06c218934de6ba9",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "138810e04971153a1619359a",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "The Sinking City 2 - Official Game Overview Trailer",
-      "url": "https://www.youtube.com/watch?v=PHzSgbFzfDo",
-      "publishedAt": "2026-08-12T15:53:33.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "PHzSgbFzfDo",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "cc28cb6d9ab1d965b145f3a7",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "NHL 27 - Official Connected Franchise Deep Dive Trailer",
-      "url": "https://www.youtube.com/watch?v=dKq0QBsAvCg",
-      "publishedAt": "2026-08-12T15:34:08.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "dKq0QBsAvCg",
       "spotifyEpisodeId": null
     }
   ]
