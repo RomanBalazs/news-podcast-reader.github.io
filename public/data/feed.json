@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-16T06:37:16.902Z",
+  "generatedAt": "2026-08-16T12:36:09.225Z",
   "items": [
+    {
+      "id": "0fff9a0c93c563d3232d9610",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "publishedAt": "2026-08-16T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the incident kicked off a wave of concern over what increa …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "2b6b6c71d0c7f0d94c5c9c41",
       "sourceId": "the-verge-tech",
@@ -234,20 +248,6 @@
       "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
       "publishedAt": "2026-08-15T14:03:14.000Z",
       "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment\t\n\nWith Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then.\nIn addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0eb300237e3d030a7a0f1e1b",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
-      "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-      "publishedAt": "2026-08-15T13:00:00.000Z",
-      "summary": "New plugin support for CrossPoint Reader lets Xteink’s devices access DRM-protected ebooks.\t\n\nOne of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free ebooks on your own. That's about to change, as the developers of CrossPoint Reader, a free alternative firmware for the X3, X4, and X4 Pro, are introducing support for third-party plug-ins that will expand the e-readers' capabilities. One of the first from the community will give the devices access to DRM-protected ebooks borrowed through OverDrive's Libby library app, or pu …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
