@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-17T01:10:57.651Z",
+  "generatedAt": "2026-08-17T06:52:20.498Z",
   "items": [
+    {
+      "id": "216ccb9623bdb79629cd357d",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Victorian Psycho - Official Trailer (2026) Maika Monroe, Jason Isaacs",
+      "url": "https://www.youtube.com/watch?v=6imimPOBOpE",
+      "publishedAt": "2026-08-17T02:00:16.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "6imimPOBOpE",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "8529ea2f6b281b6e42d1cb9d",
       "sourceId": "ign-youtube",
@@ -279,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "EfEUJ3_eXXo",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "70fdff28c2912259de4fb6ad",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Reincarnated as a Sword Season 2 - Official Trailer (English Subtitles)",
-      "url": "https://www.youtube.com/watch?v=-qfSjS7KvI0",
-      "publishedAt": "2026-08-15T23:00:37.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "-qfSjS7KvI0",
       "spotifyEpisodeId": null
     },
     {
