@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-21T01:12:55.604Z",
+  "generatedAt": "2026-08-21T06:43:01.315Z",
   "items": [
+    {
+      "id": "e4efaeda9f147d1481d2cdbc",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
+      "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
+      "publishedAt": "2026-08-21T02:00:00.000Z",
+      "summary": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta looks a lot chunkier than competing controllers. But what really sets it apart is a deeper focus on customizability with numerous settings that can be adjusted using the controller's screen plus buttons and thumbsticks that can be tailored to each player's preferences.\nThe Genki Manta is launching today through a Kickstarter crowdfunding campaign. The earliest backers can preorder the con …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "97959a57cdb33e67bcfc83cd",
       "sourceId": "ign-youtube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "iTB4-eV4sG8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "7ad6e705e26fe175cbf31aaa",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-      "url": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-      "publishedAt": "2026-08-20T15:08:38.000Z",
-      "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of the Thursday, August 20th, which is currently $300 lower than Amazon’s price.\nLG B6 OLED TV\n\nWhere to Buy:\n\n $1999.99 $1699.99 at Amazon (65-inch)\n $1999.99 $1399.99 at Best Buy (65-inch)\n\nAs someone who typically buys midrange tech, I appreciate that LG’s B-series OLEDs are relatively inexpensive compared to the flagship model, yet it doesn’t skimp on many features. The B6 is actually at the bottom of LG’s OLED tiers, but even the lowest-end LG OLED is going to be very good compared to most other non-OLED TVs. It’s less bright than the C6, but it’ll be plenty bright for most people. Plus, it has contrast-rich 4K picture quality, a capable processor to keep apps running smoothly, and 120Hz refresh rate with variable refresh rate support (Nvidia G-Sync and AMD’s FreeSync Premium). All four of its HDMI ports are version 2.1, supporting the full refresh rate and VRR, along with auto low latency mode. One of the ports has eARC for connecting to a soundbar.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/03_ninja_creami_16x9.png\",\n    productImageAlt: \"Ninja NC301 CREAMi Ice Cream Maker\",\n    productTitle: \"Ninja NC301 CREAMi Ice Cream Maker\",\n    shortDescription: \"Seven programs, unlimited combinations, one seriously capable kitchen appliance.\",\n    longDescription:\n      \"The machine that turned homemade frozen desserts into something you actually want to do.The NC301 is not a blender. It is a dedicated frozen treat machine with seven one-touch programs covering ice cream, sorbet, gelato, milkshakes, smoothie bowls, lite ice cream, and mix-ins. You control every ingredient, which means you control every dietary consideration, and the mix-in function lets you fold in whatever you want at the end. Professionally refurbished by Back Market and backed by a one-year warranty and 30-day return policy.\",\n    purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=173843&campaign=VergeHypeDesk&clickref=AugustArticle4&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fninja-nc301-blender%2Fd6824dba-3b3b-45f2-908a-7be191fe91a6%3Fl%3D11\",\n    purchaseLinkText: \"Buy At Back Market\"\n  };\n\n\n\nOther great Verge-approved deals\nDoorDash sells digital video games now. Weird, right? There are plenty of other places to get game downloads, but the delivery service is trying to tempt gamers who subscribe to its premium DashPass membership to give it a shot with a gift card promotion. Through August 31st, you’ll get a $25 DoorDash gift card by purchasing at least $50 in digital games through the “Gaming” section of its site or mobile app. Regular (non-DashPass) members can get a $10 gift card. It’s not a bad incentive if you were already planning on buying games. I’d appreciate if you’d us know how it works out for you in the comments.\nI like pointing readers to deals on the 4K Blu-ray bundle of The Lord of the Rings trilogy whenever possible. While the discs aren’t on sale today, Amazon has all three extended edition films available in a 4K digital bundle for $14.99, which is a tremendous value. I know — not as good as owning them physically. But at least the films are compatible with Movies Anywhere, so you don’t have to view them within the Prime Video app.\nWe’re coming up on the final day to snag the 2K Megahits 2026 Bundle at Humble Bundle. The digital Steam game set costs $15 and includes games like BioShock Infinite, The Quarry, Borderlands 3, and a lot more. The sale ends Friday, August 21st, so jump on this sale if you enjoy the likes of replay-worthy first-person shooters, great multiplayer roguelites, and more. Proceeds for the sale will go to Covenant House, which provides food, shelter and crisis care for unhoused and trafficked youth.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
