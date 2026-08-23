@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-23T06:38:21.002Z",
+  "generatedAt": "2026-08-23T12:36:47.342Z",
   "items": [
+    {
+      "id": "85881c5e52a1dcc1db63840e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "publishedAt": "2026-08-23T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nFour years ago, fans got a long-awaited look at Grand Theft Auto VI with a huge cache of videos that showed off Rockstar's latest open-world epic. There were 90 videos in total, providing a glimpse at the next-generation take on Vice City, introducing the game's new dual protagonists, and generally showing off the crime-fueled mayhem the series is known for.  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "517a2c1e592f2e631e99eac0",
       "sourceId": "ign-youtube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "nGWMcJXkJ78",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "6eb6ed39cd7b68119ab31ae1",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
-      "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-      "publishedAt": "2026-08-21T18:00:00.000Z",
-      "summary": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for as long as supplies last at your local store, so you might want to plan on getting there no later than opening time to boost your chance of getting one.\nThere are some limitations on how you can use the gift card. You can’t use them to buy other gift cards, like iTunes or Google Play credit, and they also can’t be used to buy prepaid or open-loop debit cards. However, they can be used in combination with other discounts or promotions on products from Best Buy, and any returns or cancellations you make will credit back to the gift card.\nWe’ve found a number of deals during Best Buy’s 60th anniversary sale that you can apply that gift card to. The iPad Air M4 dropped to $649, the lowest we’ve seen since the prices went up this summer, and the AirPods Max 2 are only $429, $120 lower than their usual price. There are a variety of discounts on Windows and macOS laptops too, like this HP OmniBook X Flip 2-in-1 for $749.99, a $450 discount from the typical price.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
