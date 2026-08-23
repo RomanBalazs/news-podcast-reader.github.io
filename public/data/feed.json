@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-08-23T12:36:47.342Z",
+  "generatedAt": "2026-08-23T18:27:03.576Z",
   "items": [
+    {
+      "id": "45ac7aa701a36f2976e4db1a",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Verse Project - Official Reveal Trailer",
+      "url": "https://www.youtube.com/watch?v=LED7cBlWgrg",
+      "publishedAt": "2026-08-23T18:00:14.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "LED7cBlWgrg",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "df80ab2494eca0e6846b185a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. \nWe are immediately introduced to our protagonist, Casey, as she engages in the World's Fair Challenge, a sort of ARG creepypasta meets ice bucket challenge. There's a creepy mantra, some bloodletting, and a mysterious video - basically a speedrun of horror movie tropes. But having them all delivered by this young girl alone in her room who just stares directly in …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "85881c5e52a1dcc1db63840e",
       "sourceId": "the-verge-tech",
@@ -104,7 +132,7 @@
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
       "type": "video",
-      "title": "Tetsuya Nomura Promises KH4 in 2027 - Unlocked Clips",
+      "title": "Breaking Down the Kingdom Hearts 4 - Unlocked Clips",
       "url": "https://www.youtube.com/watch?v=AhKAMbfgzyk",
       "publishedAt": "2026-08-22T14:00:22.000Z",
       "summary": null,
@@ -296,20 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "f498b2c5ba8b244a443dda35",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-      "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-      "publishedAt": "2026-08-21T19:44:55.000Z",
-      "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut.\nApple said in a statement to Bloomberg it was making the changes to \"to evolve our business to deliver the best experiences for our users,\" though it will be making new roles. The company didn't immediately reply to a request for comment from The Verge.\nThe Vision Pro launched in early 2024 as Apple's big bet on \"spatial computing,\" but the $3,499 headset doesn't …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "9c7698d16b9e76f7a8f76d67",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "ZeisjLTqshg",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "5c05e02693e50b8a6db6a5b3",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Capote - Official 1.0 Launch Trailer",
-      "url": "https://www.youtube.com/watch?v=nGWMcJXkJ78",
-      "publishedAt": "2026-08-21T18:00:03.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "nGWMcJXkJ78",
       "spotifyEpisodeId": null
     }
   ]
