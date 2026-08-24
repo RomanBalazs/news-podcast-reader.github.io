@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-08-24T06:55:35.236Z",
+  "generatedAt": "2026-08-24T12:47:08.657Z",
   "items": [
+    {
+      "id": "1898a8f722c5419174a80b69",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+      "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+      "publishedAt": "2026-08-24T11:37:53.000Z",
+      "summary": "The Razr Ultra line is among those due to receive GrapheneOS support next year. | Photo: Allison Johnson / The Verge\t\n\nGrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. \nIn a Mastodon thread, the GrapheneOS Foundation announced that it will initially support a Motorola slab flagship phone, but will later support both Razr Fold and Razr Ultra foldables - the latter of which would be the first flip phone to officially run GrapheneOS.\nGraphene has always had stringent security standards when it com …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ae477b8cb6edd544b35d564c",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Hunt: Showdown 1896 - Exclusive Teaser",
+      "url": "https://www.youtube.com/watch?v=zQdwC2c27iI",
+      "publishedAt": "2026-08-24T11:00:14.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "zQdwC2c27iI",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "dad9edb89e62ba2d5c115739",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The Sinking City 2 Video Review",
+      "url": "https://www.youtube.com/watch?v=2I0gQyHSXWg",
+      "publishedAt": "2026-08-24T10:45:25.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "2I0gQyHSXWg",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "2ecc12648348f02f34181f33",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "publishedAt": "2026-08-24T09:10:40.000Z",
+      "summary": "Tiangong Ultra (left) also broke the 400 meter world record during this year’s World Humanoid Robot Games. | Image: Lintao Zhang/Getty Images\t\n\nThe 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation ​Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 seconds.\nIt's one of several notable achievements to take place at the event, which can best be described as a sort of annual robot olympics that's designed to showcase advancements in bipedal bot technology. After launching in 2025, 2,056 robots from 16 countries are participating in this year's  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "8a187499eb250cdb516826d7",
       "sourceId": "the-verge-tech",
@@ -226,34 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "34ec8ed7ee7ecef1d9c8a75f",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "publishedAt": "2026-08-21T22:14:11.000Z",
-      "summary": "The HoverAir Versa. | Image: HoverAir\t\n\nI am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping plans in the US.\nHoverAir is now telling backers it's only shipping its camera to the US, not the piece that turns it into a drone, \"due to a few remaining logistics updates with the Flight Kit.\" But those \"logistics\" may actually be a euphemism for \"we've been banned by the federal government.\" The FCC's database no longer has an entry for …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "92e4db7feaaf39e890d94e36",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "publishedAt": "2026-08-21T22:13:34.000Z",
-      "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts when parents requested.\nTikTok is set to pay $300 million right away and will pay a further $100 million \"upon entry of an order vacating a prior consent decree entered against TikTok's predecessor, Musical.ly,\" the DOJ says in a press release. The settlement is \"one of the largest recoveries ever o …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "ef28baab84a18c502a92646f",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "7qoZivHdxW4",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9c7698d16b9e76f7a8f76d67",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Cyberpunk: Edgerunners 2 - Official Teaser Trailer #3 (2026)",
-      "url": "https://www.youtube.com/watch?v=r9vcNBthiM0",
-      "publishedAt": "2026-08-21T19:16:15.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "r9vcNBthiM0",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "95af1d626ab03cd53bd2e4fd",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "CODNext Showcase 2026 | Call of Duty: Modern Warfare 4",
-      "url": "https://www.youtube.com/watch?v=ZeisjLTqshg",
-      "publishedAt": "2026-08-21T18:07:49.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "ZeisjLTqshg",
       "spotifyEpisodeId": null
     }
   ]
