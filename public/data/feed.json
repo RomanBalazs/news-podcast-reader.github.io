@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-30T20:36:56.013Z",
+  "generatedAt": "2026-08-31T03:50:50.742Z",
   "items": [
+    {
+      "id": "37515a1d8658e482cd98a2e9",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "publishedAt": "2026-08-30T21:18:59.000Z",
+      "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you to let loose, dance like no one was watching, and just have some damn fun. Few embodied that as much as New York dance punk band Professor Murder.\nLCD Soundsystem and The Rapture were the biggest names of the dance punk revival. But there were also bands like Rahim, Liars, Dan Deacon, and countless lesser-known acts on DFA that you could see on any giv …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "ee821ef2b51871cb5118f1dc",
       "sourceId": "ign-youtube",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "publishedAt": "2026-08-29T18:19:53.000Z",
       "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount.  \nThis is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion. It's also faced multiple la …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "32b7b8d061911dc6e9186dd2",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
-      "publishedAt": "2026-08-29T16:01:13.000Z",
-      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text drafting. Certain users, though, need more. They want BYOK to take notes, they want to use it for writing screenplays, or maybe they want to organize a sprawling novel. \nBalancing the wants and needs of these more demanding users has been a challenge that BYOK founder Nick Sjolinder has been trying to figure out how to tackle. …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
