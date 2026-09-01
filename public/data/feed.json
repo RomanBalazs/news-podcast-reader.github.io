@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-31T22:30:18.993Z",
+  "generatedAt": "2026-09-01T03:43:34.053Z",
   "items": [
+    {
+      "id": "bceb9362595f5edd50ec37bd",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The Google TV Streamer now costs $50 more",
+      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "publishedAt": "2026-08-31T22:32:51.000Z",
+      "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. \nThe price hike comes just a couple of weeks after Google launched its new lineup of Pixel 11 phones with a $100 price hike over their Pixel 10 counterparts. \nThe Google TV Streamer originally launched in 2024 and doubles as a smart home hub. It isn't the only streaming device getting more expensive - component shortages have been driving up prices on everything from laptops to game consoles. Earlier this month, Amazon incre …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "85a5110723eb2e7bf3ca2536",
       "sourceId": "the-verge-tech",
@@ -205,7 +219,7 @@
       "title": "Markiplier is now GoPro’s biggest shareholder",
       "url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
       "publishedAt": "2026-08-31T16:38:10.000Z",
-      "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to make filmmaking more accessible,\" following the release of his first feature film, Iron Lung, earlier this year. \nFishbach posted a video last week praising GoPro's new Mission 1 ILS camera and comparing it to the pricier Red Komodo-X, saying he plans to use the Mission 1 ILS in future movies. It includes an affiliate code for the new camera, but …\nRead the full story at The Verge.",
+      "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to make filmmaking more accessible,\" following the release of his first feature film, Iron Lung, earlier this year. \nFischbach posted a video last week praising GoPro's new Mission 1 ILS camera and comparing it to the pricier Red Komodo-X, saying he plans to use the Mission 1 ILS in future movies. It includes an affiliate code for the new camera, bu …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -276,20 +290,6 @@
       "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
       "publishedAt": "2026-08-31T15:34:58.000Z",
       "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\"\nThe project's voting developers considered several other proposals on how to handle AI, including some that would have banned contributions made using AI tools. As It's FOSS reports, some users and contributors aren't happy with the policy, includi …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "1826698fc3063a9dc1cb3a4b",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sony’s WH-1000XM5 headphones are back down to their lowest price",
-      "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
-      "publishedAt": "2026-08-31T15:31:59.000Z",
-      "summary": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best sound quality and active noise cancelling, and are down to $198 at Amazon and Best Buy. Originally $399.99, they typically sell for around $250, and this $50 price drop brings them back down their Prime Day 2026 price we saw in late June. However, this time you don’t need a Prime subscription to save.\nSony WH-1000XM5\n\nWhere to Buy:\n\n $399.99 $198 at Amazon\n $399.99 $198 at Best Buy\n\nThe XM5 launched in 2022, but don’t let their age fool you into thinking these aren’t great headphones by modern standards. While the newer XM6 from 2025 offer slight improvements to sound and noise cancellation (and brought back the compact folding design from the XM4 and earlier), the XM5 are still a fantastic value. Sony is rumored to be reintroducing its XM4 headphones with a friendlier price tag —they launched in 2020 for $349.99— though it’s doubtful that they’ll be as affordable as the XM5 currently is. Read our review.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Dell_XPS_13_Hype_Desk_16x9.png\",\n    productImageAlt: \"Dell XPS 13\",\n    productTitle: \"Dell XPS 13\",\n    shortDescription: \"A premium ultraportable at a starting price that doesn't feel premium.\",\n    longDescription:\n      \"The thinnest, lightest XPS yet, without cutting anything you'd miss. At just 2.2 pounds and 0.5 inches thin, the new XPS 13 keeps the premium CNC-aluminum build the line is known for, at a surprisingly accessible starting price. The 13.4-inch 2.5K touchscreen runs a smooth 30–120Hz refresh rate, everyday essentials are covered with Wi-Fi 7 and Windows Hello, and the quad-speaker Dolby Atmos setup delivers genuinely impressive audio for something this thin.\",\n    purchaseUrl: \"https://www.tkqlhce.com/click-8836598-12839518?sid=VergeHypeDeskArticle12Newsletter1DellAugust2026&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fnew-xps-13-laptop%2Fspd%2Fxps13dx13260laptop\",\n    purchaseLinkText: \"Shop At Dell\"\n  };\n\n\n\nOther great Verge-approved deals\nToday is your final day to grab a Nintendo Switch 2 at its original $449.99 price. It’ll go up to $499.99 for the base model starting September 1st, and bundles launching this fall will cost up to $549.99. I wouldn’t call it a deal to get one for its usual price today, but it’ll look like one in hindsight. With Nintendo’s controllers and other accessories costing quite a bit a more than their last-gen counterparts, grabbing hardware ahead of the price increase is a smart move. The console is available at Amazon and Best Buy. Alternatively, you can grab a bunch of discounted Nintendo gift cards at Newegg or Costco until you have enough credit added to your Nintendo account to get a system.\nThe Matic robot vacuum is getting a $250 price increase on September 9th, so this is just a reminder that your time is running low to consider getting one at its original cost. Currently $1,245 through Matic, it’ll rise to $1,495 due to rising costs for memory and other components. Your purchase will come with a year’s worth of replacement bag shipments (a $96 value). Also, Matic has increased its return policy from 60 days to six months. My colleague Jennifer recently tested out Matic Cues, its new gesture and voice control features that further set the Matic out from the crowd of robot vacuums.\nPlenty of Sonos gear (in white or black) is discounted at Best Buy ahead of Labor Day. The sale has a home theater focus, and includes the company’s current range of products. Starting with subwoofers, its Sub Mini is down to $399.99 ($100 off) while the more powerful Sub 4 is $759, a $140 price drop. Most of its soundbars are cheaper, too, including the Sonos Arc Ultra for $899 ($200 off) and the Beam Gen 2 for $399 ($100 off). Also, its powerful Era 300 smart speaker that can add some serious power to your entertainment center setup is $379, $100 off. You know the prices are good when the new gear costs about the same as Sonos’ refurbished products (or less, in some cases).",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
