@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-02T20:32:25.634Z",
+  "generatedAt": "2026-09-03T03:03:19.695Z",
   "items": [
+    {
+      "id": "759c53ef79540b61717412e6",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "publishedAt": "2026-09-02T23:00:00.000Z",
+      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. \nThe launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. In beating Waymo to the punch, it allows Uber to set the standard for the robotaxi experience for thousands of Londoners. It's also an early test of whether there's appetite for driverless ridehailing beyond the US and China, where most of the world's robotaxis are currently clustered. (There's a smattering in  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "3e9b9b34106b310c3fb50faf",
       "sourceId": "the-verge-tech",
@@ -248,20 +262,6 @@
       "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
       "publishedAt": "2026-09-02T15:47:03.000Z",
       "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice:\nFirst up on September 5 is a new MrBeast video following Jimmy and his crew as they attempt to survive some of the most extreme and treacherous climates on Earth. Teams will race to navigate three of the planet's most unforgiving landscapes - the jungle, the desert, and the Arctic - using Gemini to help them identify dangers, survive brutal weather changes, and stay one step ahead.\nGoogle  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c530b88c5a3da86756f4c3f4",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Google dodges another breakup attempt",
-      "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-      "publishedAt": "2026-09-02T15:42:17.000Z",
-      "summary": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.\nBrinkema said she would adopt most of the behavioral changes proposed by the parties, with some modifications. But those won't become public until the parties meet to work out any additional proposed revisions and to review the judge's opinion for confidential information that must be redacted. They could include proposals like restricting Google from using self-preferencing ad auction tactics or letting third-p …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
