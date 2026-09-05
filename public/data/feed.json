@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-04T20:19:18.862Z",
+  "generatedAt": "2026-09-05T03:05:13.770Z",
   "items": [
+    {
+      "id": "6fbb669736a76f557d66e79a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "publishedAt": "2026-09-04T21:23:50.000Z",
+      "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed \"world's most popular audio editing and recording app\" are here, turning Audacity from a free and capable but extremely clunky audio editor into a powerful modern tool. \nThe biggest change is the move to a non-destructive editing workflow. That means you can trim a clip down, then recover the audio simply  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "365d7f3479ba74cea77ec6e4",
       "sourceId": "ign-youtube",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
       "publishedAt": "2026-09-04T14:29:44.000Z",
       "summary": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. \nImages recently leaked showing a special-edition 40th anniversary Zelda Switch 2 console and controller, plus there's the Ocarina of Time remake that's on the way, as well as the live-action Zelda movie expected to hit theaters sometime next year.\nThe next day, Nintendo is also running a regular Direct showcase at 10AM ET / 7AM PT that will run for around 45 mi …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ccb3dde4485d249e07c569cc",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "publishedAt": "2026-09-04T13:34:12.000Z",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. \nThe incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
