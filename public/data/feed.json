@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-09-07T17:17:46.624Z",
+  "generatedAt": "2026-09-07T21:08:55.374Z",
   "items": [
+    {
+      "id": "f7aab9a235b17fbd4d9d89d7",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+      "url": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+      "publishedAt": "2026-09-07T20:03:41.000Z",
+      "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price.  \nSurprisingly, here comes Audi to split the difference. The German automaker's new A2 E-tron compact crossover is inexpensive, starting at just £32,200 (about $45,000). And it absolutely impresses with an ultra low drag coefficient and a range of battery and drivetrain options that, when configured correctly, can produce a range of …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "13be471edda278c850709ac7",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Marvel Tokon: Fighting Souls - Official Champion Character Guide",
+      "url": "https://www.youtube.com/watch?v=btVbFa7gPKQ",
+      "publishedAt": "2026-09-07T18:18:49.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "btVbFa7gPKQ",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "062407bfb85da1879e00aebf",
       "sourceId": "ign-youtube",
@@ -310,20 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "25426ca476dc19d5567f885c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-      "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-      "publishedAt": "2026-09-06T13:00:00.000Z",
-      "summary": "Repairability rules.\t\n\nThe Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled.\nThe mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot of sacrifices, like putting up with underpowered processors and bad cameras, in order to embrace the sustainability mission. The latest generations of Fairphone have inched toward closing that gap, and the 6 Plus achieves two huge milestones: It feels very much like using a middling Android phone, and it's actually on sale in the US.\nThe 6 Plus is a …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "a3afb1e56b7b7f92617de823",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "yWqHB59QShI",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d9b16e7df9460653c30f60c3",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Tulpa the Unseen Lover - Official Announcement Trailer",
-      "url": "https://www.youtube.com/watch?v=Mb78_gAbEG4",
-      "publishedAt": "2026-09-06T00:00:18.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "Mb78_gAbEG4",
       "spotifyEpisodeId": null
     }
   ]
