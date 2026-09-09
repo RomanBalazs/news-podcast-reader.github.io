@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-09-08T20:45:09.751Z",
+  "generatedAt": "2026-09-09T03:14:48.166Z",
   "items": [
+    {
+      "id": "c1333ffdd11adafacca99978",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+      "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+      "publishedAt": "2026-09-08T21:52:13.000Z",
+      "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong.\nOriginally, it sounded like the division's president said the Thalgau plant would produce 90 percent fewer discs in 2028 - but the reality is it will only produce 10 percent fewer discs in 2028, an unnamed Sony DADC spokesperson told Game journalist Brian Crecente. \n\"To clarify and avoid any misleading informa …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9eae6868e8384e61ddbac65e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "publishedAt": "2026-09-08T20:53:52.000Z",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c86a34663f490f3b091fe134",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
+      "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+      "publishedAt": "2026-09-08T20:46:56.000Z",
+      "summary": "Rivian's futuristic e-bike is delayed, and customers are not happy. \nLast year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controlled pedal-by-wire system, the TM-B set itself apart with a totally unique approach to electric bicycle design. It's not an exaggeration to say that nothing else looked like this bike. \nBut that list of high-tech features is creating unexpected bottlenecks for Also's product team. The company had originally said customer deliveries would start in …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "6a172f530d3c48243944e8c1",
       "sourceId": "the-verge-tech",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "tfiUoqlME8w",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "74543bc33dba7a4888a95b6c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Pusheen’s first game is coming to Apple Arcade",
-      "url": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-      "publishedAt": "2026-09-08T15:07:13.000Z",
-      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat.\nIn the mix of minigames, you'll \"sort color cakes in Snack Stack,\" \"pop cute Pusheen fruit bubbles in Parfait Pop,\" \"make delicious matches and blast blockers in Batch Match,\" and solve puzzles, according to the game's description on the App Store. The game's developers will also continue to add \"more Pusheens, decor themes, games and features\" over time …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "cf521ab9ba123efe43581837",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-      "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-      "publishedAt": "2026-09-08T15:03:07.000Z",
-      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to the soundbar. When detached, the battery-powered (and mountable) speakers can be placed anywhere, lasting for up to ten hours before needing to recharge. If you’re seeking this kind of versatility, you might be pleased to know that the system has been steeply discounted at Amazon, costing $549.99 (originally $899.99).\nJBL Bar 700 Mark 2\n\nWhere to Buy:\n\n $900 $550 at Amazon\n\nThe Bar 700 Mark 2 seems impressive on multiple fronts. The main soundbar component offers 7.1 channels, including two tweeters that fire to the side to bounce around audio with Dolby Atmos and DTS Virtual:X content. It offers vastly superior connectivity compared to some similarly-priced options, with HDMI in (with HDR 10 Plus and Dolby Vision passthrough), HDMI out with ARC and eARC support, plus optical audio. The set includes a wireless subwoofer, plus mounts.\nOne of the most appealing use cases for the Bar 700 Mark 2 is bringing one of its satellites with you around your house or apartment so you don’t totally miss out on the action. If the speaker’s battery is running low before you’re ready to return it to the soundbar, you can easily recharge it just by plugging in a USB-C power source.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Dell_Alienware_AW3225QF_Hype_Desk_16x9.jpg\",\n    productImageAlt: \"Alienware 32 4K QD-OLED Gaming Monitor\",\n    productTitle: \"Alienware 32 4K QD-OLED Gaming Monitor\",\n    shortDescription: \"Sharp, fast, and built for serious screen time.\",\n    longDescription:\n      \"4K resolution and 240Hz, without picking one over the other. The 31.6-inch QD-OLED panel pairs sharp 4K detail with a 240Hz refresh rate and a 0.03ms response time for genuinely responsive competitive play. A curved 1700R design, Dolby Vision, and 99% DCI-P3 color coverage make everything on screen feel more immersive, and HDMI 2.1 plus G-SYNC compatibility make it just as strong a fit for consoles as it is for PC.\",\n    purchaseUrl: \"https://www.dpbolvw.net/click-8836598-12839518?sid=VergeHypeDeskArticle56Newsletter3DellAugust2026&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Falienware-32-4k-qd-oled-gaming-monitor-aw3225qf%2Fapd%2F210-blmq%2Fmonitors-monitor-accessories%3Futm_source%3Dchatgpt.com\",\n    purchaseLinkText: \"Shop At Dell\"\n  };\n\n\n\nOther great Verge-approved deals\nThrough September 13th, Statik and KeySmart are offering great Labor Day deals on a range of products, including MagSafe car chargers, nifty power banks with swappable charging ports, magnetic cables that don’t tangle, and several unique form factors of Bluetooth item trackers. It’s the best kind of sale, one where no offer code is required to save. One of the most interesting products that’s available for less is the SmartCharge Gen 2, a 10,000mAh battery that has two built-in USB-C cables (up to 22.5W charging speed), an Apple Watch-ready wireless charging pad and extra USB ports. Best of all, it has fold-in prongs that let you easily recharge it.\nA fantastic deal is happening at Green Man Gaming for those who want to get the trilogy of Final Fantasy VII remakes. It’s offering Steam keys for all three games, including a preorder for Revelations coming April 8th, 2027, for $84.99. I managed to get the price knocked down to $72.24 by entering the code SEP15 at checkout, but results may vary. Either way, it’s a huge savings considering that Revelations alone costs $69.99 to preorder you’ll instantly get access to Intergrade and Rebirth for less than $20. You’ll get instant access to the two titles that are currently available.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "b2d0d495914ee43fa72b93e3",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Nintendo’s Ocarina of Time remake launches in November",
-      "url": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
-      "publishedAt": "2026-09-08T14:26:02.000Z",
-      "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles launching in the same month as Grand Theft Auto VI.\nNintendo first teased the remake in June, though it didn't reveal much aside from a brief trailer. Today's event provided a clearer glimpse at how the company is approaching remaking one of its most influential games and the first 3D Zelda adventure. The updated version of Ocarina of Time will be  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
