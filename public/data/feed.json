@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-10T20:27:27.122Z",
+  "generatedAt": "2026-09-11T03:10:12.480Z",
   "items": [
+    {
+      "id": "b50c6b403a15f1485e639222",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "publishedAt": "2026-09-10T21:25:21.000Z",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "f4ee25cd35deec62d7a56708",
       "sourceId": "the-verge-tech",
@@ -177,7 +191,7 @@
       "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
       "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
       "publishedAt": "2026-09-10T15:00:00.000Z",
-      "summary": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't necessarily a bad thing (the SE 3 rules). Also, no price changes either, which can't be said for the entire iPhone lineup.\nWhile both new watches look similar to their predecessors, there are a number of updates under the hood that might intrigue some people enough to warrant a preorder. My colleague Victoria Song got hands-on with both smartwatches, …\nRead the full story at The Verge.",
+      "summary": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't necessarily a bad thing (the SE 3 rules). Also, no price changes either, which can't be said for the entire iPhone lineup.\nWhile both new watches look similar to their predecessors, there are a number of updates under the hood that might intrigue some people enough to warrant a preorder. My colleague Victoria Song got hands-on with both smartwatches  …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -265,20 +279,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "imkYC-3atOQ",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "851d6decaa9657895ec12b87",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "How the iPhone Duo compares to other folding phones",
-      "url": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
-      "publishedAt": "2026-09-10T14:00:00.000Z",
-      "summary": "The Apple iPhone Duo features a passport-style folding hinge. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nApple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Google, with a $1,999 price tag that sits just above the Pixel 11 Pro Fold and Galaxy Z Fold 8. \nWhile its hardware bears similarities to its competitors, the iPhone Duo is one of a few models that takes a passport-like approach. The aspect ratio is the same on the inside and outside screens, and it's even usable with some apps while partially folded. The interior screen has a special outer layer, which along with its hinge design, makes the interior …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
