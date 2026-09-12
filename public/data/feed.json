@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-11T20:30:12.510Z",
+  "generatedAt": "2026-09-12T03:16:02.215Z",
   "items": [
+    {
+      "id": "0b0190de5e9ab6377a4adb05",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "publishedAt": "2026-09-11T20:44:02.000Z",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "eaee9b8fa9dd6ecc2706159b",
       "sourceId": "ign-youtube",
@@ -248,20 +262,6 @@
       "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
       "publishedAt": "2026-09-11T14:43:26.000Z",
       "summary": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds for more than just taking calls; The Liberty 5 Pro have fantastic audio once you make some tweaks in their app, and they stand out thanks to an IP55 rating and LDAC high-res audio codec support on Android.\nWhat’s more, they’re typically cheaper than the competition at $169.99, but you can snag them for $149.99 at Amazon, Best Buy, and at Anker. They come in four colors (black, blue, white, pink), and include a screen-equipped charging case that lets you make adjustments to active noise cancellation, sound profiles, speak-to-chat and enabling Dolby Atmos head tracking. Your mileage may vary with the usefulness of the case, but it’s nice not to have to use the app for quick tweaks.\nSoundcore Liberty 5 Pro\n\nWhere to Buy:\n\n $169.99 $149.99 at Amazon\n $169.99 $149.99 at Anker\n $169.99 $149.99 at B&H Photo\n\nI’ve been eagerly awaiting any sort of deal on the Liberty 5 Pro since John’s review dropped. Clearly, Anker caught wind of its success and kept them locked at $170 for months (not even a small price drop during June’s Prime Day sale). What could have lead to the price drop? Likely the debut of the AirPods 5 that start at $129 but have a more feature-rich version that’s $20 more — the same current price as Anker’s Liberty 5 Pro. Read our review.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SCR-20260902-lfhb.jpeg\",\n    productImageAlt: \"CORSAIR GALLEON 100 SD\",\n    productTitle: \"CORSAIR GALLEON 100 SD\",\n    shortDescription: \"The Corsair Galleon 100 SD combines a premium mechanical gaming keyboard with built-in Stream Deck controls, and it is $50 off through September 13.\",\n    longDescription:\n      \"The Corsair Galleon 100 SD pairs 12 customizable LCD keys, two rotary dials, and a display with hot-swappable MLX Pulse switches, up to 8,000Hz polling, and a dedicated Game Mode. Its built-in Stream Deck lets you control games, Discord, Spotify, streaming tools, and system functions directly from the keyboard. It is on sale for $299.99 through September 13, a $50 discount. Purchase it from Corsair.com in September and Corsair will also email you a $20 coupon for a future eligible gaming gear purchase after your order ships.\",\n    purchaseUrl: \"https://go.corsair.com/c/482924/490888/8513?subId1=VergeHypeDesk&subId2=CorsairArticle1&u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fkeyboards%2FCH-912A31I-NA%2Fgalleon-100-sd-stream-deck-integrated-mechanical-keyboard-ch-912a31i-na&partnerpropertyid=7032191\",\n    purchaseLinkText: \"BUY AT CORSAIR\"\n  };\n\n\n\nHere are three more great deals\nThose shopping for a battery-powered video doorbell may want to consider the second-gen Ring Battery Doorbell Pro, which is steeply discounted at Wellbots thanks to an exclusive offer code for Verge readers. Currently $249.99 at Amazon, the 4K-enabled doorbell with 10x digital zoom is $149.99 with code 100VERGERING used at checkout. This price, frankly, spanks the previous lowest price of $179.99 at Amazon we saw in late August. You can read more about Ring’s latest generation of battery doorbells in our coverage. But put simply, they’re sleeker, more capable, and still come with a removable, rechargeable battery.\nI’m hyped for Control Resonant, the follow-up to Remedy’s brilliant Control. It launches on September 24th, and you can get $12 off Steam preorders at Newegg. The game will debut for $59.99, but the code CNTRLXV used at checkout knocks it down to $47.99, which is the best price I’ve seen. It’s not tough to find the game at other key sellers for around $50, though. While it’s a direct sequel, it’s also the latest addition to Remedy’s connected universe that canonically includes Alan Wake titles. Here’s our hands-on from Summer Game Fest.\nWhile we’re on the topic of games, we recently covered that Walmart was discounting preorders for the physical version of The Legend of Zelda: Ocarina of Time remake for Switch 2. Well, that also extends to Amazon, which is selling it for $59.99, a discount you’ll see at checkout. The cartridge version typically costs $10 more than digital — a change that Nintendo made earlier this year — but both retailers have a reputation for eating the price hike during the preorder phase for Nintendo Switch 2 titles.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "2b40bb5b9cd7f7bd49b0e9cf",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "publishedAt": "2026-09-11T14:25:21.000Z",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should have prompted the individual with questions like that.\"\nLast week, Instagram user Kalie Robins posted a video explaining how Meta AI presented her with an invasive suggestion after cross-posting a clip to Facebook. The AI prompt, \"Who is the child passenger?\" appeared beneath a video of her and her child sin …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
