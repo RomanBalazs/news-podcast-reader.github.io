@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-09-13T03:20:19.012Z",
+  "generatedAt": "2026-09-13T11:09:20.040Z",
   "items": [
+    {
+      "id": "20b35914af8cafbf8f1040a8",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "World of Warcraft - Official Talebound Story Trailer",
+      "url": "https://www.youtube.com/watch?v=IZOtbd0dsLQ",
+      "publishedAt": "2026-09-13T00:09:23.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "IZOtbd0dsLQ",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "195a37f3b601cffa9867275c",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Diablo Himself Returns in Diablo 4 | Season 15 Gameplay",
+      "url": "https://www.youtube.com/watch?v=DQpmhw46EUY",
+      "publishedAt": "2026-09-12T23:39:48.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "DQpmhw46EUY",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f30ec0ef07120b1403989720",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Minecraft - Official Transformers Add-On Trailer",
+      "url": "https://www.youtube.com/watch?v=OF4CjwhallA",
+      "publishedAt": "2026-09-12T22:04:01.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "OF4CjwhallA",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "1d18e5a300c8e3beceec9caf",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Alkimya: House of Wisdom - Official Announcement Trailer",
+      "url": "https://www.youtube.com/watch?v=ZET65pBY6yk",
+      "publishedAt": "2026-09-12T22:00:38.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "ZET65pBY6yk",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "f345ab736729e11bbb2cbb0f",
       "sourceId": "the-verge-tech",
@@ -27,6 +83,34 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "4c99eddc17ea2d3ff6c0c361",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "World of Warcraft: Forever - Official Gameplay Trailer | BlizzCon 2026",
+      "url": "https://www.youtube.com/watch?v=h54n2ghBhFM",
+      "publishedAt": "2026-09-12T20:24:09.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "h54n2ghBhFM",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "44b82403cbde79b722e852bf",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "World of Warcraft: Forever - Official New Horizons Cinematic Trailer | BlizzCon 2026",
+      "url": "https://www.youtube.com/watch?v=ubf2XFWyPfk",
+      "publishedAt": "2026-09-12T20:18:36.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "ubf2XFWyPfk",
       "spotifyEpisodeId": null
     },
     {
@@ -170,20 +254,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "2eb191362fccd737d9ae63d4",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "\"I Was Naive\" | Resident Evil's Zach Cregger Underestimated Fans' Hunger for Leon's Story",
-      "url": "https://www.youtube.com/watch?v=QQqAhCL3wDM",
-      "publishedAt": "2026-09-12T17:09:43.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "QQqAhCL3wDM",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "6c50d141ff7801de6ca7355f",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -212,20 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "9ebdd1ab3a0109742b92b928",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Professional Ship Simulator: Official Gameplay Explainer",
-      "url": "https://www.youtube.com/watch?v=shoCIw8rTb8",
-      "publishedAt": "2026-09-12T16:00:07.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "shoCIw8rTb8",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "0fd6faf4699fc8788c2cb612",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -251,34 +307,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "30c627cb9914147f28915adc",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "The 40 Biggest Changes in the Zelda: Ocarina of Time Gameplay",
-      "url": "https://www.youtube.com/watch?v=_T_-XYGiCas",
-      "publishedAt": "2026-09-12T13:15:21.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "_T_-XYGiCas",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "5a0799d5ed094ae96101fe23",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Zeverland Allows You to Craft Your Own Zombie Once You Become Infected | gamescom 2026",
-      "url": "https://www.youtube.com/watch?v=6zsDjGcnNTY",
-      "publishedAt": "2026-09-12T13:00:30.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "6zsDjGcnNTY",
       "spotifyEpisodeId": null
     },
     {
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "454ff8ac57f3c50d756217e0",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Marvel's Wolverine feels a bit dated",
-      "url": "https://www.youtube.com/shorts/F0hSxmEGGak",
-      "publishedAt": "2026-09-12T01:50:39.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0acedd29af67b07e56f67dd0",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "GTA 6's phones are more realistic... Presented by @hyperx Upgrade your headset now",
-      "url": "https://www.youtube.com/shorts/2UD6eW28U6k",
-      "publishedAt": "2026-09-12T01:49:58.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
