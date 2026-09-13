@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-09-12T20:12:49.364Z",
+  "generatedAt": "2026-09-13T03:20:19.012Z",
   "items": [
+    {
+      "id": "f345ab736729e11bbb2cbb0f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "publishedAt": "2026-09-12T21:41:36.000Z",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "b9fd589341e0413bbaafec35",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "publishedAt": "2026-09-12T21:16:28.000Z",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that \"there are risks we should not be able to incur on behalf of humanity.\"\n\"We're not rushing into an IPO. I actually think that, given everything happening with safety, th …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "992578f5787b6c3c2b3c802d",
       "sourceId": "the-verge-tech",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0b0190de5e9ab6377a4adb05",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "publishedAt": "2026-09-11T20:44:02.000Z",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c34e4f8ba57c424e8271ae5a",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-      "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-      "publishedAt": "2026-09-11T17:16:59.000Z",
-      "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X, which the official WordPress account shared and Mullenweg reposted.\n\n\nI'm relieved and pleased to see Matt Mullenweg return as CEO of Automattic, the largest financial contributor to the WordPress project. Having WordPress's Co-founder and Project Lead at the helm gives me confidence that their support will remain strong. Matt has my support.\n- Mary Hubbard (@4thhubba …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
