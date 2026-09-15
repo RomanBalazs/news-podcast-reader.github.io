@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-09-15T03:33:00.481Z",
+  "generatedAt": "2026-09-15T11:08:42.143Z",
   "items": [
+    {
+      "id": "9eb3ada13b959735ffb08c1a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "GM updates its trucks’ native software to coexist with CarPlay",
+      "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+      "publishedAt": "2026-09-15T11:00:00.000Z",
+      "summary": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is notable given GM's previously stated hostility to phone mirroring in its electric vehicles.\nWhen the next-generation interface makes its debut on the 2027 Chevrolet Silverado 1500 and 2027 GMC Sierra 1500 later this year, vehicle owners will see a number of changes, including slick new graphics for its advanced driver-assist system, animated transiti …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "d5be9b48426cc57159dc9c59",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+      "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+      "publishedAt": "2026-09-15T08:54:48.000Z",
+      "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers.\nThe September patch Tuesday affected folder shares on Hyper-V-based Linux virtual machines, Remote Desktop Services sessions, and some USB audio devices. Microsoft's out-of-band update, released yesterday, addresses these issues across Windows 11 versions 26h1, 25H2, and 24H2. Microsoft has also released updates for Windows Server 202 …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ed6af874d298d406a6cb64ad",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+      "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible.\nToday, the Swedish automaker revealed the updated PHEV versions of its popular XC60 and XC90 SUVs are its first \"long range plug-in hybrids,\" delivering class-leading ranges of 78 miles and 73 miles, respectively. That's more than double the electric range of previous PHEV variant. The numbers are still preliminary and based on EPA testing standards. But if confirmed, they would m …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "9651cb3dad7d530dc3ba615e",
       "sourceId": "the-verge-tech",
@@ -41,6 +83,48 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c2a81a0dea0ee26801f698b5",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "House of Decay - Official Demo Launch Trailer",
+      "url": "https://www.youtube.com/watch?v=vnXpj0HEgiM",
+      "publishedAt": "2026-09-14T22:00:30.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "vnXpj0HEgiM",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "3e74e47a8674bc622da672e8",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "GTA 6's First Celebrity Voice Actor Confirms Role - IGN Daily Fix",
+      "url": "https://www.youtube.com/watch?v=JIx1HQmCE6s",
+      "publishedAt": "2026-09-14T21:47:13.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "JIx1HQmCE6s",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "d87c4fd5dd42985fc715b0d6",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "The First 27 Minutes of Marvel's Wolverine Gameplay",
+      "url": "https://www.youtube.com/watch?v=3g8Lw2KiI2w",
+      "publishedAt": "2026-09-14T21:31:42.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "3g8Lw2KiI2w",
       "spotifyEpisodeId": null
     },
     {
@@ -114,20 +198,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "8faa4001a5fbe646e495775c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-      "publishedAt": "2026-09-14T19:30:58.000Z",
-      "summary": "Super Mario Odyssey is among the discounted games. | Image: Nintendo\t\n\nAs promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 26th at 8:59 PM PT.\nNintendo games and accessories tend to stick close to their list price, so it’s nice to have some big discounts, especially this far ahead of the holiday season. Some of the company’s best titles for the original Switch are significantly marked down, with a few Switch 2 titles thrown in, too. The most notable inclusions include the Mario Kart 8 Deluxe digital bundle with the Booster Course pass for just under $60 (Amazon, Nintendo), The Legend of Zelda: Tears of the Kingdom for $49 (Amazon, Nintendo, Best Buy), and Animal Crossing: New Horizons with the DLC for $60 (Nintendo). The Switch 2 Editions aren’t currently discounted, but upgrade packs are fairly affordable, costing $9.99 for the Tears of the Kingdom (Amazon) or $4.99 for Animal Crossing: New Horizons (Amazon).\nWe’ve gathered some more of our favorite picks down below, and Nintendo has a dedicated page for all of the discounts.\nThe Legend of Zelda: Tears of the Kingdom (Physical)\nTears of the Kingdom is the latest mainline installment in the Zelda franchise. The storyline and gameplay are similar to Breath of the Wild’s, but enough has changed to make Link’s return to Hyrule plenty special. Read our review.\n\nWhere to Buy:\n\n $69.99 $48.99 at Best Buy\n $69.99 $48.99 at Target\n\nMario Kart 8 Deluxe (Physical)\nMario Kart 8 Deluxe is a popular kart racing game packed with plenty of courses and characters, as well as 48 new tracks if you opt for the paid DLC. \n\nWhere to Buy:\n\n $59.99 $41.99 at Best Buy\n\nNintendo Alarmo\nThe Alarmo takes dozens of characters and scenes from classic Nintendo franchises and places them in a charming alarm clock that’s designed to help you sleep and wake. It uses motion sensors to detect whether you’re still in bed and gets more aggressive the longer you sleep in.\n\nWhere to Buy:\n\n $99.99 $76.99 at Best Buy\n $99.99 $76.99 at Nintendo\n\nNintendo Switch Pro Controller\nThe Switch Pro released alongside the Switch console in 2017, and it’s a tough controller to beat. It offers an unmatched set of features (HD rumble, motion controls, NFC), and it’s one of the most comfortable Switch controllers out there.\n\nWhere to Buy:\n\n $69.99 $55.97 at Amazon\n $69.99 $55.97 at Walmart\n $69.99 $55.99 at Best Buy\n\nMetroid Prime 4: Beyond (Physical)\nMetroid Prime 4 is still a first-person adventure game like prior entries in the series, but this time around, bounty hunter Samus Aran is armed with a motorcycle and a slate of psychic powers. Not all of the new gameplay elements work, but Beyond is a fitting follow-up to what came before, with a lore-heavy story, great combat, and plenty of eerie exploration.\n\nWhere to Buy:\n\n $59.88 $41.97 at Amazon (Switch)\n $59.99 $41.99 at Best Buy (Nintendo Switch)\n $69 $50.99 at Amazon (Switch 2)\n\nKirby and the Forgotten Land (Digital)\nExplore the mysteries of an abandoned civilization in this 3D platformer for the Nintendo Switch. It’s still a Kirby game, with a delightful tone that had us smiling the whole way through. Read our review.\n\nWhere to Buy:\n\n $59.99 $41.97 at Amazon\n $59.99 $41.99 at Best Buy\n\nSuper Mario Odyssey (Physical)\nSuper Mario Odyssey is one of the crowning achievements of the original Switch thanks to its tight platforming, ingenious level design and a game mechanic that lets you control certain enemies and parts of the environment. There are still bosses to battle and coins to collect, but Odyssey feels like a breath of fresh air.\n\nWhere to Buy:\n\n $59.99 $41.97 at Walmart\n $59.99 $41.99 at Best Buy\n $59.99 $41.99 at Target\n\nSplatoon 3 (Physical/Digital)\nSplatoon 3 is proof that Nintendo isn’t done showing off its take on an online shooter—with paint instead of bullets, of course. The game looks great, and has a single player mode that fills out the series’ lore through scrapbook pages you find while navigating and shooting your way through each level. Online multiplayer remains Splatoon’s 3’s big draw, so be prepared to square off against fellow squid kids. Read our review.\n\nWhere to Buy:\n\n $59.99 $41.97 at Amazon\n $59.99 $41.99 at Best Buy\n $59.99 $50.99 at Target",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "85f0524bf5b7ec990c06542f",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -184,20 +254,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "55d9198bf7b4de3450fedc3c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "TIFF 2026: The latest movie reviews from Toronto",
-      "url": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
-      "publishedAt": "2026-09-14T17:30:00.000Z",
-      "summary": "If you want an idea of what’s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for instance, included the likes of both Hamnet and Obsession.\nCovering a sprawling festival like TIFF solo is next to impossible, so I do my best to see as much as I can, and then write about everything with bite-sized reviews published each day. For 2026, that means exciting upcoming films like Your Mother Your Mother Your Mother, The Only Living Pickpocket in New York, and a gigantic Elon Musk documentary, and even a few streaming series, like Crystal Lake and Carrie.\nYou can keep up with my thoughts on everything I watch right here.\nThe four-hour-long Elon Musk documentary might be preaching to the choir\n\t\t\t\nYour Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster\n\t\t\t\nLaika’s stop-motion fantasy Wildwood looks so smooth\n\t\t\t\nNew York City’s last pickpocket doesn’t need a smartphone",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "f632d3b54873ad56572c4830",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -209,20 +265,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4ce03c06841fa8bf1ad442ce",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "macOS 27 is available now",
-      "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
-      "publishedAt": "2026-09-14T17:10:13.000Z",
-      "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final big update for Intel-based Macs last year with macOS Tahoe.\nSiri AI is arguably the biggest feature in macOS 27, and it allows you to ask questions, search through things involving your personal context like photos and emails, and take actions in apps such as Messages and Reminders. There's a new dedicated Siri app that keeps an archive of your chats for easier reference. However, Siri AI will  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "K8bnEYqde08",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "8d3c696d1a0e6974faf2f46f",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Stranger Than Heaven - Official Yu Shinjo Character Trailer",
-      "url": "https://www.youtube.com/watch?v=eCANR05VxNY",
-      "publishedAt": "2026-09-14T13:42:37.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "eCANR05VxNY",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "279f9cd2fb6cbb3fff609a01",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Gears of War: E-Day - Official Adagio Trailer",
-      "url": "https://www.youtube.com/watch?v=S7yNdxbTVio",
-      "publishedAt": "2026-09-14T13:34:46.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "S7yNdxbTVio",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "612ccdf59c4b0e96053f5e65",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Marvel's Wolverine: All Whisky Bottle Locations",
-      "url": "https://www.youtube.com/watch?v=fz8RHMqLT8o",
-      "publishedAt": "2026-09-14T13:00:32.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "fz8RHMqLT8o",
       "spotifyEpisodeId": null
     }
   ]
