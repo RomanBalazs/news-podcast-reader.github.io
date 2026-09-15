@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-09-14T21:31:59.433Z",
+  "generatedAt": "2026-09-15T03:33:00.481Z",
   "items": [
+    {
+      "id": "9651cb3dad7d530dc3ba615e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "publishedAt": "2026-09-15T00:13:47.000Z",
+      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valve designer Pierre-Loup Griffais now tells IGN.\nValve has been clear for years that 1) a Steam Deck 2 will indeed happen, and 2) it's not coming until Valve finds the right chip. The original Steam Deck worked because it delivered the right combination of price, performance, and battery life, and Valve has repeatedly said it won't sacrifice effici …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "16031fa92aaee287d54f4067",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - some dubbed it an outright \"cartel.\" \nThe truth  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f5111fe3c53a090afd57c67a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
+      "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "publishedAt": "2026-09-14T22:28:52.000Z",
+      "summary": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge\t\n\nWith the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it.\nApple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible security cameras saw, along with the clip. It also adds a new video search feature and the ability to stitch footage from multiple cameras into one clip, making it easier to keep an eye on what's happening around your home without scrolling through footage.\nBut to get these features, you'll need to pay $9.99 a month for the 2TB iCloud Plus plan (or $ …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "8ad5696c8fb0f624517350d8",
       "sourceId": "the-verge-tech",
@@ -184,20 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "4575cc59e71a1dd9a4f511fc",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "publishedAt": "2026-09-14T17:08:49.000Z",
-      "summary": "The iOS 27 update arrives just in time for the iPhone 18 Pro release. | Photo by Allison Johnson / The Verge\t\n\nApple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri AI is available as a beta today for English-only devices, and Apple says support for French, Japanese, Korean, Portuguese, and Spanish is coming in October.\nSiri AI isn't the only big feature in iOS 27, though. Apple is adding a new Liquid Glass opacity slider that lets you pick between a clearer UI or a more frosty one. A lot of built-in apps are also getting new icon designs, with subtle twea …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "f264e2edd6e7d6e68a662641",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -223,34 +251,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "nStfDr2L9oY",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "7ce08a5c5b1436f68b8ddbd0",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-      "url": "https://www.theverge.com/tech/994267/steam-frame-review",
-      "publishedAt": "2026-09-14T17:00:00.000Z",
-      "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as similar-looking headsets from Meta.\nYou should not write it off that way. The Steam Frame isn't just a VR headset. It's not even primarily a VR headset. And it's the most comfortable headset I've ever worn. It weighs just over 1 pound (469g) with its optional top head strap attached, and doesn't leave a mark on my face even after hours of use.\nThe Steam Fram …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "26a113a612a0cf24a866b1c0",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Valve’s Steam Frame costs $1,059",
-      "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-      "publishedAt": "2026-09-14T17:00:00.000Z",
-      "summary": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. \nEvery Steam Frame will come with a copy of Half-Life: Alyx, Valve's made-for-VR entry in the Half-Life franchise, and Valve has ported the game to run natively on the headset as well as via streaming.\nHere are the prices for the Frame across several different currencies for the two configurations:\nSteam Frame 256GB: $1,059 / $1,529 CAD / €1,049 / £889 / $1,609 AUD / 4,539 zlotys\nSteam Frame 1TB: $1,29 …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
