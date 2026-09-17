@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-09-16T20:54:31.388Z",
+  "generatedAt": "2026-09-17T03:34:40.073Z",
   "items": [
+    {
+      "id": "b256e3fc3a0d5ef68036fe85",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you manage what needs attention today, so you can make progress toward your longer-term goals.\" Like with other AI assistants, you can also chat with it.\nSpecs Intelligence is being launched alongside Specs, Snap's first consumer pair of augmented reality glasses. But it's also available on iOS today in pre …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9d9878cad7688d9472093f5c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "I wore Snap’s $2,200 smart glasses",
+      "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in front of us on a real table. It was unlike anything I've tried in other VR headsets or smart glasses - the ability to sit with another person and have a shared digital experience.\nSnap really believes in AR glasses. The company has spent more than half a decade developing the technology, producing two generations of glasses that only ever sh …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "d4b91a794bbda4be7da329bc",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "publishedAt": "2026-09-16T20:59:13.000Z",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether.\nThe new film, called Odysseus: The Fall, comes via AI firm Fountain 0 and is written and directed by company cofounder Ash Koosha, who also lent his likeness to the title character and created all of the music. (The film's credits are very short.) The studio's only previous work is an AI film called Dreams of Violets that made it into Tribeca earlier this year. Th …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "2c6e64c56f44fe405fa4f885",
       "sourceId": "the-verge-tech",
@@ -240,20 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "d26f88e63ea5298ec467f778",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The sexy AI-powered dating app scams are here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "publishedAt": "2026-09-16T14:45:00.000Z",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports.\nGore-Kormanik answered the call, but didn't see Jennifer in his video feed. He saw a tapestry that was moving, probably due to a fan, and heard weird distortion in the background. After the call ended, \"Jennifer\" messaged him to say she'd had fun and \"your voice is way better than expected.\" His microphone hadn't even be …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "d11005a5b0c7c18554b55b51",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -265,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "HqWWhi24wWA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "abef1e93da560fabff9900dd",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-      "url": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-      "publishedAt": "2026-09-16T14:44:48.000Z",
-      "summary": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price yet, costing $399 at Amazon and via Xreal itself ($50 off). The small, yet welcome discount brings them a little closer in price to the company’s $299 xbx A01 Plus, which lack a handful of nice-to-have features that make the 1S a better choice for some people.\nThe 1S is among the most affordable pairs of video glasses to have three degrees of freedom, letting you anchor the screen to a spot in your room, as opposed to having the screen jolt around with every little movement of your head. Of note, their 3DoF implementation feels less buggy than competitors. They also have much better sound quality than the A01 Plus and most non-Xreal video glasses, plus electrochromic lenses that have adjustable opacity to let in as much (or as little) light as you wish.\nXreal 1S\n\nWhere to Buy:\n\n $449 $399 at Amazon\n $449.99 at Best Buy\n $449 $399 at Xreal\n\nNot everyone will have a fantastic out-of-the-box experience with the Xreal 1S’ screen clarity. I’m nearsighted, and I needed prescription lenses in order to see things clearly. This model doesn’t offer hardware-based myopia dials like Viture’s $299 Pro 2 does. The Pro 2’s clarity, for me at least, was incredible without lenses, though that pair lacks most of the premium features of the 1S.\n\n\n  window.HYPE_DESK_CONFIG = {\n    productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Dell_Alienware_AW3225QF_Hype_Desk_16x9.jpg\",\n    productImageAlt: \"Alienware 32 4K QD-OLED Gaming Monitor\",\n    productTitle: \"Alienware 32 4K QD-OLED Gaming Monitor\",\n    shortDescription: \"Sharp, fast, and built for serious screen time.\",\n    longDescription:\n      \"4K resolution and 240Hz, without picking one over the other. The 31.6-inch QD-OLED panel pairs sharp 4K detail with a 240Hz refresh rate and a 0.03ms response time for genuinely responsive competitive play. A curved 1700R design, Dolby Vision, and 99% DCI-P3 color coverage make everything on screen feel more immersive, and HDMI 2.1 plus G-SYNC compatibility make it just as strong a fit for consoles as it is for PC.\",\n    purchaseUrl: \"https://www.dpbolvw.net/click-8836598-12839518?sid=VergeHypeDeskArticle56Newsletter3DellAugust2026&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Falienware-32-4k-qd-oled-gaming-monitor-aw3225qf%2Fapd%2F210-blmq%2Fmonitors-monitor-accessories%3Futm_source%3Dchatgpt.com\",\n    purchaseLinkText: \"Shop At Dell\"\n  };\n\n\n\nA few other great Verge-approved deals\nThe latest version of the Beats Pill Bluetooth speaker has returned to $99.99 (originally $149.99) in every color at Amazon, Best Buy, and Target. It doesn’t often go below this sale price, though it has on rare occasion. While it shares the iconic design of past iterations, former Verge audio reviewer Chris Welch said in his 2024 review that this edition is “more than just a lazy remaster.” It includes lossless audio support over USB-C, and its features work natively across Android and iOS. It can work as a speakerphone, and it sports an IP67 rating, granting it robust protection against water and dust. What’s more, it looks nicer than most of its competitors.\nThe Sonos Ace Ultra headphones will launch in just a couple weeks, costing $449. It’s how much you’ll have to pay to get wireless headphones that let you swap audio with almost any other Sonos speaker. If you’re alright with the simpler TV Audio Swap feature, its original Ace headphones might be good enough, and refurbished models are almost $200 less than the Ace Ultra. Sonos is selling refurbished (one-year warranty, and in “good as new” condition) Ace headphones for $279 in white or black. Check out our review to see if these sound like a good fit for you.\nThose who have a Steam Deck or a gaming PC and are interesting in some affordable games should check out this Capcom-themed game bundle builder at Fanatical. You can buy any two games in the list for $12.99, or add more to get deeper discounts per game. The assortment includes fantastic titles, like many of the latest Resident Evil games (excluding Requiem or the RE4 remake), multi-game collections from the Ace Attorney, Mega Man, and Devil May Cry series, and more. It’s a good opportunity to get caught up on a bunch of Steam games, or round out your collection with two extras.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "puReoQo7K0E",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "e572236feb08763e9f98074d",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk.\nWhen people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. \nCharles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
