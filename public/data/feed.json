@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-17T20:58:21.170Z",
+  "generatedAt": "2026-09-18T03:20:14.478Z",
   "items": [
+    {
+      "id": "c284edabd7363c865ae2ff09",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "publishedAt": "2026-09-18T02:00:00.000Z",
+      "summary": "Waymo Ojai fully autonomous ride-hailing vehicle travels along a city street, San Francisco, California, August 20, 2026. (Photo by Smith Collection/Gado/Getty Images) | Gado via Getty Images\t\n\nWaymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion.\nWaymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says it is \"working toward offering fully autonomous ride-hailing to the public\" by 2028. \nWaymo will need approval from Singapore's Land Transport Authority (LTA) before it can begin accepting passengers. The city-state requires all autonomous vehicles to undergo a safety assessment conducted at the  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "d83dce17cf3fb5ed71ad0701",
       "sourceId": "ign-youtube",
@@ -23,7 +37,7 @@
       "title": "The AI Superintelligence Slowdown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "publishedAt": "2026-09-17T19:28:24.000Z",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development.\nTheir motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown.\nWill these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster?\nRead on below for the latest updates in this AI saga.\nKing Charles says AI needs “sufficient means of control before it is all too late.”\n\t\t\t\nMicrosoft AI CEO says AI threats are real, and Anthropic is making it worse\n\t\t\t\nOpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues.\n\t\t\t\nJensen Huang sure is getting cozy with Trump.\n\t\t\t\nA brief history of AI executives calling for regulation\n\t\t\t\nTwo Google Deepmind researchers lend voices to the AI apocalypse.\n\t\t\t\nGuy getting super rich off unfettered AI development says it doesn’t need regulation.\n\t\t\t\nZuck doesn’t want to press pause on AI.\n\t\t\t\nBarack Obama takes the middle way on AI.\n\t\t\t\nIs Big Tech’s AI slowdown a safety pact or a cartel?\n\t\t\t\nWhat execs and politicians are saying about slowing down AI development\n\t\t\t\nMicrosoft says ‘people matter more than AI’ following safety concerns\n\t\t\t\nChina: AI CEOs are “fear mongering.”\n\t\t\t\nSam Altman: Let’s slow down.\n\t\t\t\nIs it time for AI companies to press pause?\n\t\t\t\nSam Altman says OpenAI going public in 2026 would be ‘ill-advised’\n\t\t\t\nAnthropic CEO says it’s time to pump the brakes on AI",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development.\nTheir motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown.\nWill these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster?\nRead on below for the latest updates in this AI saga.\nAnthropic proposes three rules for measuring AI progress.\n\t\t\t\nKing Charles says AI needs “sufficient means of control before it is all too late.”\n\t\t\t\nMicrosoft AI CEO says AI threats are real, and Anthropic is making it worse\n\t\t\t\nOpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues.\n\t\t\t\nJensen Huang sure is getting cozy with Trump.\n\t\t\t\nA brief history of AI executives calling for regulation\n\t\t\t\nTwo Google Deepmind researchers lend voices to the AI apocalypse.\n\t\t\t\nGuy getting super rich off unfettered AI development says it doesn’t need regulation.\n\t\t\t\nZuck doesn’t want to press pause on AI.\n\t\t\t\nBarack Obama takes the middle way on AI.\n\t\t\t\nIs Big Tech’s AI slowdown a safety pact or a cartel?\n\t\t\t\nWhat execs and politicians are saying about slowing down AI development\n\t\t\t\nMicrosoft says ‘people matter more than AI’ following safety concerns\n\t\t\t\nChina: AI CEOs are “fear mongering.”\n\t\t\t\nSam Altman: Let’s slow down.\n\t\t\t\nIs it time for AI companies to press pause?\n\t\t\t\nSam Altman says OpenAI going public in 2026 would be ‘ill-advised’\n\t\t\t\nAnthropic CEO says it’s time to pump the brakes on AI",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
       "publishedAt": "2026-09-17T14:00:00.000Z",
       "summary": "The interface of the Nova plug-in for browsing and loading Nova plug-ins inside your DAW. | Screenshot: Terrence O’Brien / The Verge\t\n\nLunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by Lunacy or a small selection of partner developers. But eventually, the company will launch Nova Builder, which will let anyone build their own plug-ins or remix existing ones. \nThere are 10 plug-ins available initially, covering everything from crunchy chiptunes to warbly vintage synths and evil ambient drones. None of them do anything particularl …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a14d292fc14cf825d64f2a5e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
-      "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "summary": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also joined by a new cheaper alternative called the Bose Sport Open Earbuds designed to provide a more secure and stable fit during physical activities.\nThe Bose Ultra Open Earbuds (2nd Gen) will be available for preorder on September 19th for $299 with availability starting on October 1st. Color options include black, white smoke, cherry chocolate, oli …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
