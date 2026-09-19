@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-19T15:25:07.373Z",
+  "generatedAt": "2026-09-19T20:05:57.216Z",
   "items": [
+    {
+      "id": "4842ff6f10a4ab8073b04769",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Trump treads further on free speech with new journalist bans",
+      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "publishedAt": "2026-09-19T17:10:21.000Z",
+      "summary": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images\t\n\nOn Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalation in the administration's war on the First Amendment.\nPolitico tried to get to the bottom of it, asking why now? It reports that \"many senior [White House] staff were surprised by the directive\" (what's new?), and that it was done \"while chief of staff Susie Wiles was out of town.\" Apparently he's been talked down from this kind of sweeping mov …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "707cd54675a478ef3531781e",
       "sourceId": "the-verge-tech",
@@ -37,7 +51,7 @@
       "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
       "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
       "publishedAt": "2026-09-19T15:00:00.000Z",
-      "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - recorded in person at the American Football house and filled with fuzzy guitars.\nThey're also a band that's terminally online and very plugged into the video game sc …\nRead the full story at The Verge.",
+      "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - written at the American Football house and filled with fuzzy guitars.\nThey're also a band that's terminally online and very plugged into the video game scene as well …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
       "publishedAt": "2026-09-18T18:27:04.000Z",
       "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. \nToday, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D'Amaro, and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI, where he served as CEO for just over a year and oversaw the company's push into microdramas. \nAnand jumping ship to Disney comes as a  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ff51c1d7b575dcf2a6c1bcff",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The real story of the iPhone 18 Pro&#8217;s camera",
-      "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-      "publishedAt": "2026-09-18T17:06:37.000Z",
-      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in group photos. But all I can get anyone to talk about is the software upgrades: it turns out, they're a lot more useful day to day than the aperture on a camera this small.\nThis week on The Vergecast, David Imel and Allison Johnson are here for a deep dive into the iPhone 18 Pro's camera. There's a lot to explore here, from the aperture, to the camera app's …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
