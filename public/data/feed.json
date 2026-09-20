@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-09-20T15:30:09.233Z",
+  "generatedAt": "2026-09-20T20:22:10.897Z",
   "items": [
+    {
+      "id": "fd17e346d79803b886b31d7e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "publishedAt": "2026-09-20T18:50:18.000Z",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is irresponsible.\"\nHe also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam Altman to slow down the development of AI are \"not grounded in science.\" He even argued that there was no need for new rules, laws, or guidelines, in …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f2bb13f42a75f6cf216dee0f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Kojima Productions disputes reports the studio is in trouble",
+      "url": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
+      "publishedAt": "2026-09-20T18:15:10.000Z",
+      "summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors, including missed deadlines, budget and profitability concerns, and its timed exclusivity. \nIn an interview with IGN, Kojima said that, considering the broader state of the industry, which has seen a number of studios close, he was worried about the future of Kojima Productions:\nI know there's a lot of news in the game industry that many studios are closing down,  …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "d1e5f21ed81f6e72d9bc3638",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Escape From Playtime - Official Early Access Release Date Trailer",
+      "url": "https://www.youtube.com/watch?v=HA0J5NgwnHA",
+      "publishedAt": "2026-09-20T17:30:06.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "HA0J5NgwnHA",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ca5518cc8d567246abe0fee0",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "publishedAt": "2026-09-20T15:39:22.000Z",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\"\nIn the rambling post, Trump said that data centers were \"wealthy and prestigious\" and claimed without evidence that they raised salaries, lowered taxes, and made for safer streets in the communities in which they were  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "94eb599fe50d06ee486a95e0",
       "sourceId": "the-verge-tech",
@@ -212,20 +268,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "707cd54675a478ef3531781e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "publishedAt": "2026-09-19T15:25:03.000Z",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. \nAccording to WSJ, Google didn't disclose the hack because it didn't consider it to be an \"example of model misalignment.\" The company said that it was an instance of \"mistaken identity,\" and once the model realized it had brute-forced its way into a real company by guessing a password, it stopped. \"In th …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "0fd391f8313163311fa600af",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -237,34 +279,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "_2aEuVhvNKE",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "2e1a27764a814346efe69a0d",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-      "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "summary": "Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn\t\n\nAnamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - written at the American Football house and filled with fuzzy guitars.\nThey're also a band that's terminally online and very plugged into the video game scene as well …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0a5b797df2e74abc909f9ccd",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The colorful, unique Hyte X50 PC case is $50 off",
-      "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up to 430mm long, which should cover even the biggest options available. The standout feature is a massive curved glass panel that spans the left face and top of the case, giving it a unique, eye-catching look. It’s easy to build in, supports a wide variety of components and cooling setups, and has a thoughtful, refined design.\nHyte X50\n\nWhere to Buy:\n\n $149.99 $99.99 at Hyte\n\nUnlike a lot of cases with big glass panels, the X50 has excellent airflow, with louvered fins along the back for ventilation, a porous mesh front, and plenty of spots for radiators and fans. It comes in a variety of bold colors, too, like the lavender-adjacent “taro milk” and trendy “matcha,” as well as more classic black and white options. If you’d rather opt for something a little more subtle, the X50 Air swaps the glass panel for curved mesh, and is only $79.99 (usually $119.99) from Hyte.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "iCOkPtkXN4Y",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "b2cd3ff0d15954a810e15a44",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Kingmakers - Official Gameplay Deep Dive Trailer",
-      "url": "https://www.youtube.com/watch?v=t-6bubETUsI",
-      "publishedAt": "2026-09-18T23:19:21.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "t-6bubETUsI",
       "spotifyEpisodeId": null
     }
   ]
