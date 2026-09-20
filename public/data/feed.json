@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-19T20:05:57.216Z",
+  "generatedAt": "2026-09-20T03:33:54.764Z",
   "items": [
+    {
+      "id": "84560b2de7594ec0b2c83ad0",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "publishedAt": "2026-09-19T20:44:40.000Z",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. \nThe problem is that Aten says he didn't give Muse access to his messages. When asked how it knew about the contents of his messages, Muse replied, \"I saw the notification previews, not …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "4842ff6f10a4ab8073b04769",
       "sourceId": "the-verge-tech",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "publishedAt": "2026-09-18T18:29:17.000Z",
       "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world.\nExecutive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wo …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9dfc627d36c973d3acbdf612",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "publishedAt": "2026-09-18T18:27:04.000Z",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. \nToday, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D'Amaro, and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI, where he served as CEO for just over a year and oversaw the company's push into microdramas. \nAnand jumping ship to Disney comes as a  …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
