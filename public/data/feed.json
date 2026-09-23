@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-09-22T20:55:25.385Z",
+  "generatedAt": "2026-09-23T03:28:24.700Z",
   "items": [
+    {
+      "id": "a611586c810370cf2bfd7451",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "publishedAt": "2026-09-23T00:17:17.000Z",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\nOn Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with basic questions about what it will actually do, how …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "68d58eb0f6dccb92f2776750",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Paramount will need to release way more movies to make this merger work",
+      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "publishedAt": "2026-09-22T22:26:07.000Z",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in the US, Paramount says that it will release a minimum of 30 movies annually after it absorbs WBD. On paper, these goals make it sound like Paramount is trying to ensure that the entertainment industry won't be harmed by its WBD acquisition. But when you look at the studios' recent output, it seems very much like Paramount CEO Dav …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "e0bdb42099e8fc98ceeb6106",
       "sourceId": "the-verge-tech",
@@ -184,20 +212,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "f41dd89f1548b51b9dd30216",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple is reportedly working on a Whoop-like fitness tracker",
-      "url": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
-      "publishedAt": "2026-09-22T17:04:52.000Z",
-      "summary": "The Whoop MG fitness band. | Photo by Amelia Holowaty Krales / The Verge\t\n\nApple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\"\nThe device is in an early stage of development and likely wouldn't arrive before 2028 if Apple decides to release it, Bloomberg reports. In addition to Whoop's lineup of 5.0 bands, the company also sells MG - or \"medical grade\" - variants with a built-in EKG feature. The bands are designed to be worn continuously, as they offer more than 14 days of battery life.\nAs pointed out by Bloomberg, Apple has  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "1cb53dc0990e4cc2882896c0",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -223,20 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "ojhyjI1Q2KU",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "a7b527b77616ce73cc062f11",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "publishedAt": "2026-09-22T16:34:08.000Z",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\nTo partake in the one-year …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
