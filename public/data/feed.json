@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-09-24T21:11:30.597Z",
+  "generatedAt": "2026-09-25T03:35:49.645Z",
   "items": [
+    {
+      "id": "93628a87bdb228d070a128c3",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Here’s the Tesla Semi… again",
+      "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+      "publishedAt": "2026-09-25T02:12:57.000Z",
+      "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was finally over. \nThe event was held at Tesla's new Semi factory next to Gigafactory Nevada, where the company says it can build 50,000 trucks a year, or 1,000 per week. The purpose was to announce a raft of new (and old) customers for the Semi, including PepsiCo, US Foods, DHL, WattEV, ABF, Einride, IMC, and OK P …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c7b06972c3e94aa7b0267398",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "publishedAt": "2026-09-25T01:25:53.000Z",
+      "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson\t\n\nRemember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. \nWindows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. \"These are not called Copilot Plus PCs,\" Microsoft Surface CVP Brett Ostrom told the publication. \nKedar Kondap, Qualcomm's SVP  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "10c58667e745d7dd716c9240",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "publishedAt": "2026-09-24T23:50:55.000Z",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document showing that the team behind launching Instagram's Teen Accounts in 2024 put in an order for baseball caps that simply said \"a/c priv.\"\nThe lawyers suing Meta argue the Project Nido (an internal name for the Teen Accounts team) swag is part of \"culture of privilege abuse at Meta\" aimed at keeping the re …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "0be9b36b5bf3b93824d42218",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "publishedAt": "2026-09-24T23:42:39.000Z",
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can connect directly to your home Wi-Fi network, and from there to the cloud.\nIf that sounds like a familiar promise, it's probably because Qualcomm promised something similar back in 2023 with the \"S7 Pro sound platform\" and its Expanded Personal Area Network (XPAN) tech, saying that Wi-Fi earbuds can do what Bluetooth alone cannot. Name …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "d95f2c39578cccb62a80e17c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+      "publishedAt": "2026-09-24T22:08:22.000Z",
+      "summary": "Microsoft vice chair and president Brad Smith. | Image: Getty Images\t\n\nMicrosoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year.\nMicrosoft CEO Satya Nadella thanked Shaw \"for everything he has done for Microsoft\" in an internal memo announcing the communications changes. Shaw announced earlier this month that he's leaving Microsoft after nearly three decades supporting the company's communications.\nBrent Colburn,  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "522ebc8a71bf8de49510c377",
       "sourceId": "ign-youtube",
@@ -128,20 +198,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "2a41b2c0aa9f17ceedfa9f25",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "publishedAt": "2026-09-24T17:10:38.000Z",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been making the rounds in the tech industry. Under the hood, though, there are some obvious similarities to the platform that started it all: OpenClaw. \nFor the past week or so, some social media users have alleged that Muse is directly built on OpenClaw. The two platforms use the same names for core files (SOUL.md, memory,  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "487f248a2f6e4b6dbc295809",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -170,34 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "c88bdc2a5f28b98d0e4e8690",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Now Google Chrome shares tabs to new devices that save where you were",
-      "url": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
-      "publishedAt": "2026-09-24T17:00:00.000Z",
-      "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini in Chrome that can analyze more types of media and generate interactive study quizzes.\nChrome has an existing feature that allows you to send a tab from your mobile to a computer (or vice versa) so you can quickly access the same webpage when switching devices. Now, this feature will also remember exactly where you had scrolled to on that tab when you switch, sparing you from having to manually find where  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "edc4cd367fc9458bdc577529",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "publishedAt": "2026-09-24T17:00:00.000Z",
-      "summary": "The fireman outfit. Dead. | Photo by Sean Hollister / The Verge\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.\nLast night, I asked Blorbo - what I named my Muse AI agent - to help me set some health goals. I was underwhelmed. I'd asked for a workout regimen for a sub-30 minute 5K and regaining lost muscle. It generated an okay-ish but kind of mid weekly routine. \nBut then I looked at its face. Based on what it learned about me from my emails, it had morphed into cat-shaped piece of bread with a Kirby-like face. It was so stinking cute,  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "0548b9fd0fc1190400118cf8",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -209,20 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "8vrKfgvS2xg",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "1f65eb6fa32cd17c8030fbc5",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "These smart glasses have been recalled for overheating temples causing burns",
-      "url": "https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update",
-      "publishedAt": "2026-09-24T16:29:31.000Z",
-      "summary": "A company called Inmo that makes several different variations of smart glasses has issued a recall for its Air3 because the left temple \"can overheat during extended use, posing a risk of serious injury or death due to burn hazard.\" To date there have been 10 reports of users experiencing a \"burning sensation to the face and the left side of the ear\" while using the Air3, according to the US Consumer Product Safety Commission (CPSC).\nThe recall includes over 1,600 Air3 glasses sold in the US and Canada between December 2025 and August 2026 through the company's website, Amazon, and a Kickstarter crowdfunding campaign for between $900 and $1 …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -279,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "sX1-Mo8BwUQ",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0ee4e81474da5c30ed6c6b16",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "publishedAt": "2026-09-24T16:04:31.000Z",
-      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have Gemini handle it for you: \nInstead of dialing yourself, just tell Gemini to call on your behalf using the Gemini app on your Pixel. Gemini will call the business, introduce itself, navigate automated phone menus, wait on hold, and handle the conversation with the person on the other end. You remain in control at all times with a live transcript view and the ability  …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
