@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-26T20:40:48.544Z",
+  "generatedAt": "2026-09-27T03:50:36.990Z",
   "items": [
+    {
+      "id": "ce49e7dccc2b4a862c802e94",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "publishedAt": "2026-09-26T21:30:01.000Z",
+      "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input.\"\nTaction argued that Apple's Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the j …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "9f010557531652f2174399ac",
       "sourceId": "the-verge-tech",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
       "publishedAt": "2026-09-25T17:42:59.000Z",
       "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the interviews, Joanna Stern notes that, while phones do not always emit a light, someone does have to hold a phone up in the air, which is itself pretty noticeable.\nOn today's Vergecast, we're talking about Meta Connect, the Muse AI assistant, all the new smart glasses hardware, and Zuckerberg's response to the privacy uproar ar …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "fa550fdf532577808cd10b46",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-      "publishedAt": "2026-09-25T17:23:30.000Z",
-      "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in Auto aperture mode, but it turns out that's not a strict limitation of the iPhone's camera hardware. Apple's SDK allows third-party camera apps to implement more granular control of the aperture.\nBlackMagic Design's well-featured and still completely free BlackMagic Camera app for iOS was one of the first third-party options to introduce  …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
