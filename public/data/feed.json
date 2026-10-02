@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-01T22:22:22.394Z",
+  "generatedAt": "2026-10-02T04:13:07.702Z",
   "items": [
+    {
+      "id": "5a9cbe62833aa7dbcac85a50",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "publishedAt": "2026-10-01T22:51:36.000Z",
+      "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside Apple's rumored smart home hub: \nThey're also building home security products, both first-party and third-party home security products. And the biggest thing is a program called J450. And this is an offshoot and a companion product to the J490 smart home display. And these are little cameras that you can put around your house. They have very low fr …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "824d3f83fb236b55b5f6b107",
       "sourceId": "ign-youtube",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
       "publishedAt": "2026-10-01T14:49:25.000Z",
       "summary": "Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images\t\n\nNew York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you join online, for example, can't make you call or go in person to end your subscription.\nIt's the first municipality to see the rule take effect, after an appeals court struck down a federal version for procedural issues. The city expects it to save New Yorkers anywhere from $21.5 million to $162.5 million annually. And to NYC Depar …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "1dd1abe7e7d262edf1896cb9",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "publishedAt": "2026-10-01T14:36:50.000Z",
-      "summary": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images\t\n\nAt OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we all watched in movies growing up.\" Similar to Muse, Dots aims for disarming cuteness, taking the form of colorful, personalizable blobs with eyes. OpenAI fired shots at Meta by demonstrating Dots' ability to not just act as helpful assistants but build metaverse-esque virtual worlds. But in one key area, Dots strikingly fa …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
