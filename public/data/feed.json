@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-04T04:28:12.248Z",
+  "generatedAt": "2026-10-04T11:49:37.331Z",
   "items": [
+    {
+      "id": "15b7a72b5456c485ad76e8d6",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Fortnite - Official Black Clover Trailer",
+      "url": "https://www.youtube.com/watch?v=TVre1TSKvgU",
+      "publishedAt": "2026-10-03T21:00:14.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "TVre1TSKvgU",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "fa7fa3e0c873b3e14ca60018",
       "sourceId": "ign-youtube",
@@ -321,20 +335,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "DwpvyqXFffA",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "de5f8741d4a1332ff53ed1cf",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "8 Years Isn't Enough: Why This Console Generation Needs to Be Longer - Next-Gen Console Watch",
-      "url": "https://www.youtube.com/watch?v=UBfqubyjkyI",
-      "publishedAt": "2026-10-02T19:00:36.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "UBfqubyjkyI",
       "spotifyEpisodeId": null
     },
     {
