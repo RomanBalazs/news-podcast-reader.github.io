@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-05T23:46:59.454Z",
+  "generatedAt": "2026-10-06T05:02:03.132Z",
   "items": [
+    {
+      "id": "84c775610e760b441994fb1e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "publishedAt": "2026-10-05T23:09:55.000Z",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\" \nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google's AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "e3d2be6582a4cb6693a0f749",
       "sourceId": "ign-youtube",
@@ -41,6 +55,34 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "q3shh0cNq6U",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "b6d2ea9d1b708e651364f47f",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+      "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+      "publishedAt": "2026-10-05T21:17:45.000Z",
+      "summary": "It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboarding in Call of Duty? Or playing the original Halo right in your web browser, complete with multiplayer?  \nThese are unofficial versions of games, so they may sit in a legal gray area. It seems unlikely that Nintendo, for example, is particularly happy about people finding ways to play The Legend of Zelda on non-Nintendo hardware. Many of these projects are also made with the assistance of AI, which, for some people, is a non-starter given ethical or environmental concerns surrounding the technology.\nBelow, you’ll find our coverage of gaming decomps, recomps, and all the other ways gamers are reverse-engineering games to go previously unimaginable places.\nHere’s a video of Half-Life: Alyx running natively on a Vision Pro.\n\t\t\t\nJust think: You could be playing Halo in a web browser right now.\n\t\t\t\nThis unofficial Lego Racers remake runs in your browser with split-screen and online multiplayer.\n\t\t\t\nHow an online community took back the Legend of Zelda",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "6ec9fd210ec531a32056a31b",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+      "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+      "publishedAt": "2026-10-05T21:15:05.000Z",
+      "summary": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. \nWell, sort of - because the Matic wasn't banned to begin with. \nHere's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock model 4DK0008 to its ban waiver list. That allows the FCC to approve these radio products for import, marketing, and sale. \nBut the Matic doesn't need a waiver, because its radios were already approved years ago. The FCC's foreign drone, robot, and router bans only keep future products from getting imported into the United States, not existing o …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -296,20 +338,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "b286ab6d67712816e20df2a3",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
-      "url": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-      "publishedAt": "2026-10-05T15:43:13.000Z",
-      "summary": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with an upgraded Tegra X1+ processor, 3GB of RAM, and 16GB of storage, it sold for $199.99. But starting on October 2nd Nvidia increased its price by $100 to $299.99 as a result of the increased cost of components, according to Ars Technica.\nWhen the Pro model was first announced in 2019 Nvidia also debuted an updated entry-level version of the Shield TV with the same processor but 2GB of RAM and 8GB of storage  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "c6012835d63765ae1634ad88",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,34 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "xNhbcPPQy4I",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9e8de63f4afbc80042ee1c36",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple’s new M6 Mac Mini is over $100 off",
-      "url": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
-      "publishedAt": "2026-10-05T15:08:31.000Z",
-      "summary": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly unchanged 2026 edition starts at $899 — except for right now. You can grab the base model that has 256GB of storage, 16GB RAM, and a 12-core CPU and 12-core GPU for $779.99 at Amazon. This is one of many October Prime Day deals that recently surfaced.\nThis is the first price drop on this model. And, for context on the deal, Best Buy recently restocked the M4 version of the Mac Mini with the same amount of storage (albeit with a less performant processor with fewer cores) for $799. Don’t get that one.\nM6 Mac Mini\nApple’s latest Mac Mini is just as small as the last-gen model, but more powerful. The M6 chip is about 20 percent faster than the M4. Read our review.\n\nWhere to Buy:\n\n $899 $779.99 at Amazon\n\nRead our review of the 2026 Mac Mini.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "4a2088badcceef53ccf7ec25",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
-      "url": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
-      "publishedAt": "2026-10-05T14:42:34.000Z",
-      "summary": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined company will \"fully support the principle and practice of the kind of independent news that CNN has always stood for,\" according to a report from The New York Times. The news comes as part of an announcement detailing the combined company's executive leadership.\nParamount CEO David Ellison will lead the companies - to be called Skydance - alongside former Mattel head Ynon Kreiz. Speculation about what would become of CNN swirle …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     }
   ]
