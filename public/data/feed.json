@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-10T21:12:07.956Z",
+  "generatedAt": "2026-10-11T04:11:34.896Z",
   "items": [
+    {
+      "id": "2ee762e385253d3e55a1b6eb",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "publishedAt": "2026-10-10T22:10:17.000Z",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind \"tamper-proof human readable evidence.\"\nMany of his recommendations align with what we've heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It's on that last point that he appears t …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "7e2295288f0a6b0d09f4f586",
       "sourceId": "the-verge-tech",
@@ -220,20 +234,6 @@
       "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
       "publishedAt": "2026-10-10T11:00:00.000Z",
       "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck.\nThe Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably different from everything else on the market right now. \nIt has a nearly cab-over design, meaning that front-seat passengers sit almost directly over the front axle. It looks a lot like a Japanese kei truck, with a super-short nose and four doors. People stop to stare as we sit at stoplights or roll silently past.\nThe interior is surprisingly spacious, and while the seats are firm, they're n …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f636fc03b7e147c028c45f60",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
-      "url": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
-      "publishedAt": "2026-10-10T11:00:00.000Z",
-      "summary": "Renata Reinsve (top center) and Sebastian Stan (top right) play religious Romanians living in Norway. | FLC Press\t\n\nCristian Mungiu's sixth feature, Fjord, concerns a family on trial. The parents seem like good people, God-fearing. They would never be accused of gentle parenting. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan), and their passel of children. They are an openly religious and proselytizing family. All ought to be well, only Norway in 2026 is extravagantly suspicious of the devout - their famous tolerance reserved for the secular. \nFjord starts quietly and builds subtly. We are with the family as they are introduced to thei …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
