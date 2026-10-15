@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-15T03:21:01.284Z",
+  "generatedAt": "2026-10-15T10:54:22.198Z",
   "items": [
+    {
+      "id": "b260b3f4ef31ca6475cfbe5d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+      "publishedAt": "2026-10-15T10:05:07.000Z",
+      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company's gaming division.\nMicrosoft was named a priority BDS target in June last year over contracts it has with the Israeli military and government, with the boycott specifically calling out Xbox conso …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "052bcf01857ee15c16041fef",
       "sourceId": "ign-youtube",
@@ -332,20 +346,6 @@
       "url": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
       "publishedAt": "2026-10-14T18:20:55.000Z",
       "summary": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when you buy them through the Google Play store. There are a variety of discounts and retailers available, including 20 percent off $50 at Barnes and Noble, 20 percent off $100 at REI, and 10 percent off $100 at GameStop.\nYou don’t need an Android phone or tablet to save, but you’ll need to sign up for a Google Play account if you don’t have one already. In addition to the gift cards, Google is offering discounts on subscriptions like Calm and DuoLingo, as well as bonuses on in-app purchases in games like Pokémon Go and PUBG Mobile.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "2fda53575fe25c18c1b4f138",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon",
-      "url": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
-      "publishedAt": "2026-10-14T17:24:42.000Z",
-      "summary": "It’s like a big Apple Watch for the home. | Image: Apple\t\n\nApple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but deals on new Apple devices ahead of launch are rare.\nApple HomeView\n\nWhere to Buy:\n\n $299 $289.99 at Amazon\n $299 at Apple\n $299 at Best Buy\n\nExpect a full review of the HomeView in November, but my colleague Jennifer Pattison Tuohy spent some brief time with it and likened it to an “iPhone for your home” that looks a bit like an oversized Apple Watch. It features a gorgeous seven-inch square touchscreen that can recognize up to six household members and automatically switch between personalized experiences, displaying information relevant to whoever is using it.\nAs you might already know, the HomeView also doubles as a smart home hub, with support for Matter and Thread. You can use it to control compatible smart home devices, view live feeds and recorded footage from HomeKit Secure Video cameras, and more. It also features a 12-megapixel FaceTime camera for video calls, and doubles as an entertainment device, letting you play music, display photos, and more.\nApple’s AI-powered Siri assistant is another big part of the experience, allowing you to ask questions and get information using personal context from your messages, calendar, and emails. That means you can ask it to find your lost keys, play a song someone texted you, pull up a recipe with step-by-step instructions and built-in timers, or help you keep track of your schedule without having to reach for your phone.\nRead our hands-on impressions.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
