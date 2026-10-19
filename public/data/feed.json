@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-18T20:08:38.560Z",
+  "generatedAt": "2026-10-19T03:23:34.270Z",
   "items": [
+    {
+      "id": "a1749e921b4acc6cf5a96120",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "publishedAt": "2026-10-18T22:20:53.000Z",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols.\nWhile he had unauthorized access to the system, Tyler Harpe conducted 983 searches related to 97 license plates, which were overwhelmingly registered to Hispanic drivers, according to Savannah's local ABC affiliate, WJCL. The Harpes defended their actions, saying they didn't use access for personal reasons and that  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "9aba8a9c2ef797a0ceb82083",
       "sourceId": "the-verge-tech",
@@ -251,20 +265,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "JA9BnMIZ8Ls",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c37820386b174713330d7479",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "TikTok bans Musk documentary account",
-      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "publishedAt": "2026-10-17T19:32:23.000Z",
-      "summary": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images) | AFP via Getty Images\t\n\nJust ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent. Bleecker Street has not yet responded to a request for comment from The Verge.\nWhile TikTok has no official affiliation with Elon Musk, part owner Larry Ellison appears in the film via a text message offering to help Musk fund his Twitter purchase.\nLast month, YouTube, Meta, X, and TikTok all face …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
