@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-10-23T03:30:54.530Z",
+  "generatedAt": "2026-10-23T11:16:21.408Z",
   "items": [
+    {
+      "id": "2c52fc51b78cc451fbcf6751",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "publishedAt": "2026-10-23T10:58:03.000Z",
+      "summary": "The Warhound website calls this “a new breed of dominance.” | Image: Warhound\t\n\nA new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), and it's already secured $200 million in funding from investors.\nWarhound plans to use Colossal's work in genetics, cloning, and animal biology to \"produce healthier dogs with characteristics suited to demanding missions,\" with Anduril then equipping them with its \"advanced cybernetic Augments.\" T …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "7c013fcc8ac081d251a79f85",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "No, the iPhone Duo isn’t a small phone",
+      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "summary": "Don’t be fooled; only one of these is a truly small phone (it’s the iPhone 13 Mini on the left).\t\n\nWhen we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. The Duo is not the small phone we've been looking for.\nI wish it was. I like a small phone. I own an iPhone 13 Mini that I refuse to surrender, even though it barely lasts a full day.\nBut the Duo is thick and heavy. You will feel its weight every time you read an email, scroll Instagram, or put it in your pocket. It is a dense phone, and after a week with the Duo, …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "f792d7de28ae5fa80854e32f",
       "sourceId": "ign-youtube",
@@ -268,20 +296,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "af333a8c5a8e698b8c9ab25c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-      "publishedAt": "2026-10-22T20:23:48.000Z",
-      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims.\nThe agency doesn't say which specific gadgets it blocked, and it didn't immediately respond to our request for comment, but it does name the \"surveillance chip\": it's a HiVision Hi3516CV610 UHD Smart Vision SoC, a chip that turns a raw camera sensor into a home security camera, a dashcam, or the like. It's often s …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "938ec70b301edcceea4c9d02",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -307,20 +321,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "c2y85R-FNcI",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "68cbcbfb07432647bf2b6970",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "publishedAt": "2026-10-22T19:45:00.000Z",
-      "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger!\nThe degree to which you find this merger compelling likely has to do with the degree to which you believe Elon Musk about wanting to go to Mars, or \"spread the light of consciousness,\" as he put it in this week's SpaceX earnings call (and earlier S-1). Now, a reasonably informed person knows that we don't have the technology - or, frankly, even the raw information to build the technology - in order to support human life in space. …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
