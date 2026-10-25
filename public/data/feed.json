@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-25T10:47:30.087Z",
+  "generatedAt": "2026-10-25T15:36:03.347Z",
   "items": [
+    {
+      "id": "218dc9859cf03f6c0b3e81b0",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Monster Hunter Outlanders - Official Keres Skill Overview Trailer",
+      "url": "https://www.youtube.com/watch?v=rDk3jA_nUSw",
+      "publishedAt": "2026-10-25T15:15:11.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "rDk3jA_nUSw",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "471dee8eededeb3575ee98b7",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Dragon Ball Xenoverse 2 - Official 10th Anniversary Free Update Trailer",
+      "url": "https://www.youtube.com/watch?v=Mt-yh2ViUAw",
+      "publishedAt": "2026-10-25T13:52:51.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "Mt-yh2ViUAw",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "cd4582af44d55cc238d1aa10",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "publishedAt": "2026-10-25T13:25:32.000Z",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\"\nThe new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as \"software that incidentally has accessibility features that use AI,\" including  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "68d6b66e4f9d88faa0b6bed5",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "publishedAt": "2026-10-25T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "b6749544f5c83abd335d35e9",
       "sourceId": "ign-youtube",
@@ -212,20 +268,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "464f6a932c19d174c7b9920c",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "It’s time to find a new browser",
-      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-      "publishedAt": "2026-10-24T12:00:00.000Z",
-      "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.)\nThis week, I've been reading about Demis Hassabis and computer chips and permafrost, enjoying the first episodes of Machine Gods, filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password, making tiny documents with Tiny Little O …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "134f2fea25cf706daa1ee7fc",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "bxZh6pAj0p8",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0635ad7cd2683b88bb47a49b",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "4:AM - Official Release Date Trailer",
-      "url": "https://www.youtube.com/watch?v=qZJQlYxq3j0",
-      "publishedAt": "2026-10-23T22:00:09.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "qZJQlYxq3j0",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "fcc85a47300595875199eb45",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "publishedAt": "2026-10-23T21:39:26.000Z",
-      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July.\nXbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. \"Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well,\" said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "bc523789fab8ed9b77f377e5",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "We got to play 4 games from TiMi Studios. Presented by @timistudiogroupofficial",
-      "url": "https://www.youtube.com/shorts/-z4xjXgR-8Y",
-      "publishedAt": "2026-10-23T21:01:18.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
