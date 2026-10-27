@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-26T22:19:15.914Z",
+  "generatedAt": "2026-10-27T03:50:09.212Z",
   "items": [
+    {
+      "id": "c1c651df37426ca1370c9b6a",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "publishedAt": "2026-10-26T23:34:58.000Z",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations. \nOpenAI results added to GitHub today:\nLocal smoothing for the Euclidean wave equation. The proof uses an auxiliary par …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "e0cff8747bb5a56baacaf4bd",
       "sourceId": "ign-youtube",
@@ -262,20 +276,6 @@
       "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
       "publishedAt": "2026-10-26T17:00:00.000Z",
       "summary": "The bezels aren’t that noticeable with other watchfaces, but some things don’t change.\t\n\nLast week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I assume most people aren't thinking about fitness trackers or gadgets while watching that scene. But in that moment, I couldn't help but think about the Fitbit Edge on my wrist.\nThe $179.99 Edge is a modernized version of the 2014-to-2020 era of fitness bands - your Charges, your Altas, your Inspires. If you've ever owned one, you already know the va …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "b1a6b7c9873bdd6c38228afe",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
-      "url": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
-      "publishedAt": "2026-10-26T16:45:00.000Z",
-      "summary": "With only minor changes, the XM4C is more of a re-release than a refresh of the XM4.\t\n\nWhen Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one that came out in 2020. Beyond a few minor tweaks, though, the XM4C are remarkably similar to their six-year-old namesake, the beloved WH-1000XM4. They even use the same processor for active noise cancellation (ANC).\nAnd while I went into this review questioning the XM4C's existence, after spending some time with them, I get it. The Sony XM4C aren't the cutting edge of headphone technology, but they are great headphones that I  …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
