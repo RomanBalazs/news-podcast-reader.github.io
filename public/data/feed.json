@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-27T21:51:00.818Z",
+  "generatedAt": "2026-10-28T04:09:14.569Z",
   "items": [
+    {
+      "id": "b52d63b9bc4bc4e44329afa2",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "publishedAt": "2026-10-27T22:55:05.000Z",
+      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing on the right side of the display. On Monday, Apple acknowledged an \"issue\" and said it's replacing damaged units, without going into much detail about how many broken phones have been reported so far.\nSo what's actually going on?\nShahram Mokhtari, the lead teardown technician at iFixit, has actually taken apart the iPhone Duo and  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "51d344fa532cad6d647bccd2",
       "sourceId": "ign-youtube",
@@ -251,20 +265,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "HKB6lIGVpQs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "41c0add5b1a9af4d2ff06612",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "publishedAt": "2026-10-27T16:00:00.000Z",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model.\nGoogle is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
