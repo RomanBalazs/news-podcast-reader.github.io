@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-10-31T16:51:30.065Z",
+  "generatedAt": "2026-10-31T21:00:35.767Z",
   "items": [
+    {
+      "id": "468ee2b9ce9404ec506fc0e7",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Keyboards of The Verge",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "publishedAt": "2026-10-31T19:30:00.000Z",
+      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard.\nWe've written about many keyboards over the years, from the legendary Optimus Maximus to the ultra-luxe Seneca to even stranger fare. But I wanted to know what my coworkers actually use. As I'd hoped, there's a wide range. Some of us are strictly utilitarian, optimizing for ergonomics or functionality. Others obsess over every detail of feel, sound, layout, and looks. Still oth …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "d441f8af484e1a0105f537ef",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "publishedAt": "2026-10-31T18:40:32.000Z",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less liquid\" tokens, which the company says may take longer to acquire. \nThe company also said in a post on X that, while withdrawals remain paused, they're on track to be enabled on Sunday.\nOur commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will co …\n\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "801350caf9306e4239358e03",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Happy Pikmin Day Eve",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "publishedAt": "2026-10-31T17:50:12.000Z",
+      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts.\nPlayers will be able to use the Switch 2's built-in microphone to issue voice commands to Oatchi, the space dog. Pikmin 4 will also have a Dandori Academy mode that will test players' skills in specific challenges. There will be limited tests on Friday, Saturday, and Sunday, complete with leaderboards where players can compare stats. Pi …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "b0643efe9d55eab89edf17ff",
       "sourceId": "the-verge-tech",
@@ -240,34 +282,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "804e1b9c6ba2bdf70bb22680",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-      "publishedAt": "2026-10-30T21:01:32.000Z",
-      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instrument that offer some details about its feature set. \nWhile the Sample Key shares many of the same controls as the MPC Sample - including the three context-sensitive encoders, a large main encoder - it seems designed for pitched sample playback, rather than chopping up drums. In fact, the \"chop\" button from the MPC Sample is m …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "921e5106e296e1c4f56c084a",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "publishedAt": "2026-10-30T20:48:43.000Z",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said:\n\"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it's quite terrible to have everybo …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "2ce790bc0c5bba4faacb0d2f",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -279,20 +293,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "13d0a0cdc25ceac832f5b047",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "publishedAt": "2026-10-30T20:26:10.000Z",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.\nThe shared \"policy token\" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file, which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
