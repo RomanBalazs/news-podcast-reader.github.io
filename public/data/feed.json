@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-01T04:33:37.176Z",
+  "generatedAt": "2026-11-01T12:43:02.669Z",
   "items": [
+    {
+      "id": "a994ae97da80a14bd4fc0cc3",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Bill Bailey concludes his adventures in the final episode of Planet Azeroth! #sponsored",
+      "url": "https://www.youtube.com/shorts/8_-7lT1h318",
+      "publishedAt": "2026-11-01T10:00:34.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "bba4f1f2ff1df41261e5cb64",
       "sourceId": "the-verge-tech",
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "jzAf7NwOcko",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c5913a1496b28a2c0ee19b29",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "World of Warcraft: Forever | Planet Azeroth EP. 2 (ft. Bill Bailey)",
-      "url": "https://www.youtube.com/watch?v=LiMslP8HfWY",
-      "publishedAt": "2026-10-30T16:00:06.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "LiMslP8HfWY",
       "spotifyEpisodeId": null
     }
   ]
