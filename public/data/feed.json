@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-11-02T04:36:22.018Z",
+  "generatedAt": "2026-11-02T14:50:17.191Z",
   "items": [
+    {
+      "id": "0b776888cb5396b19f02b233",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Phantom Blade Zero - Official Path Tracing & DLSS 4.5 Showcase Trailer",
+      "url": "https://www.youtube.com/watch?v=FsD41lDm8Ik",
+      "publishedAt": "2026-11-02T14:29:06.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "FsD41lDm8Ik",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c7f06dcd98bea853a991dd5d",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+      "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+      "publishedAt": "2026-11-02T14:07:22.000Z",
+      "summary": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120 and now costs more than triple that price. The 16GB versions of the Raspberry Pi Compute Module 5 also got a $40 price hike and now cost between $375 and $415.\nAccording to Raspberry Pi CEO Eben Upton, these price hikes were driven specifically by a lack of \"alternative supply\" for 16GB DRAM, on top of shortages for other components. Upton says, \"Though these increases are unavoidable, we know they are unwelcome news for our customers. We encourage you to make …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "a7428fd84e7f540197c269bf",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+      "url": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+      "publishedAt": "2026-11-02T14:05:34.000Z",
+      "summary": "SpaceX has discussed a deal with Boost Mobile to launch its own service through the budget-friendly carrier, according to a report from The Washington Post. The deal, which comes as SpaceX aims to make Starlink a \"major\" mobile carrier, reportedly involves the Elon Musk-owned company acquiring Boost Mobile or accessing its network.\nMusk discussed the potential agreement with Charlie Ergen, chairman of Boost Mobile parent company EchoStar, last month, as reported by The Washington Post. Boost Mobile's network is currently powered by T-Mobile and AT&T, meaning SpaceX may need permission from the two carriers to launch its service.\nNeither  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "91c1f3d8e6134b3b770a021e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Affinity’s creative studio is now available on iPad for free",
+      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "summary": "Canva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesn't have to cost them a thing. After relaunching the Affinity creative suite as an all-in-one desktop app last year, Canva has now introduced Affinity for iPad, which provides the same pro-grade tools for vector graphics, photo editing, illustration, and page layouts in a format optimized for Apple Pencil and touchscreens.\nAffinity for iPad has a new Sketch Studio that's designed for freehand drawing and simplifying sketch-to-vector workflows, including optimized tools for masking and automatically converting rough sketches into cle …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "e10a5bea21621bcfef73d5fa",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "More European supermarkets are getting their freezers hacked",
+      "url": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
+      "publishedAt": "2026-11-02T13:00:35.000Z",
+      "summary": "Employees at an ICA Kvantum supermarket in Sjoebo, Sweden, unload spoiled food from the freezer units. | Image: Johan Nilsson / TT News Agency / AFP via Getty Images\t\n\nGrocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg, and Estonia were affected, according to local reports shared by Bloomberg and Reuters.\nOne Ica Kvantum store in Sweden said on its Facebook page that its fridges and freezers had been hacked overnight, with temperatures remotely raised to 50 degrees Celsius (122 Fahrenheit). In a statement to Business Insider, a spokesperson at Swedish supermarket chain Coop also confirmed that \"unauthorized actors were able to access and …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "c417fbc79417a67c608fed0c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Jackery made its portable power stations even smaller",
+      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "publishedAt": "2026-11-02T05:00:00.000Z",
+      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. Its size and 96Wh (30,000mAh) of battery capacity means you can squeeze it into your carry-on and power multiple devices during a long flight.\nThe Jackery Explorer 100D will be available starting November 15th through Walmart for $99. The power station is already available from Costco if you don't want to wait, …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "1ffc4878fdc19b381114805b",
       "sourceId": "the-verge-tech",
@@ -23,7 +107,7 @@
       "title": "Flock keeps ignoring requests to cancel its contracts",
       "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
       "publishedAt": "2026-11-01T19:58:02.000Z",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city had received no acknowledgment from the company. So, Police Chief Eric Fadden took matters into his own hands and physically disconnected the cameras.\n\"After hearing nothing for more than a week, I directed our staff to disconnect the power cords from the cameras in order to be sure that they are not functioning  …\nRead the full story at The Verge.",
+      "summary": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images\t\n\nWhile more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city had received no acknowledgment from the company. So, Police Chief Eric Fadden took matters into his own hands and physically disconnected the cameras.\n\"After hearing nothing for more than a week, I directed our staff to disconnect the power cords from the cameras in order to be sure that they are not functioning  …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
@@ -128,20 +212,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "fdadf403b0a5110ffc2a62b3",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "publishedAt": "2026-11-01T14:00:00.000Z",
-      "summary": "Apple’s second-generation HomePod Mini is a nice upgrade, but the biggest improvement hasn’t arrived yet. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nWhen I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than the original, which launched at $99, Apple didn't even upgrade the sound system. It felt like the company phoned this one in.\nNow that I've got my hands on a couple and set them up in my home office, I'm more enthused. The Mini 2 is so much faster than the first-gen Mini, playing music in a few seconds and responding to smart home commands just as …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "1fcd74a7a13cbca299cf45de",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -156,34 +226,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "7bc186a208843721d4a3291e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "publishedAt": "2026-11-01T13:00:00.000Z",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nThe two biggest games of 2026 are set to launch just a few weeks apart in November.\nOn the one side you have the behemoth that is Grand Theft Auto VI, an experience 13 years in the making, and the sequel to one of the best-selling games in history. Its predecessor, GTA V, has sold a staggering 230 million copies since it launched in 2013, and was re-released …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "0ab0edef2cf0e43f560ac0c2",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "publishedAt": "2026-11-01T13:00:00.000Z",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn.\nProposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponents say passing the measure would help alleviate the state's housing shortage and meet rising electricity demand with new renewable energy projects. Environmental groups and some legal experts, however, warn that data center developers backing the pr …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "a994ae97da80a14bd4fc0cc3",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -195,34 +237,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "bba4f1f2ff1df41261e5cb64",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Get in the spooky spirit with these horrors from YouTube",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "publishedAt": "2026-10-31T21:06:58.000Z",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or classic viral clips, you're bound to find something below that will get you in the Halloween spirit.\n\nPossibly in Michigan\nThis 1983 short film from Cecelia Condit found its audience over 30 years later when it was uploaded to YouTube and eventually found its way to Reddit. If you've ever wondered what a feminist mu …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "468ee2b9ce9404ec506fc0e7",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Keyboards of The Verge",
-      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "publishedAt": "2026-10-31T19:30:00.000Z",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard.\nWe've written about many keyboards over the years, from the legendary Optimus Maximus to the ultra-luxe Seneca to even stranger fare. But I wanted to know what my coworkers actually use. As I'd hoped, there's a wide range. Some of us are strictly utilitarian, optimizing for ergonomics or functionality. Others obsess over every detail of feel, sound, layout, and looks. Still oth …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -335,20 +349,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "e3Pxf2yurKs",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "d345bdaf24fbc8cbca247a92",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Phantom Blade Zero - Official Boss Fight Gameplay & Theme Song: Heart Lake (Vocals by Jane Zhang)",
-      "url": "https://www.youtube.com/watch?v=9k1842H5uwg",
-      "publishedAt": "2026-10-30T22:07:28.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "9k1842H5uwg",
       "spotifyEpisodeId": null
     }
   ]
