@@ -1,6 +1,76 @@
 {
-  "generatedAt": "2026-11-12T23:14:58.232Z",
+  "generatedAt": "2026-11-13T05:13:29.446Z",
   "items": [
+    {
+      "id": "88a61acf4993cdabf9f056b4",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "publishedAt": "2026-11-13T00:46:07.000Z",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim Cook, who stepped down from leading the company on September 1st and moved into an executive chairman role.\nShortly after Huang's resignation was announced today, Trump posted his idea about Cook on Truth Social: \"NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9f1d4296819e9207a56bf64c",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "publishedAt": "2026-11-13T00:11:44.000Z",
+      "summary": "A screenshot from Wolfenstein II: The New Colossus.\t\n\nIt's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel.\nIn a post, Xbox CEO Asha Sharma announced the name and a photo of a script. \"Looking forward to sharing more,\" she said. MachineGames also announced the game in a post, saying the game is \"in production\" and sharing a photo from a motion-capture session. IGN reports that Brian Bloom (who plays protagonist William  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "f461fcee705634915bdc19c2",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "publishedAt": "2026-11-12T23:43:22.000Z",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts.\nWhoop claims its platform is \"entirely human,\" unlike other social media platforms that are \"saturated with artificial intelligence, automated accounts and bots, and manufactured content.\"\nWhoop CEO Will Ahmed says Humans is \"the most verifiably human network ever launched. Every account represents a real person with a verified …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "ade1750c22758e1de14470c3",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "publishedAt": "2026-11-12T23:30:52.000Z",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer for the publication said that they had set up two-factor verification on the old version of the site.\nHowever, it does appear that, at least as of now, there is some form of two-factor verification. When I tried logging into my Humble Bundle account while writing this article, I was prompted to check my email for …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "9df5e996fdce533233dec23e",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Microsoft Outlook is still down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "publishedAt": "2026-11-12T23:24:13.000Z",
+      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors.\"\nThere were also some reports of problems with Teams, but not to the same extent, while Microsoft's official updates said customers may experience issues across its suite of 365 business services. Microsoft comms director Ben Hope said in  …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "cd6fa8d6a36db75ebe018add",
       "sourceId": "the-verge-tech",
@@ -170,20 +240,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "9df5e996fdce533233dec23e",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Microsoft Outlook is down",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "publishedAt": "2026-11-12T20:43:02.000Z",
-      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors.\"\nThere were also some reports of problems with Teams, but some of the people reporting issues say Teams is still working now.\nNow, as of 3:30PM ET, Microsoft says:\nWhile we haven't identified any recent changes that correlate with the start of impact,  …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "79a150d7d3ffb150c588fe09",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -209,34 +265,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "46iBb-vTRGw",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "9748127a32f3d723fd19ab67",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Meet the people who want peptides to be made in America",
-      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
-      "summary": "The SS Jeremiah O’Brien, a WWII ship/peptide party location. | Photo: Haus Fund﻿\t\n\nThis is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here.\nThe SS Jeremiah O'Brien is a World War II Liberty ship. The hulking vessel was built in 56 days. It made 11 trips to Normandy, France, to supply the Allied powers in the fight against German U-boats. Last week, it was the site of a black-tie peptide party thrown by a trio of Gen Z venture capitalists.\nRoughly 150 people attended the event, where four types of  …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ad0d04422e6783bb6eca037a",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "publishedAt": "2026-11-12T19:42:40.000Z",
-      "summary": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti\t\n\n Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at.\n\nLocal communities are often already well aware of sites in their area.\n\nMiotti said the idea to use AI to sea …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
@@ -296,20 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "074e059fe93643eafde166d7",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "publishedAt": "2026-11-12T18:06:54.000Z",
-      "summary": "The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images\t\n\nI had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold.\nLast week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" that enabled a glorious 100-year Trumpenreich. That freed up a lot of assholes to say what they actually thought. Except Donald Trump's victory was, in fact, narrow, and two years of his corrupt policies have enraged Americans.\n\"I've been a Democrat my whole life. I grew up in a far left environment. I know more about being a progressive than almost anybody …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "1a3f6378c92d373a4cee2479",
       "sourceId": "ign-youtube",
       "sourceName": "IGN YouTube",
@@ -321,20 +335,6 @@
       "imageUrl": null,
       "category": "gaming",
       "youtubeVideoId": "N6zNM5DY2jY",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "96c80b87105c6bace0e15890",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "publishedAt": "2026-11-12T17:44:33.000Z",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi.\nThen two stories were published nearly back to back on Wednesday: one alleging Huang had an affair with his subordinate Kimberly Powell, another that the board was meeting to consider his ouster. First thing Thursday morning, Nvidia announced Huang had resigned. One of the most powerful men in Silicon Valley was out.\n\nWhy throw Huang under …\n\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
       "spotifyEpisodeId": null
     },
     {
