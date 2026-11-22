@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-21T22:47:29.557Z",
+  "generatedAt": "2026-11-22T05:15:03.125Z",
   "items": [
+    {
+      "id": "197e5bcdeb7b836fb665a83c",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Don't miss these items from GTA 6 chapter 1!",
+      "url": "https://www.youtube.com/shorts/ssN0USivlkk",
+      "publishedAt": "2026-11-22T01:53:50.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "62d788eb987ed5772409aed5",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Worms: Galactic Tactics - Official Gameplay Overview Trailer",
+      "url": "https://www.youtube.com/watch?v=oNjLX8R0--0",
+      "publishedAt": "2026-11-22T01:00:38.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "oNjLX8R0--0",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "0f8fa872f914e7477b59a284",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Hell Let Loose - Official Lake Balaton Update 22 Teaser Trailer",
+      "url": "https://www.youtube.com/watch?v=m2cFHvp3EV0",
+      "publishedAt": "2026-11-22T00:00:37.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "m2cFHvp3EV0",
+      "spotifyEpisodeId": null
+    },
+    {
+      "id": "137f1c9036f4919714108148",
+      "sourceId": "ign-youtube",
+      "sourceName": "IGN YouTube",
+      "type": "video",
+      "title": "Heroes of Might and Magic 3 Remake - Official Closed Playtest Trailer",
+      "url": "https://www.youtube.com/watch?v=9Snwgs6IH0o",
+      "publishedAt": "2026-11-21T23:00:24.000Z",
+      "summary": null,
+      "imageUrl": null,
+      "category": "gaming",
+      "youtubeVideoId": "9Snwgs6IH0o",
+      "spotifyEpisodeId": null
+    },
     {
       "id": "d829e0b262990bacc29cd84a",
       "sourceId": "ign-youtube",
@@ -268,20 +324,6 @@
       "spotifyEpisodeId": null
     },
     {
-      "id": "4877c3c427edbe8b3600005a",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Darkest Dungeon 2: The Butcher's Asylum - Official Gameplay Trailer",
-      "url": "https://www.youtube.com/watch?v=JGtFAIw-00U",
-      "publishedAt": "2026-11-21T13:00:11.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "JGtFAIw-00U",
-      "spotifyEpisodeId": null
-    },
-    {
       "id": "98fc271d856ebd3fef1fbfbe",
       "sourceId": "the-verge-tech",
       "sourceName": "The Verge",
@@ -307,48 +349,6 @@
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "f4d3b9de38cc17e937326e58",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Early fighter jet location in GTA 6",
-      "url": "https://www.youtube.com/shorts/idpGnMXQVW8",
-      "publishedAt": "2026-11-21T03:12:29.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "7e9bd25ca02553091dc4f9f8",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Wuthering Waves: Embers of the Everbright - Official Gameplay Reveal",
-      "url": "https://www.youtube.com/watch?v=k8X8Gt5KhKI",
-      "publishedAt": "2026-11-21T03:00:14.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "k8X8Gt5KhKI",
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "c13f6e714afcfca637aaa7c6",
-      "sourceId": "ign-youtube",
-      "sourceName": "IGN YouTube",
-      "type": "video",
-      "title": "Dexter's apartment and kill room in GTA 6",
-      "url": "https://www.youtube.com/shorts/rutbTvubt-U",
-      "publishedAt": "2026-11-21T02:44:10.000Z",
-      "summary": null,
-      "imageUrl": null,
-      "category": "gaming",
-      "youtubeVideoId": "",
       "spotifyEpisodeId": null
     }
   ]
