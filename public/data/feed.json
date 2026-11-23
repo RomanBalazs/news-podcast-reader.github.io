@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-22T23:16:24.115Z",
+  "generatedAt": "2026-11-23T05:54:13.855Z",
   "items": [
+    {
+      "id": "ddd0c5a2b4778a0cb5bbd739",
+      "sourceId": "the-verge-tech",
+      "sourceName": "The Verge",
+      "type": "article",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "publishedAt": "2026-11-23T03:00:00.000Z",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step further. It also functions as a Bluetooth tracker that's compatible with either Apple's Find My or Google's Find Hub tracking networks.\nThe Kodak SlideTag will be available for $34.99 each and, like the Charmera, will feature a series of retro designs distributed in mystery boxes so you don …\nRead the full story at The Verge.",
+      "imageUrl": null,
+      "category": "tech",
+      "youtubeVideoId": null,
+      "spotifyEpisodeId": null
+    },
     {
       "id": "026341fe9b6d10eea3b050bd",
       "sourceId": "the-verge-tech",
@@ -234,20 +248,6 @@
       "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
       "publishedAt": "2026-11-22T13:15:27.000Z",
       "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungry, constantly dirty creature. Until they went to school, anyway, at which point their parents were given some new responsibilities they neither asked for nor wanted.\nOn this episode of Version History, we dig deep into the story of the Tamagotchi. That story has its 30th anniversary this week, even though the real craze only lasted a few years. David Pierce is joined by The Verge's Mia …\nRead the full story at The Verge.",
-      "imageUrl": null,
-      "category": "tech",
-      "youtubeVideoId": null,
-      "spotifyEpisodeId": null
-    },
-    {
-      "id": "ad64d62e16726fa9bf3b43d8",
-      "sourceId": "the-verge-tech",
-      "sourceName": "The Verge",
-      "type": "article",
-      "title": "Your questions about Apple HomeView’s audio, answered",
-      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "publishedAt": "2026-11-22T13:00:00.000Z",
-      "summary": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge\t\n\nAfter I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way. Here are the answers to all your burning questions. Have more? I'll answer them in the comments.\nHow does the HomeView sound compared to the HomePod Mini, Sonos One, and HomePod?\nThe HomeView isn't a replacement for a Sonos One, a full-size HomePod, or a similar-size speaker. Those are much better speakers. In size and sound, the HomeView is clos …\nRead the full story at The Verge.",
       "imageUrl": null,
       "category": "tech",
       "youtubeVideoId": null,
